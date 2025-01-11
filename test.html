@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Word Review</title>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        .drop-zone {
+            border: 2px dashed #ccc;
+            padding: 20px;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .word-container {
+            border: 1px solid #ccc;
+            padding: 10px;
+            margin-bottom: 10px;
+        }
+
+        .word {
+            font-weight: bold;
+            font-size: 18px;
+        }
+
+        .translation,
+        .example {
+            margin-left: 10px;
+        }
+
+        .audio-button {
+            margin-left: 10px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Word Review</h1>
+    <div class="drop-zone" id="dropZone">
+        Drag and drop the word list file here or click to upload.
+        <input type="file" id="fileInput" style="display: none;">
+    </div>
+    <div id="wordList"></div>
+
+    <script>
+        const dropZone = document.getElementById('dropZone');
+        const fileInput = document.getElementById('fileInput');
+        const wordListContainer = document.getElementById('wordList');
+
+        const generateExampleSentence = (word) => {
+            return `I use the word [${word}] in a sentence.`;
+        };
+
+        const generatePhonetics = (word) => {
+            return `/ˈ${word.substring(0, 3)}ˌ.../`;
+        };
+
+        const playText = (text) => {
+            const utterance = new SpeechSynthesisUtterance(text);
+            speechSynthesis.speak(utterance);
+        };
+
+        const createWordCard = (word, translation) => {
+            const phonetics = generatePhonetics(word);
+            const exampleSentence = generateExampleSentence(word);
+
+            const wordCard = document.createElement('div');
+            wordCard.classList.add('word-container');
+
+            wordCard.innerHTML = `
+                <div>
+                    <span class="word">${word}</span>
+                    <span class="phonetics">${phonetics}</span>
+                    <button class="audio-button" onclick="playText('${word}')">🔊 Pronounce</button>
+                </div>
+                <div class="translation">
+                    Translation: ${translation}
+                </div>
+                <div class="example">
+                    Example: ${exampleSentence}
+                    <button class="audio-button" onclick="playText('${exampleSentence}')">🔊 Pronounce</button>
+                </div>
+            `;
+            return wordCard;
+        };
+
+        const handleFile = (file) => {
+            const reader = new FileReader();
+            reader.onload = (event) => {
+                const content = event.target.result;
+                const lines = content.split('\n');
+                wordListContainer.innerHTML = ''; // Clear the container
+
+                lines.forEach((line) => {
+                    const [word, translation] = line.split(/\s+/).map((item) => item.trim());
+                    if (word && translation) {
+                        const wordCard = createWordCard(word, translation);
+                        wordListContainer.appendChild(wordCard);
+                    }
+                });
+            };
+            reader.readAsText(file);
+        };
+
+        dropZone.addEventListener('click', () => fileInput.click());
+        fileInput.addEventListener('change', (event) => handleFile(event.target.files[0]));
+
+        dropZone.addEventListener('dragover', (event) => {
+            event.preventDefault();
+            dropZone.style.backgroundColor = '#f0f0f0';
+        });
+
+        dropZone.addEventListener('dragleave', () => {
+            dropZone.style.backgroundColor = '';
+        });
+
+        dropZone.addEventListener('drop', (event) => {
+            event.preventDefault();
+            dropZone.style.backgroundColor = '';
+            const file = event.dataTransfer.files[0];
+            if (file) {
+                handleFile(file);
+            }
+        });
+    </script>
+</body>
+
+</html>
