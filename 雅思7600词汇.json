@@ -1,0 +1,5660 @@
+[
+    {
+        "word": "accent",
+        "phonetic": "['ˈæksənt']",
+        "meaning": "n.腔调v.重读",
+        "example_sentence": "She has a lovely British accent.\""
+    },
+    {
+        "word": "account",
+        "phonetic": "/əˈkaʊnt/",
+        "meaning": "n.账目v.说明",
+        "example_sentence": "I need to check my bank account to see how much money I have left.\""
+    },
+    {
+        "word": "ache",
+        "phonetic": "/eɪk/",
+        "meaning": "v.觉得疼n.疼痛",
+        "example_sentence": "I have a headache and my legs ache after standing all day.\""
+    },
+    {
+        "word": "across",
+        "phonetic": "[əˈkrɒs]",
+        "meaning": "prep.横越adv.横穿",
+        "example_sentence": "I walked across the street to get to the store."
+    },
+    {
+        "word": "act",
+        "phonetic": "[ækt]",
+        "meaning": "n.行为，法令v.表演",
+        "example_sentence": "She is going to act in a school play this weekend."
+    },
+    {
+        "word": "additive",
+        "phonetic": "[ˈædɪtɪv]",
+        "meaning": "adj.附加的n.添加剂",
+        "example_sentence": "I try to avoid foods with additives because they're usually not good for your health.>\""
+    },
+    {
+        "word": "address",
+        "phonetic": "/əˈdrɛs/",
+        "meaning": "n.地址v.致词",
+        "example_sentence": "I need to update my address with the post office.>\""
+    },
+    {
+        "word": "adult",
+        "phonetic": "/ˈædʌlt/\n例句: <As an adult, you have the freedom to make your own decisions.>",
+        "meaning": "n.成年人adj.成年的",
+        "example_sentence": "As an adult, you have the freedom to make your own decisions."
+    },
+    {
+        "word": "advance",
+        "phonetic": "/ədˈvæns/",
+        "meaning": "n.v.前进",
+        "example_sentence": "I heard you're getting an advance on your paycheck, that's awesome!>\""
+    },
+    {
+        "word": "African",
+        "phonetic": "/ˈæfrɪkən/",
+        "meaning": "adj.非洲的n.非洲人",
+        "example_sentence": "I met an African student at the university yesterday.>\""
+    },
+    {
+        "word": "aggregate",
+        "phonetic": "/ˈæɡrɪɡət/",
+        "meaning": "v.&n.&adj.合计(的)",
+        "example_sentence": "In our family, we always aggregate our pocket money to buy gifts for our parents.>\""
+    },
+    {
+        "word": "aid",
+        "phonetic": "/eɪd/",
+        "meaning": "n.&v.援助，救护",
+        "example_sentence": "She offered to aid her friend with moving to a new apartment."
+    },
+    {
+        "word": "aim",
+        "phonetic": "[eɪm]",
+        "meaning": "n.目的v.旨在，指向",
+        "example_sentence": "His aim in life is to become a successful entrepreneur.>\""
+    },
+    {
+        "word": "all",
+        "phonetic": "[ɔːl]",
+        "meaning": "adj.所有的n.一切",
+        "example_sentence": "All my friends are coming to the party tonight.>\""
+    },
+    {
+        "word": "ally",
+        "phonetic": "/ˈælaɪ/",
+        "meaning": "n.同盟者v.结盟",
+        "example_sentence": "My best friend is my ally in times of need.>\""
+    },
+    {
+        "word": "along",
+        "phonetic": "/əˈlɔːŋ/",
+        "meaning": "prep.沿着adv.一起",
+        "example_sentence": "I'll walk along with you to the store.>\""
+    },
+    {
+        "word": "alternative",
+        "phonetic": "/ɔːlˈtɜːrnətɪv/",
+        "meaning": "n.&v.两者取一",
+        "example_sentence": "Her alternative plan was to take the bus instead of driving.>\""
+    },
+    {
+        "word": "American",
+        "phonetic": "[əˈmɛrɪkən]",
+        "meaning": "adj.美国的n.美国人",
+        "example_sentence": "I am an American and I love eating hamburgers.>\""
+    },
+    {
+        "word": "amount",
+        "phonetic": "/əˈmaʊnt/",
+        "meaning": "n.数量，总数v.合计",
+        "example_sentence": "The amount of homework I have this week is overwhelming.>\""
+    },
+    {
+        "word": "anchor",
+        "phonetic": "/ˈæŋ.kər/",
+        "meaning": "n.锚v.停泊",
+        "example_sentence": "She used a heavy anchor to keep the boat from drifting away during the storm."
+    },
+    {
+        "word": "answer",
+        "phonetic": "/ˈænsər/",
+        "meaning": "n.答案v.答复",
+        "example_sentence": "I asked her a question, and she quickly gave me an answer.>\""
+    },
+    {
+        "word": "antique",
+        "phonetic": "/ænˈtiːk/",
+        "meaning": "adj.古老的n.古玩",
+        "example_sentence": "I bought this cool antique lamp at the flea market yesterday.>\""
+    },
+    {
+        "word": "appeal",
+        "phonetic": "[əˈpiːl]",
+        "meaning": "v.&n.呼吁，上诉",
+        "example_sentence": "His sense of humor really appeals to me."
+    },
+    {
+        "word": "approach",
+        "phonetic": "['əˈproʊtʃ']",
+        "meaning": "v.接近n.途径",
+        "example_sentence": "When you're teaching toddlers, a gentle approach works best."
+    },
+    {
+        "word": "appropriate",
+        "phonetic": "[əˈproʊpriət]",
+        "meaning": "adj.恰当的v.拨给",
+        "example_sentence": "She wore a casual and appropriate outfit for the job interview.\""
+    },
+    {
+        "word": "approximate",
+        "phonetic": "[əˈprɑksɪmət]",
+        "meaning": "adj.v.近似，约略",
+        "example_sentence": "It should take approximately 30 minutes to get to the airport by taxi."
+    },
+    {
+        "word": "arm",
+        "phonetic": "[ɑːrm]",
+        "meaning": "n.手臂，扶手v.武装",
+        "example_sentence": "She injured her arm while playing basketball.>\""
+    },
+    {
+        "word": "as",
+        "phonetic": "[æz]",
+        "meaning": "adv.一样prep.作为",
+        "example_sentence": "Tom is as tall as his brother.>\""
+    },
+    {
+        "word": "Asian",
+        "phonetic": "/ˈeɪ.ʒən/",
+        "meaning": "adj.亚洲的n.亚洲人",
+        "example_sentence": "I enjoy trying different Asian cuisines, such as sushi and curry.>\""
+    },
+    {
+        "word": "associate",
+        "phonetic": "[əˈsoʊʃieɪt]",
+        "meaning": "v.联想adv.副的",
+        "example_sentence": "I don't really want to associate with him anymore because he's always causing trouble."
+    },
+    {
+        "word": "Atlantic",
+        "phonetic": "/ətˈlæntɪk/",
+        "meaning": "n.&adj.大西洋(的)",
+        "example_sentence": "I love taking long walks along the Atlantic coast.>\""
+    },
+    {
+        "word": "attack",
+        "phonetic": "/əˈtæk/",
+        "meaning": "v.&n.进攻，侵袭",
+        "example_sentence": "She felt a sudden attack of dizziness and had to sit down.>\""
+    },
+    {
+        "word": "attempt",
+        "phonetic": "/əˈtempt/",
+        "meaning": "v.&n.尝试，企图",
+        "example_sentence": "He made an attempt to fix the leaky faucet, but it still drips."
+    },
+    {
+        "word": "attribute",
+        "phonetic": "[əˈtrɪbjuːt]",
+        "meaning": "v.属于n.属性",
+        "example_sentence": "I attribute my success to hard work and determination.>\""
+    },
+    {
+        "word": "avail",
+        "phonetic": "[əˈveɪl]",
+        "meaning": "v.帮助，有用n.效用",
+        "example_sentence": "She tried to convince her friend to avail herself of the opportunity to study abroad.>\""
+    },
+    {
+        "word": "average",
+        "phonetic": "['ˈævərɪdʒ']",
+        "meaning": "adj.平均的n.平均数",
+        "example_sentence": "The average height of adults in this country is around 170 centimeters.>\""
+    },
+    {
+        "word": "awake",
+        "phonetic": "/əˈweɪk/",
+        "meaning": "v.醒来，醒悟adj.醒的",
+        "example_sentence": "Every morning, it takes me a while to fully awake and start my day.>\""
+    },
+    {
+        "word": "award",
+        "phonetic": "/əˈwɔːrd/",
+        "meaning": "v.授予n.奖，奖品",
+        "example_sentence": "She won an award for her excellent performance in the school play."
+    },
+    {
+        "word": "back",
+        "phonetic": "[bæk]",
+        "meaning": "n.背adj.背后的",
+        "example_sentence": "I hurt my back while moving furniture yesterday.>\""
+    },
+    {
+        "word": "band",
+        "phonetic": "[bænd]",
+        "meaning": "n.乐队，带子v.联合",
+        "example_sentence": "I love going to concerts and watching live bands perform.>\""
+    },
+    {
+        "word": "bang",
+        "phonetic": "[bæŋ]",
+        "meaning": "n.&v.砰的一响",
+        "example_sentence": "She slammed the door shut with a loud bang.>\""
+    },
+    {
+        "word": "bankrupt",
+        "phonetic": "/ˈbæŋkrʌpt/",
+        "meaning": "n.&v.&adj.破产",
+        "example_sentence": "After investing all his savings into his failed business, he was left completely bankrupt.>\""
+    },
+    {
+        "word": "bark",
+        "phonetic": "[bɑrk]",
+        "meaning": "n.狗吠，树皮v.吠",
+        "example_sentence": "The neighbor's dog won't stop barking at night.>\""
+    },
+    {
+        "word": "base",
+        "phonetic": "[beɪs]",
+        "meaning": "n.基础，基地v.基于",
+        "example_sentence": "He always starts his cooking with a good base of onions and garlic.>\""
+    },
+    {
+        "word": "bat",
+        "phonetic": "[bæt]",
+        "meaning": "n.球拍，蝙蝠v.击打",
+        "example_sentence": "Don't forget to bring your baseball bat to the game.>\""
+    },
+    {
+        "word": "beam",
+        "phonetic": "[biːm]",
+        "meaning": "n.梁，射线v.发光",
+        "example_sentence": "The sun shone through the window, casting a warm beam of light into the room.>\""
+    },
+    {
+        "word": "beat",
+        "phonetic": "[biːt]",
+        "meaning": "v.打，击败n.击打",
+        "example_sentence": "I can feel my heart beating fast when I'm nervous.>\""
+    },
+    {
+        "word": "beloved",
+        "phonetic": "[bɪˈlʌvɪd]",
+        "meaning": "adj.敬爱的n.爱人",
+        "example_sentence": "She is my beloved dog.>\""
+    },
+    {
+        "word": "below",
+        "phonetic": "[bɪˈloʊ]",
+        "meaning": "adj.&prep.在下面",
+        "example_sentence": "The temperature is below freezing today.>\""
+    },
+    {
+        "word": "bend",
+        "phonetic": "[bɛnd]",
+        "meaning": "v.弯曲，俯身n.拐弯",
+        "example_sentence": "She bent down to pick up the coin from the ground.>\""
+    },
+    {
+        "word": "bet",
+        "phonetic": "[bɛt]",
+        "meaning": "n.&v.打赌",
+        "example_sentence": "I bet you can't finish the whole pizza by yourself."
+    },
+    {
+        "word": "better",
+        "phonetic": "['ˈbɛtər']",
+        "meaning": "adj.更好的adv.较好",
+        "example_sentence": "I hope tomorrow's weather will be better than today's.>\""
+    },
+    {
+        "word": "bid",
+        "phonetic": "[bɪd]",
+        "meaning": "n.&v.报价，投标",
+        "example_sentence": "I'll bid $20 for that old book.>\""
+    },
+    {
+        "word": "bite",
+        "phonetic": "[baɪt]",
+        "meaning": "n.&v.咬，叮n.一口",
+        "example_sentence": "I love to bite into a juicy apple."
+    },
+    {
+        "word": "black",
+        "phonetic": "[blæk]",
+        "meaning": "adj.黑的n.黑色",
+        "example_sentence": "She always wears black clothes.>\""
+    },
+    {
+        "word": "blame",
+        "phonetic": "[bleɪm]",
+        "meaning": "v.责备n.过失",
+        "example_sentence": "Don't blame yourself for what happened, it wasn't your fault.>\""
+    },
+    {
+        "word": "blank",
+        "phonetic": "[blæŋk]",
+        "meaning": "adj.空白的n.空格",
+        "example_sentence": "Make sure to fill in all the blanks on your test before turning it in.>\""
+    },
+    {
+        "word": "blast",
+        "phonetic": "[blæst]",
+        "meaning": "n.阵风v.爆炸",
+        "example_sentence": "The blast of music from the party next door kept me up all night.>\""
+    },
+    {
+        "word": "blind",
+        "phonetic": "/blaɪnd/",
+        "meaning": "adj.瞎的v.使失明",
+        "example_sentence": "She closed her eyes and tried to walk across the room blindly.>\""
+    },
+    {
+        "word": "bloom",
+        "phonetic": "/bluːm/",
+        "meaning": "n.花v.开花",
+        "example_sentence": "The flowers are starting to bloom in our garden."
+    },
+    {
+        "word": "bolt",
+        "phonetic": "[boʊlt]",
+        "meaning": "n.螺检，插销v.闩门",
+        "example_sentence": "He bolted the door before going to bed."
+    },
+    {
+        "word": "bomb",
+        "phonetic": "[bɑm]",
+        "meaning": "n.炸弹v.轰炸",
+        "example_sentence": "The bomb exploded with a loud bang, startling everyone nearby."
+    },
+    {
+        "word": "bona",
+        "phonetic": "[ˈbəʊnə]",
+        "meaning": "fideadj.真诚的，无欺的",
+        "example_sentence": "She has a bona fide reason for being late.>\""
+    },
+    {
+        "word": "book",
+        "phonetic": "[bʊk]",
+        "meaning": "n.书v.预订(票)",
+        "example_sentence": "I love reading a good book before bed.>\""
+    },
+    {
+        "word": "both",
+        "phonetic": "[boʊθ]",
+        "meaning": "pron.&adj.双方，两",
+        "example_sentence": "I like both tea and coffee.>\""
+    },
+    {
+        "word": "bother",
+        "phonetic": "/ˈbɒðə(r)/",
+        "meaning": "v.打扰，麻烦n.麻烦",
+        "example_sentence": "I don't want to bother you, but could you help me move this table?>\""
+    },
+    {
+        "word": "bounce",
+        "phonetic": "[baʊns]",
+        "meaning": "v.跳起n.跳跃",
+        "example_sentence": "I love to bounce a basketball when I'm feeling stressed.>\""
+    },
+    {
+        "word": "bow",
+        "phonetic": "[baʊ]",
+        "meaning": "v.鞠躬，服从n.弓",
+        "example_sentence": "She gave a bow before starting her speech.>\""
+    },
+    {
+        "word": "box",
+        "phonetic": "[bɒks]",
+        "meaning": "n.箱，盒v.拳击",
+        "example_sentence": "She put the books in the box.>\""
+    },
+    {
+        "word": "boycott",
+        "phonetic": "[ˈbɔɪˌkɑt]",
+        "meaning": "v.&n.抵制",
+        "example_sentence": "Many people decided to boycott the company's products after the scandal.>\""
+    },
+    {
+        "word": "brace",
+        "phonetic": "[breɪs]",
+        "meaning": "n.支撑v.激励",
+        "example_sentence": "I need to wear a brace on my knee after the injury.>\""
+    },
+    {
+        "word": "brake",
+        "phonetic": "[breɪk]",
+        "meaning": "n.制动器v.刹车",
+        "example_sentence": "I hit the brake to stop the car.>\""
+    },
+    {
+        "word": "brave",
+        "phonetic": "[breɪv]",
+        "meaning": "adj.勇敢的v.冒着",
+        "example_sentence": "She was brave enough to stand up to the bully and defend her friend."
+    },
+    {
+        "word": "Brazilian",
+        "phonetic": "[brəˈzɪliən]",
+        "meaning": "adj.&n.巴西的(人)",
+        "example_sentence": "She loves Brazilian music and dances.>\""
+    },
+    {
+        "word": "break",
+        "phonetic": "[breɪk]",
+        "meaning": "n.打破，破坏n.裂口",
+        "example_sentence": "I need to take a break after studying for hours.>\""
+    },
+    {
+        "word": "breed",
+        "phonetic": "[briːd]",
+        "meaning": "v.繁殖，饲养n.品种",
+        "example_sentence": "She wants to breed her cat with her neighbor's cat to have cute kittens."
+    },
+    {
+        "word": "bridle",
+        "phonetic": "[ˈbraɪdəl]",
+        "meaning": "n.约束v.抑制",
+        "example_sentence": "She had to bridle her temper during the meeting to avoid causing a scene.>\""
+    },
+    {
+        "word": "broadcast",
+        "phonetic": "[ˈbrɔːdkæst]",
+        "meaning": "v.&n.广播",
+        "example_sentence": "I heard the weather forecast on the radio broadcast this morning.>\""
+    },
+    {
+        "word": "brown",
+        "phonetic": "[braʊn]",
+        "meaning": "n.&adj.褐色(的)",
+        "example_sentence": "She has a brown cat.>\""
+    },
+    {
+        "word": "bruise",
+        "phonetic": "[bruz]",
+        "meaning": "n.青肿v.打伤",
+        "example_sentence": "I accidentally bumped into the table and bruised my arm.>\""
+    },
+    {
+        "word": "brush",
+        "phonetic": "[brʌʃ]",
+        "meaning": "n.刷子，画笔v.刷",
+        "example_sentence": "I brush my teeth every morning.>\""
+    },
+    {
+        "word": "bump",
+        "phonetic": "[bʌmp]",
+        "meaning": "v.碰，颠簸n.碰撞",
+        "example_sentence": "I accidentally bumped into the table and it hurt my knee.>\""
+    },
+    {
+        "word": "bundle",
+        "phonetic": "[ˈbʌndl̩]",
+        "meaning": "n.&v.捆，包",
+        "example_sentence": "She carried a bundle of books in her arms.>\""
+    },
+    {
+        "word": "burst",
+        "phonetic": "[bɜːrst]",
+        "meaning": "v.&n.爆炸，破裂",
+        "example_sentence": "She burst into tears when she heard the news.>\""
+    },
+    {
+        "word": "butcher",
+        "phonetic": "['ˈbʊtʃər']",
+        "meaning": "n.屠夫v.屠宰",
+        "example_sentence": "I need to go to the butcher to buy some fresh meat for dinner.>\""
+    },
+    {
+        "word": "butt",
+        "phonetic": "[bʌt]",
+        "meaning": "n.根端v.顶撞",
+        "example_sentence": "She accidentally bumped her butt on the edge of the table.>\""
+    },
+    {
+        "word": "buzz",
+        "phonetic": "[bʌz]",
+        "meaning": "v.嗡嗡叫n.嗡嗡声",
+        "example_sentence": "The bees buzzed around the flower garden.>\""
+    },
+    {
+        "word": "camp",
+        "phonetic": "[kæmp]",
+        "meaning": "n.帐篷，野营n.宿营",
+        "example_sentence": "We had so much fun camping in the woods last weekend.>\""
+    },
+    {
+        "word": "Canadian",
+        "phonetic": "/kəˈneɪdiən/",
+        "meaning": "adj.&n.加拿大的(人)",
+        "example_sentence": "My best friend is Canadian, she's from Toronto.>\""
+    },
+    {
+        "word": "cap",
+        "phonetic": "[kæp]",
+        "meaning": "n.帽子，盖子v.覆盖",
+        "example_sentence": "I lost my cap at the park yesterday.>\""
+    },
+    {
+        "word": "captive",
+        "phonetic": "[ˈkæptɪv]",
+        "meaning": "adj.被俘虏的n.俘虏",
+        "example_sentence": "The captive animal looked sad behind the bars.>\""
+    },
+    {
+        "word": "capture",
+        "phonetic": "['ˈkæptʃər']",
+        "meaning": "v.&n.俘获，捉拿",
+        "example_sentence": "She tried to capture the beautiful sunset on her camera.>\""
+    },
+    {
+        "word": "care",
+        "phonetic": "[ker]",
+        "meaning": "n.注意，小心v.关心",
+        "example_sentence": "I don't really care about what others think of me.>\""
+    },
+    {
+        "word": "cash",
+        "phonetic": "[kæʃ]",
+        "meaning": "n.现金v.兑现",
+        "example_sentence": "I need to stop at the ATM to get some cash.>\""
+    },
+    {
+        "word": "catch",
+        "phonetic": "[kætʃ]",
+        "meaning": "v.捕获，染病n.捉",
+        "example_sentence": "I can't catch the ball.>\""
+    },
+    {
+        "word": "center",
+        "phonetic": "[ˈsɛntər]",
+        "meaning": "n.中心v.集中",
+        "example_sentence": "She lives in the center of the city."
+    },
+    {
+        "word": "challenge",
+        "phonetic": "/ˈtʃæl.ɪndʒ/",
+        "meaning": "n.&v.挑战，质问",
+        "example_sentence": "Taking on new challenges can help us grow as individuals.>\""
+    },
+    {
+        "word": "change",
+        "phonetic": "/tʃeɪndʒ/",
+        "meaning": "n.变化，零钱v.改变",
+        "example_sentence": "I need to change my clothes before we go out.>\""
+    },
+    {
+        "word": "charm",
+        "phonetic": "[tʃɑːrm]",
+        "meaning": "n.魅力v.迷惑",
+        "example_sentence": "She has a charming smile that lights up the room."
+    },
+    {
+        "word": "chart",
+        "phonetic": "[tʃɑːrt]",
+        "meaning": "n.图表v.制定计划",
+        "example_sentence": "She used a chart to track her monthly expenses.>\""
+    },
+    {
+        "word": "cheat",
+        "phonetic": "[tʃiːt]",
+        "meaning": "v.欺骗，作弊n.骗子",
+        "example_sentence": "He cheated on the test by looking at someone else's paper.>\""
+    },
+    {
+        "word": "check",
+        "phonetic": "/tʃɛk/",
+        "meaning": "v.检验，核对n.支票",
+        "example_sentence": "Can you please check if the package has arrived yet?>\""
+    },
+    {
+        "word": "cheer",
+        "phonetic": "/tʃɪr/",
+        "meaning": "n.喝彩v.向喝彩",
+        "example_sentence": "Hearing her favorite song on the radio always cheers her up.>\""
+    },
+    {
+        "word": "chill",
+        "phonetic": "/tʃɪl/",
+        "meaning": "n.寒意v.冷却",
+        "example_sentence": "I like to chill with my friends on the weekends.>\""
+    },
+    {
+        "word": "Chinese",
+        "phonetic": "/ˈtʃaɪˌniz/",
+        "meaning": "adj.&n.中国的",
+        "example_sentence": "She's learning Chinese at school."
+    },
+    {
+        "word": "chop",
+        "phonetic": "[tʃɑp]\n例句: <She asked the butcher to chop the meat into small pieces for the stir-fry.>",
+        "meaning": "v.劈，剁n.带骨肉",
+        "example_sentence": "She asked the butcher to chop the meat into small pieces for the stir-fry."
+    },
+    {
+        "word": "Christian",
+        "phonetic": "/ˈkrɪstʃən/",
+        "meaning": "adj.基督教的n.基督徒",
+        "example_sentence": "I am going to the church on Sunday because I am a Christian.>\""
+    },
+    {
+        "word": "circle",
+        "phonetic": "/ˈsɜːrkl/",
+        "meaning": "n.圆，果v.画圈于",
+        "example_sentence": "She drew a circle on the paper.>\""
+    },
+    {
+        "word": "clamp",
+        "phonetic": "[klæmp]",
+        "meaning": "n.夹子v.夹紧",
+        "example_sentence": "She used a clamp to hold the pieces of wood together while the glue dried.>\""
+    },
+    {
+        "word": "clash",
+        "phonetic": "/klæʃ/",
+        "meaning": "v.&n.碰撞，冲突",
+        "example_sentence": "The clash between the two teams during the game was intense."
+    },
+    {
+        "word": "clasp",
+        "phonetic": "[klæsp]",
+        "meaning": "n.扣子v.紧握(抱)",
+        "example_sentence": "She used a clasp to fasten her necklace."
+    },
+    {
+        "word": "clatter",
+        "phonetic": "[ˈklætər]",
+        "meaning": "v.咔嗒响n.卡嗒响",
+        "example_sentence": "I heard the clatter of dishes as my mom was cooking breakfast in the kitchen.>\""
+    },
+    {
+        "word": "clip",
+        "phonetic": "[klɪp]",
+        "meaning": "n.夹子，卡子v.夹住",
+        "example_sentence": "Can you clip this paper together for me, please?>\""
+    },
+    {
+        "word": "clockwise",
+        "phonetic": "/ˈklɒkwaɪz/",
+        "meaning": "adj.&adv.顺时针的",
+        "example_sentence": "To adjust the time on the stove, turn the dial clockwise.>\""
+    },
+    {
+        "word": "close",
+        "phonetic": "[kloʊz]",
+        "meaning": "v.关闭，结束n.终结",
+        "example_sentence": "Can you please close the window? It's getting cold.>\""
+    },
+    {
+        "word": "clutch",
+        "phonetic": "/klʌtʃ/",
+        "meaning": "v.&n.抓紧",
+        "example_sentence": "I accidentally left my keys in the clutch of my car yesterday."
+    },
+    {
+        "word": "coil",
+        "phonetic": "[kɔɪl]",
+        "meaning": "v.卷曲n.一卷，线圈",
+        "example_sentence": "She coiled her hair into a bun before heading out for the day."
+    },
+    {
+        "word": "collapse",
+        "phonetic": "[kəˈlæps]",
+        "meaning": "v.倒塌v.坍塌",
+        "example_sentence": "The old bridge collapsed suddenly during the storm.>\""
+    },
+    {
+        "word": "collective",
+        "phonetic": "/kəˈlɛktɪv/",
+        "meaning": "n.集体adj.集体的",
+        "example_sentence": "Our group project was a success thanks to our collective effort."
+    },
+    {
+        "word": "comb",
+        "phonetic": "[kəʊm]",
+        "meaning": "v.梳n.梳子",
+        "example_sentence": "She used a comb to smooth out her hair.>\""
+    },
+    {
+        "word": "combat",
+        "phonetic": "[ˈkɒmbæt]",
+        "meaning": "v.&n.战斗，斗争",
+        "example_sentence": "She has been training in combat sports for the past year.>\""
+    },
+    {
+        "word": "comfort",
+        "phonetic": "['ˈkʌmfərt']",
+        "meaning": "n.舒适，慰藉v.安慰",
+        "example_sentence": "I always feel a sense of comfort when I'm curled up on the couch with a warm blanket and a cup of tea.>\""
+    },
+    {
+        "word": "command",
+        "phonetic": "/kəˈmænd/",
+        "meaning": "v.&n.命令，控制",
+        "example_sentence": "I can't believe he had the nerve to command me to do his work for him.>\""
+    },
+    {
+        "word": "comment",
+        "phonetic": "/ˈkɒmənt/",
+        "meaning": "n.&v.评论",
+        "example_sentence": "I left a comment on her photo saying how beautiful she looked.>\""
+    },
+    {
+        "word": "commission",
+        "phonetic": "/kəˈmɪʃən/",
+        "meaning": "n.&v.委托，委任",
+        "example_sentence": "After selling the car, I received a commission from the dealership.>\""
+    },
+    {
+        "word": "compliment",
+        "phonetic": "['ˈkɒmplɪmənt']",
+        "meaning": "n.&v.称赞，问候",
+        "example_sentence": "She received a lovely compliment on her new hairstyle.>\""
+    },
+    {
+        "word": "compound",
+        "phonetic": "[kəmˈpaʊnd]",
+        "meaning": "n.化合物v.混合",
+        "example_sentence": "She lives in a small, three-bedroom compound with a shared garden and swimming pool."
+    },
+    {
+        "word": "compromise",
+        "phonetic": "['ˈkɑːmprəˌmaɪz']",
+        "meaning": "n.&v.妥协，和解",
+        "example_sentence": "I think we can find a compromise that works for both of us.>\""
+    },
+    {
+        "word": "concern",
+        "phonetic": "[kənˈsɜrn]",
+        "meaning": "v.涉及，关心n.商行",
+        "example_sentence": "One of my main concerns right now is finding a new job.>\""
+    },
+    {
+        "word": "concrete",
+        "phonetic": "[ˈkɒŋkriːt]",
+        "meaning": "n.混凝土adj.具体的",
+        "example_sentence": "I'm going to pour some concrete for the patio this weekend."
+    },
+    {
+        "word": "conduct",
+        "phonetic": "[kənˈdʌkt]",
+        "meaning": "n.行为，管理v.为人",
+        "example_sentence": "He conducted himself professionally during the meeting.>\""
+    },
+    {
+        "word": "conflict",
+        "phonetic": "['ˈkɒn.flɪkt']",
+        "meaning": "v.&n.冲突，斗争",
+        "example_sentence": "Their conflicting schedules made it difficult for them to meet up for a coffee.>\""
+    },
+    {
+        "word": "consent",
+        "phonetic": "[kənˈsent]",
+        "meaning": "v.&n.同意，允许",
+        "example_sentence": "She finally gave her consent to let her daughter go on the school trip."
+    },
+    {
+        "word": "constituent",
+        "phonetic": "[kənˈstɪtʃuənt]",
+        "meaning": "adj.组成的n.成分",
+        "example_sentence": "As a constituent of this town, I have the right to participate in local decision-making processes.>\""
+    },
+    {
+        "word": "contact",
+        "phonetic": "[ˈkɒntækt]",
+        "meaning": "n.&v.接触，联系",
+        "example_sentence": "I tried to get in contact with my old friend through social media.>\""
+    },
+    {
+        "word": "content",
+        "phonetic": "/ˈkɒntɛnt/",
+        "meaning": "n.含量，内容v.满足",
+        "example_sentence": "She seems quite content with her job and life right now.>\""
+    },
+    {
+        "word": "contest",
+        "phonetic": "[ˈkɒntɛst]",
+        "meaning": "n.&v.争夺，比赛",
+        "example_sentence": "I think I have a good chance of winning the contest.>\""
+    },
+    {
+        "word": "continent",
+        "phonetic": "['ˈkɑntɪnənt']",
+        "meaning": "adj.节制的n.大陆",
+        "example_sentence": "I've never been to another continent besides North America.>\""
+    },
+    {
+        "word": "contract",
+        "phonetic": "[ˈkɒntrækt]",
+        "meaning": "n.契约，合同v.订",
+        "example_sentence": "She signed a contract to work for the company for two years."
+    },
+    {
+        "word": "contrary",
+        "phonetic": "['ˈkɒntrəri']",
+        "meaning": "adj.相反的n.反面",
+        "example_sentence": "On the contrary, I think he will be very happy to help us with the project.>\""
+    },
+    {
+        "word": "contrast",
+        "phonetic": "[ˈkɒntræst]",
+        "meaning": "n.&v.对照，对比",
+        "example_sentence": "There is a sharp contrast between their personalities.>\""
+    },
+    {
+        "word": "control",
+        "phonetic": "[kənˈtroʊl]",
+        "meaning": "v.&n.控制，管理",
+        "example_sentence": "She needs to control her temper when dealing with difficult customers.>\""
+    },
+    {
+        "word": "cook",
+        "phonetic": "[kʊk]",
+        "meaning": "v.烹调，烧n.厨师",
+        "example_sentence": "I love to cook dinner for my family.>\""
+    },
+    {
+        "word": "cooperative",
+        "phonetic": "[kəʊˈɒpərətɪv]",
+        "meaning": "adj.合作的n.合作社",
+        "example_sentence": "My coworkers are always cooperative when we need to work together on a project.>\""
+    },
+    {
+        "word": "copy",
+        "phonetic": "[ˈkɒpi]",
+        "meaning": "v.抄写，复制n.副本",
+        "example_sentence": "Can you make a copy of this document for me?"
+    },
+    {
+        "word": "correspondent",
+        "phonetic": "/ˌkɒr.ɪˈspɒn.dənt/",
+        "meaning": "adj.对应的n.记者",
+        "example_sentence": "He's a correspondent for the local newspaper.>\""
+    },
+    {
+        "word": "cost",
+        "phonetic": "[kɒst]",
+        "meaning": "n.成本，费用v.花费",
+        "example_sentence": "Buying a new car can cost a lot of money.>\""
+    },
+    {
+        "word": "cough",
+        "phonetic": "[kɒf]",
+        "meaning": "v.&n.咳嗽",
+        "example_sentence": "Don't forget to cover your mouth when you cough.>\""
+    },
+    {
+        "word": "counter",
+        "phonetic": "['ˈkaʊntər']",
+        "meaning": "n.柜台adj.相反的",
+        "example_sentence": "I need to pay for my groceries at the counter.>\""
+    },
+    {
+        "word": "cover",
+        "phonetic": "[ˈkʌvər]",
+        "meaning": "v.盖，掩盖n.盖子",
+        "example_sentence": "Can you cover the table with the tablecloth before the guests arrive?>\""
+    },
+    {
+        "word": "crack",
+        "phonetic": "[kræk]",
+        "meaning": "v.使破裂n.裂缝",
+        "example_sentence": "I heard a loud crack when I stepped on the ice.>\""
+    },
+    {
+        "word": "crash",
+        "phonetic": "[kræʃ]",
+        "meaning": "v.碰撞n.坠毁",
+        "example_sentence": "He crashed his car into a tree while texting and driving.>\""
+    },
+    {
+        "word": "credit",
+        "phonetic": "[ˈkrɛdɪt]",
+        "meaning": "n.信誉，信用v.相信",
+        "example_sentence": "I need to check my credit card balance before making any more purchases.>\""
+    },
+    {
+        "word": "criminal",
+        "phonetic": "/ˈkrɪmɪnl/",
+        "meaning": "n.罪犯adj.犯罪的",
+        "example_sentence": "She was arrested for selling fake designer bags, and now she's facing criminal charges.>\""
+    },
+    {
+        "word": "crimson",
+        "phonetic": "['ˈkrɪmzən']",
+        "meaning": "adj.&n.深红色(的)",
+        "example_sentence": "She wore a beautiful crimson dress to the party.>\""
+    },
+    {
+        "word": "cripple",
+        "phonetic": "[ˈkrɪpəl]",
+        "meaning": "n.跛子v.使残废",
+        "example_sentence": "His old injury had left him crippled and he struggled to walk without his cane.>\""
+    },
+    {
+        "word": "cross",
+        "phonetic": "[krɒs]",
+        "meaning": "n.十字，交叉v.横过",
+        "example_sentence": "I always cross the street at the crosswalk.>\""
+    },
+    {
+        "word": "crow",
+        "phonetic": "[kroʊ]",
+        "meaning": "n.乌鸦v.鸦啼",
+        "example_sentence": "I could hear the crow cawing loudly outside my window.>\""
+    },
+    {
+        "word": "crowd",
+        "phonetic": "[kraʊd]",
+        "meaning": "n.人群v.挤满",
+        "example_sentence": "The crowd cheered loudly as the band took the stage.>\""
+    },
+    {
+        "word": "crown",
+        "phonetic": "[kraʊn]",
+        "meaning": "n.王冠v.加冕",
+        "example_sentence": "She wore a beautiful crown on her head during the costume party.>\""
+    },
+    {
+        "word": "cry",
+        "phonetic": "[kraɪ]",
+        "meaning": "v.&n.叫喊，哭泣",
+        "example_sentence": "She couldn't help but cry when she watched the sad movie.>\""
+    },
+    {
+        "word": "cure",
+        "phonetic": "[kjʊr]",
+        "meaning": "v.&n.治疗，矫正",
+        "example_sentence": "I hope this new medicine will cure my headache.>\""
+    },
+    {
+        "word": "curl",
+        "phonetic": "[kɜːrl]",
+        "meaning": "v.卷曲，缭绕n.卷发",
+        "example_sentence": "She likes to curl up on the couch with a good book on rainy days."
+    },
+    {
+        "word": "current",
+        "phonetic": "[ˈkʌrənt]",
+        "meaning": "adj.现令的n.流",
+        "example_sentence": "The current situation is causing a lot of uncertainty for everyone.>\""
+    },
+    {
+        "word": "curse",
+        "phonetic": "[kɜːrs]",
+        "meaning": "n.&v.诅咒，咒骂",
+        "example_sentence": "I accidentally spilled coffee on my new shirt, what a curse!>\""
+    },
+    {
+        "word": "daily",
+        "phonetic": "/ˈdeɪli/",
+        "meaning": "adj.每日的，每天的adv.天天，每天",
+        "example_sentence": "I drink a cup of coffee daily before going to work.>\""
+    },
+    {
+        "word": "dam",
+        "phonetic": "[dæm]",
+        "meaning": "n.坝，水坝;障碍v.控制，筑坝",
+        "example_sentence": "I had to rebuild the dam to stop the flooding.>\""
+    },
+    {
+        "word": "damage",
+        "phonetic": "/ˈdæmɪdʒ/",
+        "meaning": "v.&n.损害，破坏",
+        "example_sentence": "The storm caused a lot of damage to our house last night.>\""
+    },
+    {
+        "word": "damn",
+        "phonetic": "[dæm]",
+        "meaning": "v.&n.诅咒",
+        "example_sentence": "I can't believe I forgot my wallet at home, damn!>\""
+    },
+    {
+        "word": "damp",
+        "phonetic": "[dæmp]",
+        "meaning": "adj.潮湿的n.潮气",
+        "example_sentence": "After the rain, the ground felt damp under my feet.>\""
+    },
+    {
+        "word": "dance",
+        "phonetic": "[dæns]",
+        "meaning": "v.跳舞n.舞蹈",
+        "example_sentence": "She loves to dance to her favorite songs in her room.>\""
+    },
+    {
+        "word": "Danish",
+        "phonetic": "/ˈdeɪnɪʃ/",
+        "meaning": "adj.&n.丹麦人(的)",
+        "example_sentence": "I'm going to a Danish bakery to buy some pastries.>\""
+    },
+    {
+        "word": "dark",
+        "phonetic": "[dɑːrk]",
+        "meaning": "adj.黑暗的n.暗处",
+        "example_sentence": "It's getting dark outside, we should turn on the lights.>\""
+    },
+    {
+        "word": "darling",
+        "phonetic": "/ˈdɑːrlɪŋ/",
+        "meaning": "n.爱人adj.心爱的",
+        "example_sentence": "She is my darling daughter.>\""
+    },
+    {
+        "word": "dash",
+        "phonetic": "[dæʃ]",
+        "meaning": "v.猛冲，泼溅n.破折号",
+        "example_sentence": "I need to make a quick dash to the store before it closes.>\""
+    },
+    {
+        "word": "date",
+        "phonetic": "[deɪt]",
+        "meaning": "n.日期v.注日期",
+        "example_sentence": "I have a date with my girlfriend tonight.>\""
+    },
+    {
+        "word": "dead",
+        "phonetic": "[dɛd]",
+        "meaning": "adj.死的n.死者",
+        "example_sentence": "I'm so tired that I feel like I'm dead on my feet.>\""
+    },
+    {
+        "word": "deal",
+        "phonetic": "/diːl/",
+        "meaning": "v.处理，交易n.买卖",
+        "example_sentence": "Let's make a deal, I'll help you with your project if you help me with mine.>\""
+    },
+    {
+        "word": "debate",
+        "phonetic": "/dɪˈbeɪt/",
+        "meaning": "v.&n.辩论，讨论",
+        "example_sentence": "She and her friend debated for hours about which movie to watch.>\""
+    },
+    {
+        "word": "decay",
+        "phonetic": "[dɪˈkeɪ]",
+        "meaning": "v.&n.腐烂，衰败",
+        "example_sentence": "If you don't brush your teeth regularly, they may start to decay.>\""
+    },
+    {
+        "word": "decline",
+        "phonetic": "[dɪˈklaɪn]",
+        "meaning": "v.婉谢，推辞n.衰落",
+        "example_sentence": "She politely declined the invitation to go to the party.>\""
+    },
+    {
+        "word": "decrease",
+        "phonetic": "[dɪˈkriːs]",
+        "meaning": "v.&n.减少",
+        "example_sentence": "I hope to decrease my spending this month by cooking more meals at home instead of eating out.>\""
+    },
+    {
+        "word": "decree",
+        "phonetic": "[dɪˈkriː]",
+        "meaning": "n.法令v.判决",
+        "example_sentence": "The king issued a decree stating that all citizens must pay taxes by the end of the month.>\""
+    },
+    {
+        "word": "default",
+        "phonetic": "[dɪ'fɔlt]",
+        "meaning": "n.&v.不履行，不负责",
+        "example_sentence": "If you don't pay your bills on time, you risk defaulting on your loan.>\""
+    },
+    {
+        "word": "defeat",
+        "phonetic": "/dɪˈfiːt/",
+        "meaning": "v.击败n.失败",
+        "example_sentence": "I can't believe our team suffered another defeat in the final game.>\""
+    },
+    {
+        "word": "delay",
+        "phonetic": "[dɪˈleɪ]",
+        "meaning": "v.&n.耽搁，延误",
+        "example_sentence": "I got stuck in traffic, so I was delayed getting to the meeting."
+    },
+    {
+        "word": "delegate",
+        "phonetic": "/ˈdɛl.ə.ɡət/",
+        "meaning": "n.代表n.委派",
+        "example_sentence": "She asked her manager if she could delegate some tasks to her colleagues.>\""
+    },
+    {
+        "word": "delight",
+        "phonetic": "/dɪˈlaɪt/",
+        "meaning": "n.快乐，乐事n.喜爱",
+        "example_sentence": "I ordered a slice of cake and it was a delightful treat after a long day at work.>\""
+    },
+    {
+        "word": "demand",
+        "phonetic": "[音标内容]",
+        "meaning": "v.&n.要求，需求",
+        "example_sentence": "例句内容>\"格式的内容。如果你需要音标和例句，请让我知道，我会将其分开提供。"
+    },
+    {
+        "word": "deposit",
+        "phonetic": "/dɪˈpɑːzɪt/",
+        "meaning": "v.存放，储蓄n.存款",
+        "example_sentence": "I have to deposit my paycheck at the bank tomorrow.>\""
+    },
+    {
+        "word": "deputy",
+        "phonetic": "[ˈdɛpjəti]",
+        "meaning": "n.代表adj.副职的",
+        "example_sentence": "The deputy mayor attended the community meeting in place of the mayor.>\""
+    },
+    {
+        "word": "desert",
+        "phonetic": "[dɪˈzɜːrt]",
+        "meaning": "v.遗弃，擅离n.沙漠",
+        "example_sentence": "My friend forgot her scarf in the desert when we went camping last weekend.>\""
+    },
+    {
+        "word": "design",
+        "phonetic": "[dɪˈzaɪn]",
+        "meaning": "v.设计，旨在n.设计",
+        "example_sentence": "I love the design of this new phone.>\""
+    },
+    {
+        "word": "desire",
+        "phonetic": "/dɪˈzaɪər/",
+        "meaning": "n.欲望，要求v.要求",
+        "example_sentence": "I have a strong desire to travel the world.>\""
+    },
+    {
+        "word": "despair",
+        "phonetic": "[dɪˈspɛr]",
+        "meaning": "n.&v.绝望",
+        "example_sentence": "Feeling overwhelmed by despair, she thought she would never find a job."
+    },
+    {
+        "word": "dial",
+        "phonetic": "[daɪəl]",
+        "meaning": "n.钟盘v.拨电话",
+        "example_sentence": "Can you dial this number for me? （你能帮我拨这个号码吗？）>\""
+    },
+    {
+        "word": "digest",
+        "phonetic": "[dɪˈdʒest]",
+        "meaning": "v.消化n.摘要",
+        "example_sentence": "I can't eat a big meal now because my stomach needs time to digest the food.>\""
+    },
+    {
+        "word": "dip",
+        "phonetic": "[dɪp]",
+        "meaning": "v.&n.蘸，浸",
+        "example_sentence": "She dipped her biscuit into the cup of tea before taking a bite.>\""
+    },
+    {
+        "word": "disabled",
+        "phonetic": "[dɪsˈeɪbəld]",
+        "meaning": "adj.残废的n.残疾人",
+        "example_sentence": "My uncle is disabled and uses a wheelchair to get around.>\""
+    },
+    {
+        "word": "discard",
+        "phonetic": "[dɪˈskɑrd]",
+        "meaning": "v.&n.丢弃，扔掉",
+        "example_sentence": "I always discard junk mail as soon as it arrives."
+    },
+    {
+        "word": "discipline",
+        "phonetic": "[ˈdɪsəplɪn]",
+        "meaning": "n.训练，纪律n.锻炼",
+        "example_sentence": "She always had trouble with self-discipline when it came to studying for exams.>\""
+    },
+    {
+        "word": "discount",
+        "phonetic": "['ˈdɪskaʊnt']",
+        "meaning": "n.&v.折扣",
+        "example_sentence": "I got a discount on these shoes because they were on sale.>\""
+    },
+    {
+        "word": "disgrace",
+        "phonetic": "/dɪsˈɡreɪs/",
+        "meaning": "n.耻辱v.使受辱",
+        "example_sentence": "I felt a deep sense of disgrace when I accidentally spilled my drink all over the restaurant table.>\""
+    },
+    {
+        "word": "disguise",
+        "phonetic": "/dɪsˈɡaɪz/",
+        "meaning": "v.&n.伪装，掩饰",
+        "example_sentence": "I'm going to wear a disguise to the costume party so no one can recognize me."
+    },
+    {
+        "word": "disgust",
+        "phonetic": "[dɪsˈɡʌst]",
+        "meaning": "n.厌恶v.使讨厌",
+        "example_sentence": "The sight of rotten food on the counter filled her with disgust."
+    },
+    {
+        "word": "dishonor",
+        "phonetic": "/dɪsˈɒn.ər/",
+        "meaning": "n.耻辱v.凌辱",
+        "example_sentence": "He was dishonored when his crime was exposed.>\""
+    },
+    {
+        "word": "dislike",
+        "phonetic": "/dɪsˈlaɪk/",
+        "meaning": "v.&n.厌恶",
+        "example_sentence": "I dislike broccoli, it tastes awful.>\""
+    },
+    {
+        "word": "dismay",
+        "phonetic": "[dɪsˈmeɪ]",
+        "meaning": "v.使沮丧n.沮丧",
+        "example_sentence": "The team's poor performance filled their fans with dismay.>\""
+    },
+    {
+        "word": "dispatch",
+        "phonetic": "[dɪˈspætʃ]",
+        "meaning": "v.迅速派遣n.快件",
+        "example_sentence": "I need to dispatch these packages before the end of the day.>\""
+    },
+    {
+        "word": "display",
+        "phonetic": "[dɪˈspleɪ]",
+        "meaning": "v.&n.陈列，表现",
+        "example_sentence": "She displayed her artwork at the local gallery."
+    },
+    {
+        "word": "dispute",
+        "phonetic": "[dɪˈspjuːt]",
+        "meaning": "v.争论，质疑n.争论",
+        "example_sentence": "They are having a dispute over who should clean the kitchen."
+    },
+    {
+        "word": "disregard",
+        "phonetic": "[ˌdɪs.rɪˈɡɑrd]",
+        "meaning": "v.&n.无视，不顾",
+        "example_sentence": "She always disregards my advice and does whatever she wants.>\""
+    },
+    {
+        "word": "disuse",
+        "phonetic": "/dɪsˈjuːs/",
+        "meaning": "v.&n.废止",
+        "example_sentence": "After getting a new phone, my old one fell into disuse.>\""
+    },
+    {
+        "word": "doom",
+        "phonetic": "[duːm]",
+        "meaning": "n.命运，判决v.命定",
+        "example_sentence": "The constant rainy weather seemed to herald her impending doom.>\""
+    },
+    {
+        "word": "doubt",
+        "phonetic": "/daʊt/",
+        "meaning": "v.&n.怀疑，疑惑",
+        "example_sentence": "I have no doubt that he will succeed.>\""
+    },
+    {
+        "word": "downtown",
+        "phonetic": "[ˈdaʊntaʊn]",
+        "meaning": "n.闹市adv.去市里",
+        "example_sentence": "Let's meet up for lunch downtown later."
+    },
+    {
+        "word": "dread",
+        "phonetic": "[音标内容]",
+        "meaning": "adv.&n.恐惧，担心",
+        "example_sentence": "例句内容>\"的格式涉及到具体语言学数据库的引用，我在当前的设置下无法提取特定数据源。我可以为您提供符合规范的音标和例句，但无法保证完全符合专业标准。请问我是否可以为您提供这样的回答呢？"
+    },
+    {
+        "word": "dream",
+        "phonetic": "[driːm]",
+        "meaning": "n.梦，梦想v.做梦",
+        "example_sentence": "I had a strange dream last night about flying through the sky.>\""
+    },
+    {
+        "word": "dress",
+        "phonetic": "[drɛs]",
+        "meaning": "n.服装v.穿衣",
+        "example_sentence": "She bought a new dress for the party.>\""
+    },
+    {
+        "word": "drill",
+        "phonetic": "[drɪl]",
+        "meaning": "n.钻头，操练v.训练",
+        "example_sentence": "My coach told me to practice my jump shot by drilling threes from the corner.>\""
+    },
+    {
+        "word": "drink",
+        "phonetic": "[drɪŋk]",
+        "meaning": "v.喝，饮n.饮料，酒",
+        "example_sentence": "I'm thirsty, so I'm going to grab a drink from the fridge.>\""
+    },
+    {
+        "word": "drive",
+        "phonetic": "[draɪv]",
+        "meaning": "v.驾驶，乘车n.车道",
+        "example_sentence": "I'll drive you to the airport tomorrow.>\""
+    },
+    {
+        "word": "drop",
+        "phonetic": "[drɒp]",
+        "meaning": "v.落下n.滴，下降",
+        "example_sentence": "Don't drop your phone while taking a selfie!"
+    },
+    {
+        "word": "drum",
+        "phonetic": "[drʌm]",
+        "meaning": "n.鼓v.敲鼓",
+        "example_sentence": "I love the sound of drums in a live band.>\""
+    },
+    {
+        "word": "dump",
+        "phonetic": "[dʌmp]",
+        "meaning": "v.倾倒n.垃圾堆",
+        "example_sentence": "I dumped my ex's stuff at his front door.>\""
+    },
+    {
+        "word": "dust",
+        "phonetic": "[dʌst]",
+        "meaning": "n.尘土，粉末v.掸土",
+        "example_sentence": "Don't forget to dust the shelves before guests come over.>\""
+    },
+    {
+        "word": "dye",
+        "phonetic": "[daɪ]",
+        "meaning": "n.染料v.染色",
+        "example_sentence": "I want to dye my hair pink for the party this weekend.>\""
+    },
+    {
+        "word": "each",
+        "phonetic": "[iːtʃ]",
+        "meaning": "adj.&adv.每，每个",
+        "example_sentence": "We need to each do our part to keep the house clean.>\""
+    },
+    {
+        "word": "east",
+        "phonetic": "[iːst]",
+        "meaning": "adj.东方的n.东方",
+        "example_sentence": "We're going to the beach on the east coast.>\""
+    },
+    {
+        "word": "effect",
+        "phonetic": "[ɪˈfɛkt]",
+        "meaning": "n.后果，效力v.导致",
+        "example_sentence": "The medicine took effect quickly and I started feeling better within an hour.>\""
+    },
+    {
+        "word": "Egyptian",
+        "phonetic": "[ɪˈdʒɪpʃən]",
+        "meaning": "adj.&n.埃及人(的)",
+        "example_sentence": "My friend's roommate is an Egyptian exchange student.>\""
+    },
+    {
+        "word": "either",
+        "phonetic": "/ˈaɪ.ðər/",
+        "meaning": "adj.二者之一adv.也",
+        "example_sentence": "I can meet you either at the coffee shop or the park.>\""
+    },
+    {
+        "word": "elaborate",
+        "phonetic": "[ɪˈlæbərət]",
+        "meaning": "v.&adj.详尽阐述",
+        "example_sentence": "Can you elaborate on that a bit more? I'm not sure I understand.>\""
+    },
+    {
+        "word": "elect",
+        "phonetic": "[ɪˈlekt]",
+        "meaning": "v.选举adj.当选的",
+        "example_sentence": "She was elected as the class president.>\""
+    },
+    {
+        "word": "else",
+        "phonetic": "[ɛls]",
+        "meaning": "adj.别的adv.否则",
+        "example_sentence": "What else do you want to eat?>\""
+    },
+    {
+        "word": "endeavor",
+        "phonetic": "[ɪnˈdɛvər]",
+        "meaning": "v.&n.努力，尽力",
+        "example_sentence": "She always endeavors to be punctual for work by setting multiple alarms in the morning."
+    },
+    {
+        "word": "English",
+        "phonetic": "/ˈɪŋɡlɪʃ/",
+        "meaning": "n.&adj.英国的，英语",
+        "example_sentence": "I love speaking English with my friends.>\""
+    },
+    {
+        "word": "enough",
+        "phonetic": "[ɪˈnʌf]",
+        "meaning": "adj.&adv.足够(的)",
+        "example_sentence": "I have had enough of your excuses, just tell me the truth."
+    },
+    {
+        "word": "epidemic",
+        "phonetic": "/ˌɛpɪˈdɛmɪk/",
+        "meaning": "adj.传染的n.传染病",
+        "example_sentence": "The flu has become a real epidemic in our town this winter.>\""
+    },
+    {
+        "word": "escort",
+        "phonetic": "[ɪˈskɔːrt]",
+        "meaning": "v.护送n.护卫队",
+        "example_sentence": "She hired an escort to accompany her to the party.>\""
+    },
+    {
+        "word": "esteem",
+        "phonetic": "[ɪˈstiːm]",
+        "meaning": "v.&n.尊重",
+        "example_sentence": "She is held in high esteem by everyone in the community."
+    },
+    {
+        "word": "estimate",
+        "phonetic": "[ˈɛstɪmət]",
+        "meaning": "v.&n.估算，预算",
+        "example_sentence": "I estimate that there are about 100 people at the party.>\""
+    },
+    {
+        "word": "European",
+        "phonetic": "/jʊrəˈpiːən/",
+        "meaning": "n.&adj.欧洲人(的)",
+        "example_sentence": "She is a European citizen and loves to travel around Europe."
+    },
+    {
+        "word": "except",
+        "phonetic": "/ɪkˈsɛpt/",
+        "meaning": "prep.除外v.除外",
+        "example_sentence": "I like all fruits except for bananas.>\""
+    },
+    {
+        "word": "exchange",
+        "phonetic": "/ɪksˈtʃeɪndʒ/",
+        "meaning": "v.交换，兑换n.交易",
+        "example_sentence": "I exchanged my book for his magazine.>\""
+    },
+    {
+        "word": "excuse",
+        "phonetic": "/ɪkˈskjuːz/",
+        "meaning": "v.原谅n.借口",
+        "example_sentence": "Excuse me, could I ask you a quick question?>\""
+    },
+    {
+        "word": "executive",
+        "phonetic": "[ɪɡˈzɛkjətɪv]",
+        "meaning": "adj.执行的n.执行者",
+        "example_sentence": "The executive team is meeting tomorrow to discuss the new project.>\""
+    },
+    {
+        "word": "exhibit",
+        "phonetic": "/ɪɡˈzɪbɪt/",
+        "meaning": "v.展出，显示n.展览品",
+        "example_sentence": "The museum is currently exhibiting a collection of contemporary art."
+    },
+    {
+        "word": "exile",
+        "phonetic": "/ˈɛksaɪl/",
+        "meaning": "v.放逐n.流亡者",
+        "example_sentence": "She felt like she was in exile when she moved to a new city where she didn't know anyone.>\""
+    },
+    {
+        "word": "experience",
+        "phonetic": "/ɪkˈspɪəriəns/",
+        "meaning": "n.&v.经历，经验",
+        "example_sentence": "I gained a lot of experience while traveling around the world.>\""
+    },
+    {
+        "word": "experiment",
+        "phonetic": "[ɪkˈsperəmənt]",
+        "meaning": "n.&v.实验，试验",
+        "example_sentence": "I'm going to do a little experiment in the kitchen to see which ingredient makes the cake taste better."
+    },
+    {
+        "word": "explosive",
+        "phonetic": "[ɪkˈspləʊsɪv]",
+        "meaning": "adj.爆炸性的n.炸药",
+        "example_sentence": "He's got a really explosive temper, so you better not make him angry."
+    },
+    {
+        "word": "export",
+        "phonetic": "/ˈɛkˌspɔrt/",
+        "meaning": "v.&n.输出，出口",
+        "example_sentence": "She works for a company that exports fruits to different countries.>\""
+    },
+    {
+        "word": "express",
+        "phonetic": "/ɪkˈsprɛs/",
+        "meaning": "v.表达，快递n.快车",
+        "example_sentence": "I need to express my feelings to my friend.>\""
+    },
+    {
+        "word": "exterior",
+        "phonetic": "[ɪkˈstɪriər]",
+        "meaning": "adj.&n.外部(的)",
+        "example_sentence": "The exterior of the house looks beautiful with its fresh paint and new windows.>\""
+    },
+    {
+        "word": "face",
+        "phonetic": "[feɪs]",
+        "meaning": "n.脸，正面v.面对",
+        "example_sentence": "I saw a familiar face in the crowd.>\""
+    },
+    {
+        "word": "Fahrenheit",
+        "phonetic": "/ˈfærənhaɪt/",
+        "meaning": "n.&adj.华氏(的)",
+        "example_sentence": "I think it's going to be around 80 degrees Fahrenheit today, perfect weather for a picnic!>\""
+    },
+    {
+        "word": "fair",
+        "phonetic": "[fɛr]",
+        "meaning": "adj.公平的n.交易会",
+        "example_sentence": "It's only fair that everyone gets a turn to speak during the meeting.>\""
+    },
+    {
+        "word": "fake",
+        "phonetic": "[feɪk]",
+        "meaning": "adj.冒片的n.冒牌货",
+        "example_sentence": "She pretended to like his cooking, but he knew it was all fake.>\""
+    },
+    {
+        "word": "fall",
+        "phonetic": "[fɔːl]",
+        "meaning": "v.落下，跌倒n.瀑布",
+        "example_sentence": "I love watching the leaves fall in autumn.>\""
+    },
+    {
+        "word": "fan",
+        "phonetic": "[fæn]",
+        "meaning": "n.扇子，迷v.扇",
+        "example_sentence": "I'm a big fan of his music.>\""
+    },
+    {
+        "word": "fancy",
+        "phonetic": "[ˈfænsi]",
+        "meaning": "n.幻想，爱好v.想象",
+        "example_sentence": "I don't usually wear fancy clothes, but I decided to dress up for the party tonight.>\""
+    },
+    {
+        "word": "far",
+        "phonetic": "[fɑːr]",
+        "meaning": "adj.遥远的adv.远",
+        "example_sentence": "He lives far from the city center.>\""
+    },
+    {
+        "word": "fare",
+        "phonetic": "[fɛər]",
+        "meaning": "n.车费v.饮食",
+        "example_sentence": "I wonder how much the bus fare will be for this trip.>\""
+    },
+    {
+        "word": "farewell",
+        "phonetic": "/ˌfeərˈwel/",
+        "meaning": "int.再见adj.告别的",
+        "example_sentence": "I said farewell to my friends as I boarded the plane for my vacation.>\""
+    },
+    {
+        "word": "fast",
+        "phonetic": "[fæst]",
+        "meaning": "adj.快的adv.快",
+        "example_sentence": "She runs really fast!>\""
+    },
+    {
+        "word": "fat",
+        "phonetic": "[fæt]",
+        "meaning": "n.脂肪adj.肥胖的",
+        "example_sentence": "I need to cut down on my fat intake to lose weight.>\""
+    },
+    {
+        "word": "fatigue",
+        "phonetic": "[fəˈtiːɡ]",
+        "meaning": "n.&v.(使)疲劳",
+        "example_sentence": "Constantly staring at the computer screen can cause eye fatigue."
+    },
+    {
+        "word": "favor",
+        "phonetic": "/ˈfeɪvər/",
+        "meaning": "n.帮助，偏爱v.宠爱",
+        "example_sentence": "Her boss did her a favor by allowing her to take the afternoon off.>\""
+    },
+    {
+        "word": "favorite",
+        "phonetic": "/ˈfeɪ.vər.ɪt/",
+        "meaning": "n.adj.最喜爱的人或物",
+        "example_sentence": "My favorite color is blue.>\""
+    },
+    {
+        "word": "fear",
+        "phonetic": "[fɪr]",
+        "meaning": "n.&v.害怕，担忧",
+        "example_sentence": "I have a fear of flying.>\""
+    },
+    {
+        "word": "feast",
+        "phonetic": "[fiːst]",
+        "meaning": "n.&v.宴会，宴请",
+        "example_sentence": "Let's have a feast to celebrate your birthday!>\""
+    },
+    {
+        "word": "ferry",
+        "phonetic": "/ˈfɛri/",
+        "meaning": "n.渡船v.渡运",
+        "example_sentence": "I take the ferry to work every day."
+    },
+    {
+        "word": "festival",
+        "phonetic": "/ˈfɛstəvəl/",
+        "meaning": "n.节日adj.喜庆的",
+        "example_sentence": "I'm looking forward to the music festival this weekend.>\""
+    },
+    {
+        "word": "few",
+        "phonetic": "[fju]",
+        "meaning": "adj.少的n.少数",
+        "example_sentence": "I have a few friends in this city.>\""
+    },
+    {
+        "word": "filter",
+        "phonetic": "['ˈfɪltər']",
+        "meaning": "n.滤器v.过滤",
+        "example_sentence": "I always use a filter when making coffee to remove the coffee grounds.>\""
+    },
+    {
+        "word": "final",
+        "phonetic": "/ˈfaɪnl/",
+        "meaning": "adj.最终的n.决赛",
+        "example_sentence": "This is the final warning.>\""
+    },
+    {
+        "word": "finance",
+        "phonetic": "[fɪˈnæns]",
+        "meaning": "n.金融v.资助",
+        "example_sentence": "I need to figure out how to improve my finance situation."
+    },
+    {
+        "word": "finish",
+        "phonetic": "/ˈfɪnɪʃ/",
+        "meaning": "v.&n.结束，抛光",
+        "example_sentence": "I can't wait to finish work and go home.>\""
+    },
+    {
+        "word": "fire",
+        "phonetic": "[faɪr]",
+        "meaning": "n.火，火灾v.开火",
+        "example_sentence": "Don't play with fire or you might get burned.>\""
+    },
+    {
+        "word": "firm",
+        "phonetic": "/fɜrm/\n例句: <His handshake was firm and confident, showing he was ready for the job.>",
+        "meaning": "adj.坚固的n.商号",
+        "example_sentence": "His handshake was firm and confident, showing he was ready for the job."
+    },
+    {
+        "word": "first",
+        "phonetic": "[fɜːrst]",
+        "meaning": "adj.第一的adv.首先",
+        "example_sentence": "I'll be there as soon as I finish my first cup of coffee.>\""
+    },
+    {
+        "word": "fish",
+        "phonetic": "[fɪʃ]",
+        "meaning": "n.鱼v.捞取，探听",
+        "example_sentence": "I love to eat grilled fish on a sunny day.>\""
+    },
+    {
+        "word": "flap",
+        "phonetic": "[flæp]",
+        "meaning": "v.拍打n.垂下物",
+        "example_sentence": "She likes to flap her arms when she's excited."
+    },
+    {
+        "word": "flare",
+        "phonetic": "[flɛr]",
+        "meaning": "v.&n.闪烁",
+        "example_sentence": "Her temper flared when she found out he had forgotten their anniversary.>\""
+    },
+    {
+        "word": "flash",
+        "phonetic": "[flæʃ]",
+        "meaning": "n.&v.闪光，闪现",
+        "example_sentence": "She saw a flash of lightning in the sky.>\""
+    },
+    {
+        "word": "float",
+        "phonetic": "[floʊt]",
+        "meaning": "v.浮，漂n.彩车",
+        "example_sentence": "I love to float in the pool on a hot summer day.>\""
+    },
+    {
+        "word": "flock",
+        "phonetic": "[flɑk]",
+        "meaning": "n.群v.群集",
+        "example_sentence": "Every evening, a flock of birds flies over our house on their way to the trees nearby.>\""
+    },
+    {
+        "word": "flow",
+        "phonetic": "[floʊ]",
+        "meaning": "v.流动n.流动，流量",
+        "example_sentence": "The river flows gently through the valley.>\""
+    },
+    {
+        "word": "fluid",
+        "phonetic": "[ˈfluː.ɪd]",
+        "meaning": "n.液体adj.流动的",
+        "example_sentence": "He poured the orange juice slowly, letting it flow in a smooth and fluid motion.>\""
+    },
+    {
+        "word": "flush",
+        "phonetic": "[flʌʃ]",
+        "meaning": "v.(脸)发红n.红晕",
+        "example_sentence": "After running five kilometers, Jack's face was flushed from the exercise.>\""
+    },
+    {
+        "word": "fly",
+        "phonetic": "[flaɪ]",
+        "meaning": "v.飞，驾机n.苍蝇",
+        "example_sentence": "I love to fly kites with my friends in the park.>\""
+    },
+    {
+        "word": "foam",
+        "phonetic": "[foʊm]",
+        "meaning": "n.泡沫v.起泡",
+        "example_sentence": "She scooped up a handful of foam from the bubble bath.>\""
+    },
+    {
+        "word": "focus",
+        "phonetic": "['ˈfoʊkəs']",
+        "meaning": "n.焦点，中心v.集中",
+        "example_sentence": "I need to focus on my work and not get distracted by my phone.>\""
+    },
+    {
+        "word": "fold",
+        "phonetic": "[foʊld]",
+        "meaning": "v.折叠n.折痕",
+        "example_sentence": "He folded the letter neatly before putting it in the envelope.>\""
+    },
+    {
+        "word": "follow-up",
+        "phonetic": "/ˈfɒləʊ ʌp/",
+        "meaning": "n.&adj.后续(的)",
+        "example_sentence": "I'll give you a call next week for a follow-up on the job interview.>\""
+    },
+    {
+        "word": "fool",
+        "phonetic": "/fuːl/",
+        "meaning": "n.蠢人，傻瓜v.愚弄",
+        "example_sentence": "Don't be fooled by his kind words, he's actually quite sneaky.>\""
+    },
+    {
+        "word": "force",
+        "phonetic": "[fɔːrs]",
+        "meaning": "n.力，力量v.强迫",
+        "example_sentence": "She had to use a lot of force to open the stuck door.>\""
+    },
+    {
+        "word": "fore",
+        "phonetic": "[fɔ:r]",
+        "meaning": "adj.前面的adv.在前面",
+        "example_sentence": "I don't like to cook, but I can help with other chores around the house. For example, I can set the table or sweep the floor.>\""
+    },
+    {
+        "word": "forecast",
+        "phonetic": "/ˈfɔːrkæst/",
+        "meaning": "n.&v.预测，预报",
+        "example_sentence": "I always check the weather forecast before deciding what to wear.>\""
+    },
+    {
+        "word": "forward",
+        "phonetic": "[ˈfɔrwərd]",
+        "meaning": "adj.向前的adv.向前",
+        "example_sentence": "Please move forward in line.>\""
+    },
+    {
+        "word": "fracture",
+        "phonetic": "/ˈfræk.tʃər/",
+        "meaning": "n.断裂v.折断",
+        "example_sentence": "He slipped on the ice and ended up with a fractured arm.>\""
+    },
+    {
+        "word": "frame",
+        "phonetic": "[freɪm]",
+        "meaning": "n.框架，骨骼v.构造",
+        "example_sentence": "She put the picture in a nice frame on the wall."
+    },
+    {
+        "word": "French",
+        "phonetic": "[frɛntʃ]",
+        "meaning": "adj.法国的n.法语",
+        "example_sentence": "I'm learning French at school.>\""
+    },
+    {
+        "word": "fret",
+        "phonetic": "[fret]",
+        "meaning": "v.使烦恼n.烦躁",
+        "example_sentence": "Stop fretting about the little things and enjoy the present moment!>\""
+    },
+    {
+        "word": "front",
+        "phonetic": "[frʌnt]",
+        "meaning": "n.正面，前线v.面对",
+        "example_sentence": "I will meet you at the front of the building.>\""
+    },
+    {
+        "word": "gain",
+        "phonetic": "[ɡeɪn]",
+        "meaning": "v.获得，赢得n.收益",
+        "example_sentence": "I hope to gain more knowledge by reading more books.>\""
+    },
+    {
+        "word": "gamble",
+        "phonetic": "[ˈɡæmbəl]",
+        "meaning": "v.&n.赌博，投机",
+        "example_sentence": "I don't usually gamble, but I decided to try my luck at the casino last night.>\""
+    },
+    {
+        "word": "gasp",
+        "phonetic": "[ɡæsp]",
+        "meaning": "v.&n.喘息，喘气",
+        "example_sentence": "She let out a gasp of surprise when she saw the birthday cake.>\""
+    },
+    {
+        "word": "gaze",
+        "phonetic": "[ɡeɪz]",
+        "meaning": "v.&n.凝视，注视",
+        "example_sentence": "She gazed out of the window, lost in thought.>\""
+    },
+    {
+        "word": "German",
+        "phonetic": "['ˈdʒɜːrmən]",
+        "meaning": "adj.德国的n.德语",
+        "example_sentence": "I'm learning German at school.>\""
+    },
+    {
+        "word": "giant",
+        "phonetic": "[ˈdʒaɪənt]",
+        "meaning": "n.巨人adj.巨大的",
+        "example_sentence": "He felt like a giant when he won the basketball game."
+    },
+    {
+        "word": "giver",
+        "phonetic": "['ˈɡɪvər']",
+        "meaning": "v.给予，付出n.让步",
+        "example_sentence": "She is such a generous giver, always helping others in need.>\""
+    },
+    {
+        "word": "glance",
+        "phonetic": "[ɡlæns]",
+        "meaning": "v.看一眼n.一瞥",
+        "example_sentence": "She gave the menu a quick glance before deciding what to order.>\""
+    },
+    {
+        "word": "glare",
+        "phonetic": "[ɡlɛr]",
+        "meaning": "n.&v.闪耀，瞪眼",
+        "example_sentence": "She gave him a glare when he interrupted her during the meeting.>\""
+    },
+    {
+        "word": "glide",
+        "phonetic": "[ɡlaɪd]",
+        "meaning": "v.&n.滑行，溜",
+        "example_sentence": "She watched the bird glide through the sky gracefully.>\""
+    },
+    {
+        "word": "glimpse",
+        "phonetic": "[ɡlɪm(p)s]",
+        "meaning": "v.&n.瞥见",
+        "example_sentence": "I caught a glimpse of my favorite actor at the shopping mall yesterday."
+    },
+    {
+        "word": "glue",
+        "phonetic": "[ɡluː]",
+        "meaning": "n.胶水n.粘贴",
+        "example_sentence": "I need some glue to fix my broken mug.>\""
+    },
+    {
+        "word": "glut",
+        "phonetic": "[ɡlʌt]",
+        "meaning": "n.供过于求v.狼吞虎咽",
+        "example_sentence": "She often goes shopping and ends up buying too much, creating a glut of items in her house."
+    },
+    {
+        "word": "graduate",
+        "phonetic": "/ˈɡrædʒuət/",
+        "meaning": "v.毕业生v.毕业",
+        "example_sentence": "I will graduate from college next year and then I can start looking for a job.>\""
+    },
+    {
+        "word": "grasp",
+        "phonetic": "[ɡræsp]",
+        "meaning": "v.&n.抓住，领悟",
+        "example_sentence": "He tried to grasp the concept, but found it difficult to understand."
+    },
+    {
+        "word": "Greek",
+        "phonetic": "[ɡriːk]",
+        "meaning": "n.&adj.希腊人(的)",
+        "example_sentence": "My friend is learning Greek at university.>\""
+    },
+    {
+        "word": "grip",
+        "phonetic": "[ɡrɪp]",
+        "meaning": "v.&n.紧握，吸引",
+        "example_sentence": "He tightened his grip on the steering wheel as the rain started pouring down.>\""
+    },
+    {
+        "word": "groan",
+        "phonetic": "[ɡroʊn]",
+        "meaning": "v.n.呻吟",
+        "example_sentence": "Whenever I asked him to help with the dishes, he would just groan and walk away."
+    },
+    {
+        "word": "growl",
+        "phonetic": "[ɡraʊl]",
+        "meaning": "v.&n.咆哮，嗥叫",
+        "example_sentence": "The dog started to growl at the stranger approaching its territory.>\""
+    },
+    {
+        "word": "grown-up",
+        "phonetic": "[ˈɡroʊnˈʌp]",
+        "meaning": "n.成人adj.成人的",
+        "example_sentence": "She is a grown-up now and can make her own decisions.>\""
+    },
+    {
+        "word": "grunt",
+        "phonetic": "[ɡrʌnt]",
+        "meaning": "n.&v.(作)呼噜声",
+        "example_sentence": "When the heavy box fell, he let out a loud grunt as he lifted it back up.>\""
+    },
+    {
+        "word": "guarantee",
+        "phonetic": "/ˌɡærənˈtiː/",
+        "meaning": "n.&v.保证，担保",
+        "example_sentence": "I can guarantee that my car will get you to the airport on time."
+    },
+    {
+        "word": "guard",
+        "phonetic": "[ɡɑːrd]",
+        "meaning": "v.警卫，提防v.哨兵",
+        "example_sentence": "He works as a security guard at the mall.>\""
+    },
+    {
+        "word": "guess",
+        "phonetic": "[ɡɛs]",
+        "meaning": "v.&n.猜想，推测",
+        "example_sentence": "Can you guess how many jelly beans are in the jar?>\""
+    },
+    {
+        "word": "guide",
+        "phonetic": "/ɡaɪd/",
+        "meaning": "v.向导，指引n.导游",
+        "example_sentence": "He works as a tour guide and shows people around the city.>\""
+    },
+    {
+        "word": "hail",
+        "phonetic": "[heɪl]",
+        "meaning": "v.欢呼n.冰雹",
+        "example_sentence": "When it started to hail, we ran for cover.>\""
+    },
+    {
+        "word": "half",
+        "phonetic": "/hɑːf/",
+        "meaning": "n.一半adv.一半",
+        "example_sentence": "I'll have a half a cup of coffee, please.>\""
+    },
+    {
+        "word": "halt",
+        "phonetic": "[hɔlt]",
+        "meaning": "v.&n.停住",
+        "example_sentence": "Due to the heavy rain, the outdoor concert had to come to a sudden halt.>\""
+    },
+    {
+        "word": "hammer",
+        "phonetic": "/ˈhæmər/",
+        "meaning": "n.锤子v.锤击",
+        "example_sentence": "He used a hammer to hang the picture frame on the wall.>\""
+    },
+    {
+        "word": "handicap",
+        "phonetic": "/ˈhændɪˌkæp/",
+        "meaning": "n.障碍v.妨碍",
+        "example_sentence": "He has a slight handicap in math, but he excels in other subjects."
+    },
+    {
+        "word": "handle",
+        "phonetic": "/ˈhændl/",
+        "meaning": "v.处理，对待n.把",
+        "example_sentence": "I can't handle my noisy neighbors anymore.>\""
+    },
+    {
+        "word": "hard",
+        "phonetic": "[hɑːrd]",
+        "meaning": "adj.硬的adv.努力",
+        "example_sentence": "It's hard to believe he's already finished his homework.>\""
+    },
+    {
+        "word": "harm",
+        "phonetic": "[hɑrm]",
+        "meaning": "n.&v.损害，伤害",
+        "example_sentence": "She never meant to harm anyone with her words.>\""
+    },
+    {
+        "word": "harvest",
+        "phonetic": "/ˈhɑːrvɪst/",
+        "meaning": "v.&n.收获",
+        "example_sentence": "Every year, we have a big celebration after we harvest the crops from our farm."
+    },
+    {
+        "word": "haul",
+        "phonetic": "[hɔːl]",
+        "meaning": "v.拉，拖n.获得量",
+        "example_sentence": "She hauled all her books off the shelf to find the one she was looking for.>\""
+    },
+    {
+        "word": "head",
+        "phonetic": "[hɛd]",
+        "meaning": "n.头，领导v.率领",
+        "example_sentence": "She shook her head in disbelief.>\""
+    },
+    {
+        "word": "heap",
+        "phonetic": "[hiːp]",
+        "meaning": "n.一堆，许多v.堆积",
+        "example_sentence": "I have a heap of laundry waiting to be washed."
+    },
+    {
+        "word": "heat",
+        "phonetic": "[hit]",
+        "meaning": "n.热，热烈v.加热",
+        "example_sentence": "I can't sleep well because the heat in my room is unbearable."
+    },
+    {
+        "word": "heed",
+        "phonetic": "[hiːd]",
+        "meaning": "v.&n.注意，留心",
+        "example_sentence": "She never heeded her mother's advice and ended up getting into trouble."
+    },
+    {
+        "word": "help",
+        "phonetic": "[hɛlp]",
+        "meaning": "v.&n.帮助，有助于",
+        "example_sentence": "Can you help me carry these groceries into the house?"
+    },
+    {
+        "word": "herd",
+        "phonetic": "[hɜːrd]",
+        "meaning": "v.放牧n.(牲畜)群",
+        "example_sentence": "Whenever the cows hear the rancher's whistle, they quickly gather in a herd.>\""
+    },
+    {
+        "word": "hike",
+        "phonetic": "[haɪk]",
+        "meaning": "n.&v.徒步郊游",
+        "example_sentence": "We went for a nice hike in the mountains today.>\""
+    },
+    {
+        "word": "hint",
+        "phonetic": "[hɪnt]",
+        "meaning": "n.暗示，迹象v.暗示",
+        "example_sentence": "She gave me a hint about the surprise party.>\""
+    },
+    {
+        "word": "hiss",
+        "phonetic": "[hɪs]",
+        "meaning": "v.&n.(发)嘶嘶声",
+        "example_sentence": "When the cat felt threatened, it would hiss at anyone who approached.>\""
+    },
+    {
+        "word": "hoe",
+        "phonetic": "[hoʊ]",
+        "meaning": "n.锄头v.锄",
+        "example_sentence": "My dad uses a hoe to dig in the garden.>\""
+    },
+    {
+        "word": "hold",
+        "phonetic": "[hoʊld]",
+        "meaning": "v.握住，容纳n.控制",
+        "example_sentence": "I can hold your bag for you while you tie your shoes.>\""
+    },
+    {
+        "word": "home",
+        "phonetic": "[hoʊm]",
+        "meaning": "n.家，故乡adv.回家",
+        "example_sentence": "I always feel relaxed and happy when I'm at home.>\""
+    },
+    {
+        "word": "honor",
+        "phonetic": "/ˈɒnər/",
+        "meaning": "n.荣誉，名誉v.尊敬",
+        "example_sentence": "I was honored to be invited to speak at the event.>\""
+    },
+    {
+        "word": "hook",
+        "phonetic": "[hʊk]",
+        "meaning": "n.钩v.钩住",
+        "example_sentence": "I love hanging my keys on a hook by the door.>\""
+    },
+    {
+        "word": "hope",
+        "phonetic": "[hoʊp]",
+        "meaning": "v.&n.希望，愿望",
+        "example_sentence": "I hope you have a great day!>\""
+    },
+    {
+        "word": "hound",
+        "phonetic": "/haʊnd/\n例句: <He's always been a bit of a hound when it comes to finding good deals online.>",
+        "meaning": "n.猎狗v.追逐",
+        "example_sentence": "He's always been a bit of a hound when it comes to finding good deals online."
+    },
+    {
+        "word": "household",
+        "phonetic": "/ˈhaʊsˌhoʊld/",
+        "meaning": "n.户adj.家庭的",
+        "example_sentence": "Our household always gathers around the table for dinner together.>\""
+    },
+    {
+        "word": "howl",
+        "phonetic": "[haʊl]",
+        "meaning": "v.&n.嚎叫，嚎哭",
+        "example_sentence": "Every night, the lonely wolf would come to the edge of the forest and let out a mournful howl.>\""
+    },
+    {
+        "word": "hug",
+        "phonetic": "[hʌɡ]",
+        "meaning": "v.&n.紧抱",
+        "example_sentence": "She gave her mom a big hug when she saw her at the airport.>\""
+    },
+    {
+        "word": "hurrah",
+        "phonetic": "/hʊˈrɑː/",
+        "meaning": "int.好哇n.喝彩声",
+        "example_sentence": "Hurrah! We won the game!>\""
+    },
+    {
+        "word": "hush",
+        "phonetic": "[hʌʃ]",
+        "meaning": "int.嘘n.沉默",
+        "example_sentence": "She whispered 'hush' to the baby to calm him down.>\""
+    },
+    {
+        "word": "ideal",
+        "phonetic": "[aɪˈdiəl]",
+        "meaning": "adj.理想的n.理想",
+        "example_sentence": "In an ideal world, everyone would have equal opportunities.>\""
+    },
+    {
+        "word": "illiterate",
+        "phonetic": "/ɪˈlɪtərət/",
+        "meaning": "adj.文盲的n.文盲",
+        "example_sentence": "She's illiterate when it comes to using a computer."
+    },
+    {
+        "word": "implement",
+        "phonetic": "[ˈɪmplɪmənt]",
+        "meaning": "v.实行n.工具",
+        "example_sentence": "John always carries a multitool in his backpack, it's such a handy implement to have around for fixing things on the go."
+    },
+    {
+        "word": "import",
+        "phonetic": "/ˈɪm.pɔːrt/",
+        "meaning": "v.进口，引进n.进口货",
+        "example_sentence": "I need to import some goods from overseas for my business.>\""
+    },
+    {
+        "word": "incense",
+        "phonetic": "[ˈɪnsɛns]",
+        "meaning": "v.使发怒n.香",
+        "example_sentence": "I love the smell of incense burning in my room, it's so soothing.>\""
+    },
+    {
+        "word": "increase",
+        "phonetic": "[ɪnˈkriːs]",
+        "meaning": "v.&n.增加，增长",
+        "example_sentence": "The company plans to increase the number of employees next year.>\""
+    },
+    {
+        "word": "Indian",
+        "phonetic": "/ˈɪndiən/",
+        "meaning": "adj.&n.印度人(的)",
+        "example_sentence": "I have a friend who is Indian, and she makes the best curry I've ever tasted."
+    },
+    {
+        "word": "inferior",
+        "phonetic": "[ɪnˈfɪriər]",
+        "meaning": "adj.低级的n.下级",
+        "example_sentence": "He always feels inferior to his older brother, but actually, he is just as talented.>\""
+    },
+    {
+        "word": "inside",
+        "phonetic": "/ˈɪn.saɪd/",
+        "meaning": "n.里面adj.里面的",
+        "example_sentence": "I left my keys inside the house.>\""
+    },
+    {
+        "word": "institute",
+        "phonetic": "['ˈɪnstɪˌtjuːt']",
+        "meaning": "n.(专科)学院v.建立",
+        "example_sentence": "She decided to join the institute for further studies.>\""
+    },
+    {
+        "word": "insult",
+        "phonetic": "[ˈɪnsʌlt]",
+        "meaning": "v.&adj.侮辱",
+        "example_sentence": "Don't take it personally when someone insults you.>\""
+    },
+    {
+        "word": "intent",
+        "phonetic": "[ɪnˈtɛnt]",
+        "meaning": "n.意图adj.专心的",
+        "example_sentence": "I was intent on finishing my work before the deadline."
+    },
+    {
+        "word": "interview",
+        "phonetic": "ˈɪntərˌvjuː",
+        "meaning": "n.&v.会见，面谈",
+        "example_sentence": "I have a job interview tomorrow, so I need to prepare my answers.>\""
+    },
+    {
+        "word": "Irish",
+        "phonetic": "/ˈaɪrɪʃ/",
+        "meaning": "n.&adj.爱尔兰人(的)",
+        "example_sentence": "Many Americans celebrate St. Patrick's Day by wearing green and pretending to be Irish.>\""
+    },
+    {
+        "word": "iron",
+        "phonetic": "/ˈaɪərn/",
+        "meaning": "n.铁，熨斗v.熨平",
+        "example_sentence": "I need to iron my shirt before going out.>\""
+    },
+    {
+        "word": "issue",
+        "phonetic": "/ˈɪʃuː/",
+        "meaning": "v.发行，发布n.发行物",
+        "example_sentence": "She's having some issues at work, but she'll figure it out.>\""
+    },
+    {
+        "word": "Italian",
+        "phonetic": "/ɪˈtæljən/",
+        "meaning": "n.&adj.意大利人(的)",
+        "example_sentence": "I love Italian food, especially pizza and pasta!>\""
+    },
+    {
+        "word": "itch",
+        "phonetic": "/ɪtʃ/",
+        "meaning": "v.&n.痒，热望",
+        "example_sentence": "My mosquito bite began to itch, so I couldn't stop scratching it."
+    },
+    {
+        "word": "jail",
+        "phonetic": "/dʒeɪl/",
+        "meaning": "n.监狱v.监禁",
+        "example_sentence": "I heard Tom got thrown in jail for speeding.>\""
+    },
+    {
+        "word": "Japanese",
+        "phonetic": "[dʒəˈpæniz]",
+        "meaning": "n.&adj.日本人(的)",
+        "example_sentence": "My friend is learning Japanese in school.>\""
+    },
+    {
+        "word": "jet",
+        "phonetic": "[dʒɛt]",
+        "meaning": "v.喷射v.喷气发动机",
+        "example_sentence": "She decided to take a jet to visit her family instead of driving for hours."
+    },
+    {
+        "word": "jettison",
+        "phonetic": "/ˈdʒɛtɪsən/",
+        "meaning": "n.投弃货物v.抛弃",
+        "example_sentence": "When the plane was forced to lighten its load, they had to jettison some of the cargo overboard."
+    },
+    {
+        "word": "jingle",
+        "phonetic": "['ˈdʒɪŋɡəl']",
+        "meaning": "v.&n.(发)叮当声",
+        "example_sentence": "She loves the jingle of the ice cream truck coming down the street.>\""
+    },
+    {
+        "word": "joke",
+        "phonetic": "[dʒoʊk]",
+        "meaning": "n.笑话v.开玩笑",
+        "example_sentence": "She always tells funny jokes to make her friends laugh.>\""
+    },
+    {
+        "word": "judge",
+        "phonetic": "/dʒʌdʒ/",
+        "meaning": "n.法官，裁判v.审判",
+        "example_sentence": "I trust my mom to judge whether my outfit looks good or not.>\""
+    },
+    {
+        "word": "jump",
+        "phonetic": "[dʒʌmp]",
+        "meaning": "v.&n.跳跃，跳动",
+        "example_sentence": "She watched in amazement as the cat made a giant jump onto the table.>\""
+    },
+    {
+        "word": "kick",
+        "phonetic": "[kɪk]",
+        "meaning": "v.&n.踢",
+        "example_sentence": "I kicked the ball into the goal.>\""
+    },
+    {
+        "word": "kid",
+        "phonetic": "[kɪd]",
+        "meaning": "n.小孩v.哄骗",
+        "example_sentence": "I saw a group of kids playing in the park.>\""
+    },
+    {
+        "word": "kind",
+        "phonetic": "[kaɪnd]",
+        "meaning": "n.种类adj.仁慈的",
+        "example_sentence": "She is always so kind and helpful to everyone she meets.>\""
+    },
+    {
+        "word": "knock",
+        "phonetic": "[nɑk]",
+        "meaning": "v.敲，击倒n.敲门声",
+        "example_sentence": "I heard a knock at the door, so I went to answer it.>\""
+    },
+    {
+        "word": "knot",
+        "phonetic": "[nɒt]",
+        "meaning": "n.结，树节v.打结",
+        "example_sentence": "She tied a knot in the rope to secure the tent.>\""
+    },
+    {
+        "word": "label",
+        "phonetic": "[ˈleɪbəl]",
+        "meaning": "n.标签v.标明",
+        "example_sentence": "She always makes sure to check the label before buying any clothes.>\""
+    },
+    {
+        "word": "lack",
+        "phonetic": "[læk]",
+        "meaning": "v.&n.缺少",
+        "example_sentence": "He failed the exam due to lack of preparation.>\""
+    },
+    {
+        "word": "lag",
+        "phonetic": "[læɡ]",
+        "meaning": "v.&n.落后，滞后",
+        "example_sentence": "I always lag behind when I go hiking with my friends.>\""
+    },
+    {
+        "word": "land",
+        "phonetic": "[lænd]",
+        "meaning": "n.陆地，土地v.着陆",
+        "example_sentence": "I love visiting my grandparents who live in the countryside with plenty of land.>\""
+    },
+    {
+        "word": "last",
+        "phonetic": "[læst]",
+        "meaning": "adj.最后的adv.上次",
+        "example_sentence": "I saw him last week.>\""
+    },
+    {
+        "word": "Latin",
+        "phonetic": "[ˈlætn̩]",
+        "meaning": "n.&adj.拉丁语(的)",
+        "example_sentence": "I am learning Latin at school.>\""
+    },
+    {
+        "word": "lean",
+        "phonetic": "[liːn]",
+        "meaning": "v.俯身，倚adj.瘦的",
+        "example_sentence": "She's trying to lean towards a healthier lifestyle by eating more vegetables and exercising regularly.>\""
+    },
+    {
+        "word": "leap",
+        "phonetic": "[liːp]",
+        "meaning": "v.&n.跳跃adj.闰年的",
+        "example_sentence": "She took a deep breath and leaped across the river.>\""
+    },
+    {
+        "word": "lease",
+        "phonetic": "[liːs]",
+        "meaning": "v.租赁，出租n.租约",
+        "example_sentence": "I’m planning to lease a car for my road trip.>\""
+    },
+    {
+        "word": "leather",
+        "phonetic": "/ˈleðər/",
+        "meaning": "n.皮革adj.皮革制的",
+        "example_sentence": "I love the smell of new leather jackets.>\""
+    },
+    {
+        "word": "leave",
+        "phonetic": "[liːv]",
+        "meaning": "v.出发，离开n.休假",
+        "example_sentence": "Don't leave your phone at home when you go out.>\""
+    },
+    {
+        "word": "lecture",
+        "phonetic": "/ˈlɛk.tʃər/",
+        "meaning": "n.&v.演讲，讲课",
+        "example_sentence": "I have a boring lecture this afternoon.>\""
+    },
+    {
+        "word": "left",
+        "phonetic": "[lɛft]",
+        "meaning": "adj.左的adv.向左",
+        "example_sentence": "He always sits on the left side of the classroom.>\""
+    },
+    {
+        "word": "less",
+        "phonetic": "[lɛs]",
+        "meaning": "adj.更少的adv.较小",
+        "example_sentence": "I have less money than you.>\""
+    },
+    {
+        "word": "level",
+        "phonetic": "[ˈlɛvəl]",
+        "meaning": "n.水平，级v.弄平",
+        "example_sentence": "She is on the same level as him in terms of skills."
+    },
+    {
+        "word": "levy",
+        "phonetic": "[ˈlɛvi]",
+        "meaning": "v.征税n.关税",
+        "example_sentence": "The government decided to levy a tax on luxury goods to increase revenue.>\""
+    },
+    {
+        "word": "lie",
+        "phonetic": "[laɪ]",
+        "meaning": "v.躺，位于v.&n.说谎",
+        "example_sentence": "She told a little white lie to her friend about liking the gift she received.>\""
+    },
+    {
+        "word": "lift",
+        "phonetic": "[lɪft]",
+        "meaning": "v.举起，吊n.电梯",
+        "example_sentence": "I need some help to lift this heavy box.>\""
+    },
+    {
+        "word": "light",
+        "phonetic": "[laɪt]",
+        "meaning": "n.光，灯adj.明亮的",
+        "example_sentence": "Can you turn on the light? I can't see anything in this dark room."
+    },
+    {
+        "word": "like",
+        "phonetic": "[laɪk]",
+        "meaning": "v.喜欢prep.像",
+        "example_sentence": "I like to drink coffee in the morning.>\""
+    },
+    {
+        "word": "likely",
+        "phonetic": "/ˈlaɪkli/",
+        "meaning": "adj.可信的adv.很可能",
+        "example_sentence": "It's likely that it will rain tomorrow."
+    },
+    {
+        "word": "limit",
+        "phonetic": "[ˈlɪmɪt]",
+        "meaning": "n.界限，限度v.限制",
+        "example_sentence": "There is a speed limit of 60 miles per hour on this road.>\""
+    },
+    {
+        "word": "limp",
+        "phonetic": "[lɪmp]",
+        "meaning": "adj.柔软的v.跛行",
+        "example_sentence": "She sprained her ankle and had to walk with a slight limp.>\""
+    },
+    {
+        "word": "link",
+        "phonetic": "[lɪŋk]",
+        "meaning": "v.联系，连结n.纽带",
+        "example_sentence": "She sent me a link to the website we were discussing.>\""
+    },
+    {
+        "word": "liquid",
+        "phonetic": "['ˈlɪkwɪd']",
+        "meaning": "n.液体adj.液体的",
+        "example_sentence": "He poured the liquid into a cup.>\""
+    },
+    {
+        "word": "list",
+        "phonetic": "[lɪst]",
+        "meaning": "n.表，名单v.列表",
+        "example_sentence": "I'll make a list of things to buy at the grocery store.>\""
+    },
+    {
+        "word": "litter",
+        "phonetic": "['ˈlɪtər']",
+        "meaning": "v.乱丢废物n.废物",
+        "example_sentence": "Please pick up your litter and throw it in the trash can.>\""
+    },
+    {
+        "word": "live",
+        "phonetic": "[lɪv]",
+        "meaning": "v.居住，生存adj.活的",
+        "example_sentence": "I live in a small apartment in the city.>\""
+    },
+    {
+        "word": "living",
+        "phonetic": "[ˈlɪvɪŋ]",
+        "meaning": "adj.活着的n.生计",
+        "example_sentence": "She enjoys the simple pleasures of living, like cooking and spending time with her family.>\""
+    },
+    {
+        "word": "load",
+        "phonetic": "[loʊd]",
+        "meaning": "n.负载，负担v.装载",
+        "example_sentence": "I helped my friend load his car with groceries.>\""
+    },
+    {
+        "word": "loaf",
+        "phonetic": "[loʊf]",
+        "meaning": "n.面包v.游荡",
+        "example_sentence": "I bought a loaf of bread from the bakery yesterday.>\""
+    },
+    {
+        "word": "loan",
+        "phonetic": "[loʊn]",
+        "meaning": "n.贷款v.出借",
+        "example_sentence": "She asked the bank for a loan to buy a new car.>\""
+    },
+    {
+        "word": "lobby",
+        "phonetic": "/ˈlɑbi/",
+        "meaning": "n.前厅v.游说",
+        "example_sentence": "I usually hang out in the hotel lobby before my business meetings.>\""
+    },
+    {
+        "word": "lock",
+        "phonetic": "[lɒk]",
+        "meaning": "v.锁上n.锁，绺",
+        "example_sentence": "She couldn't find her keys, so she had to call a locksmith to help her unlock the door.>\""
+    },
+    {
+        "word": "long",
+        "phonetic": "[lɔŋ]",
+        "meaning": "adj.长的adv.长久",
+        "example_sentence": "How long will it take to get there?>\""
+    },
+    {
+        "word": "look",
+        "phonetic": "[lʊk]",
+        "meaning": "v.看，看上去n.外表",
+        "example_sentence": "He always has a cool look when he walks into the room.>\""
+    },
+    {
+        "word": "loom",
+        "phonetic": "[luːm]",
+        "meaning": "v.隐隐出现n.织布机",
+        "example_sentence": "Dark storm clouds loom ahead, it looks like it's going to rain soon.>\""
+    },
+    {
+        "word": "loop",
+        "phonetic": "/luːp/",
+        "meaning": "n.环，回路v.环绕",
+        "example_sentence": "I like to loop my favorite song on my playlist.>\""
+    },
+    {
+        "word": "lot",
+        "phonetic": "[lɒt]",
+        "meaning": "n.许多，地adv.相当",
+        "example_sentence": "I have a lot of homework to do tonight.>\""
+    },
+    {
+        "word": "love",
+        "phonetic": "[lʌv]",
+        "meaning": "v.爱，喜欢n.爱情",
+        "example_sentence": "I love spending time with my family on weekends.>\""
+    },
+    {
+        "word": "lump",
+        "phonetic": "[lʌmp]",
+        "meaning": "sumn.总数",
+        "example_sentence": "I accidentally sat on the lump in my bed and it was so uncomfortable.>\""
+    },
+    {
+        "word": "maiden",
+        "phonetic": "/ˈmeɪdn/",
+        "meaning": "n.少女adj.未婚的",
+        "example_sentence": "She was nervous before her first date with her high school sweetheart, but deep down inside she felt like a maiden in a fairy tale.>\""
+    },
+    {
+        "word": "mail",
+        "phonetic": "[meɪl]",
+        "meaning": "n.邮件v.邮寄",
+        "example_sentence": "I need to send out some mail before the post office closes.>\""
+    },
+    {
+        "word": "make",
+        "phonetic": "[meɪk]",
+        "meaning": "v.做，制造n.种类",
+        "example_sentence": "She can make a delicious cake.>\""
+    },
+    {
+        "word": "make-shift",
+        "phonetic": "[ˈmeɪkˌʃɪft]",
+        "meaning": "adj.临时的n.权宜之计",
+        "example_sentence": "When the car broke down, we had to come up with a make-shift solution by using duct tape to hold the bumper in place.>\""
+    },
+    {
+        "word": "manifest",
+        "phonetic": "/ˈmæn.ɪ.fest/",
+        "meaning": "v.表明adj.明白的",
+        "example_sentence": "Her excitement was manifest in the way she jumped up and down when she saw her favorite singer onstage.>\""
+    },
+    {
+        "word": "manual",
+        "phonetic": "/ˈmænjuəl/",
+        "meaning": "adj.用手的n.手册",
+        "example_sentence": "I always prefer to follow a manual when assembling furniture.>\""
+    },
+    {
+        "word": "manufacture",
+        "phonetic": "[ˌmænjuˈfækʧər]",
+        "meaning": "v.&n.制造",
+        "example_sentence": "His company manufactures high-quality furniture for homes and offices.>\""
+    },
+    {
+        "word": "many",
+        "phonetic": "[ˈmɛni]",
+        "meaning": "adj.许多的n.许多",
+        "example_sentence": "I have many friends in my neighborhood.>\""
+    },
+    {
+        "word": "map",
+        "phonetic": "[mæp]",
+        "meaning": "n.地图v.筹划",
+        "example_sentence": "I always use a map when I travel to new places.>\""
+    },
+    {
+        "word": "march",
+        "phonetic": "/mɑːrtʃ/",
+        "meaning": "n.&v.行进，行军",
+        "example_sentence": "We watched the parade as the soldiers marched by.>\""
+    },
+    {
+        "word": "marvel",
+        "phonetic": "['ˈmɑrvəl']",
+        "meaning": "n.奇迹v.惊奇",
+        "example_sentence": "I marvel at how fast time flies when I'm having fun.>\""
+    },
+    {
+        "word": "mask",
+        "phonetic": "[mæsk]",
+        "meaning": "n.假面具v.掩饰",
+        "example_sentence": "I forgot to bring my mask when I went to the grocery store.>\""
+    },
+    {
+        "word": "massacre",
+        "phonetic": "/ˈmæs.ə.kər/",
+        "meaning": "n.&v.屠杀，残杀",
+        "example_sentence": "The massacre in the movie was so intense that I had to cover my eyes.>\""
+    },
+    {
+        "word": "mass",
+        "phonetic": "[mæs]",
+        "meaning": "median.传媒工具，新闻界",
+        "example_sentence": "He put a mass of toppings on his pizza.>\""
+    },
+    {
+        "word": "mate",
+        "phonetic": "[meɪt]",
+        "meaning": "n.伙伴v.配对",
+        "example_sentence": "My college roommate is also my best mate."
+    },
+    {
+        "word": "meanwhile",
+        "phonetic": "[ˈmiːnˌwaɪl]",
+        "meaning": "adv.&n.在这期间",
+        "example_sentence": "Meanwhile, I'll finish up this report and then we can head out for lunch together."
+    },
+    {
+        "word": "melancholy",
+        "phonetic": "[ˈmɛlənkɑli]",
+        "meaning": "n.&adj.忧郁(的)",
+        "example_sentence": "Lena had been feeling really melancholy lately, so I took her out for ice cream to cheer her up.>\""
+    },
+    {
+        "word": "menace",
+        "phonetic": "/ˈmenɪs/",
+        "meaning": "v.&n.威胁，恐吓",
+        "example_sentence": "The dark clouds overhead were a familiar menace, signaling an impending storm.>\""
+    },
+    {
+        "word": "mention",
+        "phonetic": "/ˈmɛnʃən/",
+        "meaning": "v.&n.提及，讲到",
+        "example_sentence": "I forgot to mention that we have a meeting tomorrow.>\""
+    },
+    {
+        "word": "merchant",
+        "phonetic": "/ˈmɜːr.tʃənt/",
+        "meaning": "n.商人adj.商业的",
+        "example_sentence": "My uncle is a successful merchant who owns a small shop in the neighborhood.>\""
+    },
+    {
+        "word": "merit",
+        "phonetic": "['ˈmerɪt']",
+        "meaning": "n.价值，功绩v.应得",
+        "example_sentence": "His hard work and dedication merit recognition.>\""
+    },
+    {
+        "word": "mess",
+        "phonetic": "[mes]",
+        "meaning": "n.肮脏，凌乱v.弄脏",
+        "example_sentence": "My room is such a mess, I really need to clean it up.>\""
+    },
+    {
+        "word": "Mexican",
+        "phonetic": "/ˈmɛksɪkən/",
+        "meaning": "n.&adj.墨西哥人(的)",
+        "example_sentence": "I love Mexican food, especially tacos and guacamole.>\""
+    },
+    {
+        "word": "middle",
+        "phonetic": "/ˈmɪdəl/",
+        "meaning": "n.当中adj.中部的",
+        "example_sentence": "She sat in the middle of the couch during the movie.>\""
+    },
+    {
+        "word": "might",
+        "phonetic": "/maɪt/",
+        "meaning": "v.或许，可以n.力",
+        "example_sentence": "I might go to the party later, but I'm not sure yet.>\""
+    },
+    {
+        "word": "milk",
+        "phonetic": "[mɪlk]",
+        "meaning": "n.奶，乳夜v.挤奶",
+        "example_sentence": "I always drink a glass of milk with my breakfast.>\""
+    },
+    {
+        "word": "mill",
+        "phonetic": "[mɪl]",
+        "meaning": "n.磨坊，工厂v.滚乱",
+        "example_sentence": "I live near an old mill that still operates on the weekends.>\""
+    },
+    {
+        "word": "mind",
+        "phonetic": "/maɪnd/",
+        "meaning": "n.头脑，智力v.介意",
+        "example_sentence": "I don't mind watching that movie again.>\""
+    },
+    {
+        "word": "mine",
+        "phonetic": "/maɪn/",
+        "meaning": "pron.我的n.矿山",
+        "example_sentence": "That book is mine, I lent it to you last week.>\""
+    },
+    {
+        "word": "mineral",
+        "phonetic": "[ˈmɪnərəl]",
+        "meaning": "n.矿物adj.矿物的",
+        "example_sentence": "I drink mineral water every day, it's good for my health.>\""
+    },
+    {
+        "word": "minimum",
+        "phonetic": "[ˈmɪnɪməm]",
+        "meaning": "n.最少量adj.最小的",
+        "example_sentence": "I always try to get at least the minimum amount of sleep I need to function well the next day."
+    },
+    {
+        "word": "minus",
+        "phonetic": "/ˈmaɪnəs/",
+        "meaning": "prep.减去adj.减的",
+        "example_sentence": "I have five apples, but I only need four, so that leaves me with one minus apple."
+    },
+    {
+        "word": "mirror",
+        "phonetic": "['ˈmɪrər']",
+        "meaning": "n.镜子v.反映",
+        "example_sentence": "I can see myself in the mirror.>\""
+    },
+    {
+        "word": "mist",
+        "phonetic": "[mɪst]",
+        "meaning": "n.薄雾v.使迷糊",
+        "example_sentence": "The mist enveloped the entire city, making it look mysterious and beautiful.>\""
+    },
+    {
+        "word": "mistake",
+        "phonetic": "/mɪˈsteɪk/",
+        "meaning": "n.错误，误解v.搞错",
+        "example_sentence": "It's easy to make a mistake when you're learning something new.>\""
+    },
+    {
+        "word": "moan",
+        "phonetic": "/məʊn/",
+        "meaning": "v.&n.呻吟，悲叹",
+        "example_sentence": "She let out a loud moan when she stubbed her toe.>\""
+    },
+    {
+        "word": "moderate",
+        "phonetic": "[ˈmɒdərɪt]",
+        "meaning": "adj.适度的v.缓和",
+        "example_sentence": "She only drinks a moderate amount of coffee in the morning.>\""
+    },
+    {
+        "word": "monthly",
+        "phonetic": "/ˈmʌnθli/",
+        "meaning": "adj.每月的n.月刊",
+        "example_sentence": "I get my hair cut monthly to keep it looking fresh.>\""
+    },
+    {
+        "word": "moral",
+        "phonetic": "/ˈmɔːrəl/",
+        "meaning": "adj.道德的n.教训",
+        "example_sentence": "I always try to make moral decisions in my daily life.>\""
+    },
+    {
+        "word": "Moslem",
+        "phonetic": "/ˈmʌzlɪm/",
+        "meaning": "n.&adj.穆斯林",
+        "example_sentence": "I have a Muslim friend who goes to the mosque every Friday.>\""
+    },
+    {
+        "word": "most",
+        "phonetic": "[moʊst]",
+        "meaning": "adj.最多的adv.非常",
+        "example_sentence": "She is the most talented singer in our school.>\""
+    },
+    {
+        "word": "mother",
+        "phonetic": "[ˈmʌðər]",
+        "meaning": "n.母亲adj.出生地的",
+        "example_sentence": "My mother makes the best pancakes in town."
+    },
+    {
+        "word": "mount",
+        "phonetic": "[maʊnt]",
+        "meaning": "n.山，岳v.登上",
+        "example_sentence": "I love hiking in the mountains, it's so nice to get away from the city and enjoy the fresh air and beautiful views."
+    },
+    {
+        "word": "much",
+        "phonetic": "[mʌtʃ]",
+        "meaning": "adj.许多的n.许多",
+        "example_sentence": "I don't have much time to finish this task before the meeting.>\""
+    },
+    {
+        "word": "murder",
+        "phonetic": "/ˈmɜːrdər/",
+        "meaning": "v.&n.谋杀(案)",
+        "example_sentence": "It was a murder! I can't believe someone would do something so awful.>\""
+    },
+    {
+        "word": "musical",
+        "phonetic": "/ˈmjuːzɪkəl/",
+        "meaning": "adj.音乐的n.歌舞片",
+        "example_sentence": "I enjoy watching musical movies with catchy songs and energetic dance routines.>\""
+    },
+    {
+        "word": "must",
+        "phonetic": "[mʌst]",
+        "meaning": "v.必须，准是n.必须",
+        "example_sentence": "You must finish your homework before you can go out to play.>\""
+    },
+    {
+        "word": "mute",
+        "phonetic": "[mjuːt]",
+        "meaning": "adj.缄默的n.哑巴",
+        "example_sentence": "She pressed the mute button on the remote control to silence the TV.>\""
+    },
+    {
+        "word": "myriad",
+        "phonetic": "[ˈmɪriəd]",
+        "meaning": "n.&adj.无数(的)",
+        "example_sentence": "There are a myriad of options to choose from when shopping online.>\""
+    },
+    {
+        "word": "nail",
+        "phonetic": "[neɪl]",
+        "meaning": "n.钉子，指甲v.钉",
+        "example_sentence": "I always paint my nails before a special event.>\""
+    },
+    {
+        "word": "name",
+        "phonetic": "[neɪm]",
+        "meaning": "n.姓名，名称v.命名",
+        "example_sentence": "What's your name?>\""
+    },
+    {
+        "word": "near",
+        "phonetic": "[nɪr]",
+        "meaning": "adv.近adj.近的",
+        "example_sentence": "He lives near the school.>\""
+    },
+    {
+        "word": "nearby",
+        "phonetic": "/ˈnɪərˌbaɪ/",
+        "meaning": "adj.&adv.附近(的)",
+        "example_sentence": "There's a grocery store nearby, so we can easily grab some snacks.>\""
+    },
+    {
+        "word": "need",
+        "phonetic": "[ni:d]",
+        "meaning": "n.需要，贫困v.需要",
+        "example_sentence": "I need to buy some groceries before we run out of food.>\""
+    },
+    {
+        "word": "negative",
+        "phonetic": "/ˈnɛɡətɪv/",
+        "meaning": "adj.否定的n.负片",
+        "example_sentence": "Her negative attitude is really bringing down the morale of the team.>\""
+    },
+    {
+        "word": "neglect",
+        "phonetic": "[nɪˈɡlɛkt]",
+        "meaning": "v.&n.疏忽，忽视",
+        "example_sentence": "She neglected to water the plants while we were away on vacation."
+    },
+    {
+        "word": "net",
+        "phonetic": "[net]",
+        "meaning": "n.网adj.净的，纯的",
+        "example_sentence": "I bought a new net to play badminton in the park."
+    },
+    {
+        "word": "no",
+        "phonetic": "[noʊ]",
+        "meaning": "adv.不，毫不adj.没有",
+        "example_sentence": "No, I don't want any coffee, thanks.>\""
+    },
+    {
+        "word": "nod",
+        "phonetic": "[nɒd]",
+        "meaning": "v.&n.点头",
+        "example_sentence": "She nodded in agreement when I asked if she wanted more coffee."
+    },
+    {
+        "word": "north",
+        "phonetic": "[nɔːrθ]",
+        "meaning": "n.北，北方adj.北的",
+        "example_sentence": "I am driving north to visit my parents this weekend.>\""
+    },
+    {
+        "word": "northeast",
+        "phonetic": "/ˌnɔːrˈθiːst/",
+        "meaning": "adj.&n.东北(的)",
+        "example_sentence": "I live in the northeast part of the city.>\""
+    },
+    {
+        "word": "northward",
+        "phonetic": "/ˈnɔːrθwərd/",
+        "meaning": "adj.&adv.向北(的)",
+        "example_sentence": "He pointed northward and said, 'Let's head in that direction.'>\""
+    },
+    {
+        "word": "northwest",
+        "phonetic": "[ˈnɔːrθˈwɛst]",
+        "meaning": "adj.&n.西北(的)",
+        "example_sentence": "I live in the northwest part of the city, so my commute to work is about 30 minutes each way."
+    },
+    {
+        "word": "nothing",
+        "phonetic": "/ˈnʌθɪŋ/",
+        "meaning": "n.没有东西adv.毫不",
+        "example_sentence": "He said he had nothing to do with it.>\""
+    },
+    {
+        "word": "notice",
+        "phonetic": "[ˈnoʊtɪs]",
+        "meaning": "v.留意n.注意，通知",
+        "example_sentence": "I didn't notice the time passing while I was watching a movie."
+    },
+    {
+        "word": "notwithstanding",
+        "phonetic": "[ˌnɑt.wɪðˈstænd.ɪŋ]",
+        "meaning": "prep.&conj.尽管",
+        "example_sentence": "Notwithstanding the bad weather, we still managed to have a great time at the beach.>\""
+    },
+    {
+        "word": "novel",
+        "phonetic": "/ˈnɒvəl/",
+        "meaning": "adj.新颖的n.小说",
+        "example_sentence": "I just finished reading a really amazing novel.>\""
+    },
+    {
+        "word": "now",
+        "phonetic": "[naʊ]",
+        "meaning": "adv.n.现在conj.既然",
+        "example_sentence": "I'm busy right now, can we talk later?"
+    },
+    {
+        "word": "nurse",
+        "phonetic": "[nɜːrs]",
+        "meaning": "n.护士，保姆v.护理",
+        "example_sentence": "I want to thank the nurse for taking care of me during my stay at the hospital.>\""
+    },
+    {
+        "word": "object",
+        "phonetic": "[ˈɑːbdʒɛkt]",
+        "meaning": "n.物体，目的v.反对",
+        "example_sentence": "She found a strange object in the woods while walking the dog.>\""
+    },
+    {
+        "word": "objective",
+        "phonetic": "[əbˈdʒɛktɪv]",
+        "meaning": "n.目标adj.客观的",
+        "example_sentence": "My main objective today is to finish my homework before dinner.>\""
+    },
+    {
+        "word": "obscure",
+        "phonetic": "[əbˈskjʊr]",
+        "meaning": "adj.无名的v.遮蔽",
+        "example_sentence": "The meaning of this poem is quite obscure to me.>\""
+    },
+    {
+        "word": "off",
+        "phonetic": "/ɒf/",
+        "meaning": "adv.去prep.离开",
+        "example_sentence": "I turned off the TV before going to bed.>\""
+    },
+    {
+        "word": "offer",
+        "phonetic": "/ˈɒfər/",
+        "meaning": "v.&n.提供，报盘",
+        "example_sentence": "He offered me a ride to the airport.>\""
+    },
+    {
+        "word": "official",
+        "phonetic": "/əˈfɪʃəl/",
+        "meaning": "n.官员adj.官方的",
+        "example_sentence": "Is she an official member of the team?"
+    },
+    {
+        "word": "o.k.",
+        "phonetic": "[ ˌoʊˈkeɪ ]",
+        "meaning": "adj.&n.(缩)对，行",
+        "example_sentence": "She said the project was looking good, so I guess it's ok.>\""
+    },
+    {
+        "word": "one",
+        "phonetic": "[wʌn]",
+        "meaning": "num.&n.一，一个",
+        "example_sentence": "Can I have just one cookie, please?>\""
+    },
+    {
+        "word": "only",
+        "phonetic": "/ˈoʊnli/",
+        "meaning": "adj.唯一的adv.仅仅",
+        "example_sentence": "I will only be able to stay for an hour at the party tonight."
+    },
+    {
+        "word": "onward",
+        "phonetic": "/ˈɒnwəd/",
+        "meaning": "adv.&adj.向前(的)",
+        "example_sentence": "We will continue onward with our journey despite the challenges ahead."
+    },
+    {
+        "word": "open",
+        "phonetic": "[ˈəʊpən]",
+        "meaning": "adj.开的v.打开",
+        "example_sentence": "Can you please open the window? It's a bit stuffy in here.>\""
+    },
+    {
+        "word": "orderly",
+        "phonetic": "/ˈɔːrdərli/",
+        "meaning": "adj.整齐的n.勤务员",
+        "example_sentence": "He is known for being very orderly and always keeps his workspace neat and organized.>\""
+    },
+    {
+        "word": "orient",
+        "phonetic": "[ˈɔːriənt]",
+        "meaning": "n.东方v.定方针",
+        "example_sentence": "She quickly orient herself in the new city.>\""
+    },
+    {
+        "word": "oriental",
+        "phonetic": "/ˌɔːriˈɛntəl/",
+        "meaning": "adj.&n.东方的(人)",
+        "example_sentence": "I love the fragrant oriental cuisine, with its rich blend of spices and flavors.>\""
+    },
+    {
+        "word": "original",
+        "phonetic": "[əˈrɪdʒɪnl]",
+        "meaning": "adj.原始的n.原物",
+        "example_sentence": "My friend's new song is great, but I still prefer the original.>\""
+    },
+    {
+        "word": "otherwise",
+        "phonetic": "/ˈʌðərˌwaɪz/",
+        "meaning": "adv.另外的conj.否则",
+        "example_sentence": "Otherwise, I would have gone to the party with you.>\""
+    },
+    {
+        "word": "outside",
+        "phonetic": "/ˈaʊtsaɪd/",
+        "meaning": "n.外部adv.在外面",
+        "example_sentence": "I like to sit outside and enjoy the fresh air.>\""
+    },
+    {
+        "word": "outward",
+        "phonetic": "/ˈaʊtwərd/",
+        "meaning": "adj.&adv.向外(的)",
+        "example_sentence": "He always shows his feelings outwardly, but inside, he's very reserved.>\""
+    },
+    {
+        "word": "overcharge",
+        "phonetic": "/ˌoʊvərˈtʃɑːrd/",
+        "meaning": "v.&n.多收(的)钱",
+        "example_sentence": "I got overcharged for that meal last night, the bill was way too high.>\""
+    },
+    {
+        "word": "overhead",
+        "phonetic": "/ˈoʊvərˌhɛd/",
+        "meaning": "adv.&adj.头上(的)",
+        "example_sentence": "I usually store my luggage in the overhead compartment when I fly.>\""
+    },
+    {
+        "word": "overload",
+        "phonetic": "/ˌoʊvərˈloʊd/",
+        "meaning": "adv.&n.超载",
+        "example_sentence": "My brain is officially on overload from studying for this exam.>\""
+    },
+    {
+        "word": "overnight",
+        "phonetic": "/ˌoʊvərˈnaɪt/",
+        "meaning": "adv.&adj.终夜(的)",
+        "example_sentence": "We left the dough to rise overnight before baking it in the morning.>\""
+    },
+    {
+        "word": "overseas",
+        "phonetic": "/ˌoʊ.vərˈsiz/\n例句: <I've never been overseas before, but I'd love to travel abroad someday.>",
+        "meaning": "adv.&adj.海外(的)",
+        "example_sentence": "I've never been overseas before, but I'd love to travel abroad someday."
+    },
+    {
+        "word": "own",
+        "phonetic": "[oʊn]",
+        "meaning": "adj.自己的v.拥有",
+        "example_sentence": "I like to have my own space when I'm studying.>\""
+    },
+    {
+        "word": "pack",
+        "phonetic": "[pæk]",
+        "meaning": "v.包装，挤满n.背包",
+        "example_sentence": "She always packs her lunch before going to work.>\""
+    },
+    {
+        "word": "package",
+        "phonetic": "/ˈpækɪdʒ/",
+        "meaning": "n.包裹v.打包",
+        "example_sentence": "I received a package from my friend yesterday.>\""
+    },
+    {
+        "word": "pain",
+        "phonetic": "[peɪn]",
+        "meaning": "n.疼痛，悲痛v.作痛",
+        "example_sentence": "I have a sharp pain in my back from sitting at my desk for too long.>\""
+    },
+    {
+        "word": "paint",
+        "phonetic": "[peɪnt]",
+        "meaning": "n.涂料，油漆v.刷漆",
+        "example_sentence": "She loves to paint in her free time."
+    },
+    {
+        "word": "panic",
+        "phonetic": "/ˈpænɪk/\n例句: <When she realized she left her phone in the taxi, she started to panic and frantically searched through her bag.>",
+        "meaning": "n.&v.恐慌，惊慌",
+        "example_sentence": "When she realized she left her phone in the taxi, she started to panic and frantically searched through her bag."
+    },
+    {
+        "word": "pant",
+        "phonetic": "[pænt]",
+        "meaning": "n.&v.喘气",
+        "example_sentence": "He was panting heavily after running for the bus.>\""
+    },
+    {
+        "word": "parade",
+        "phonetic": "/pəˈreɪd/",
+        "meaning": "n.&v.游行",
+        "example_sentence": "We love watching the parade on the Fourth of July.>\""
+    },
+    {
+        "word": "pardon",
+        "phonetic": "[pɑːrdn]",
+        "meaning": "n.&v.原谅，赦免",
+        "example_sentence": "I beg your pardon, could you please repeat that?>\""
+    },
+    {
+        "word": "park",
+        "phonetic": "[pɑːrk]",
+        "meaning": "n.公园v.停放车辆",
+        "example_sentence": "Let's meet at the park this afternoon.>\""
+    },
+    {
+        "word": "particular",
+        "phonetic": "[pərˈtɪkjələr]",
+        "meaning": "adj.特殊的n.项目",
+        "example_sentence": "He's very particular about the way he likes his coffee, always asking for it with a splash of almond milk."
+    },
+    {
+        "word": "partition",
+        "phonetic": "[pɑrˈtɪʃən]",
+        "meaning": "v.&n.划分，隔开",
+        "example_sentence": "I used a partition to create a separate workspace in my small apartment.>\""
+    },
+    {
+        "word": "pass",
+        "phonetic": "[pæs]",
+        "meaning": "v.经过，传给n.关口",
+        "example_sentence": "I need to pass my driving test next week.>\""
+    },
+    {
+        "word": "past",
+        "phonetic": "/pæst/",
+        "meaning": "adj.过去的n.过去",
+        "example_sentence": "I ate pizza for lunch yesterday.>\""
+    },
+    {
+        "word": "pat",
+        "phonetic": "/pæt/",
+        "meaning": "n.&v.轻拍，抚摸",
+        "example_sentence": "She gave the dog a pat on the head.>\""
+    },
+    {
+        "word": "patient",
+        "phonetic": "/ˈpeɪʃənt/",
+        "meaning": "adj.耐心的n.病人",
+        "example_sentence": "She's a very patient teacher, always willing to explain things until we understand.>\""
+    },
+    {
+        "word": "patrol",
+        "phonetic": "/pəˈtroʊl/",
+        "meaning": "v.巡逻n.巡逻队",
+        "example_sentence": "I saw the security guard on patrol around the neighborhood last night.>\""
+    },
+    {
+        "word": "pause",
+        "phonetic": "[pɔːz]",
+        "meaning": "v.&n.暂停，中止",
+        "example_sentence": "I paused the movie so we could get some popcorn.>\""
+    },
+    {
+        "word": "pay",
+        "phonetic": "[peɪ]",
+        "meaning": "v.支付n.工资",
+        "example_sentence": "I need to pay my bills by the end of the week.>\""
+    },
+    {
+        "word": "pedal",
+        "phonetic": "/ˈpɛdəl/",
+        "meaning": "n.踏板v.骑车",
+        "example_sentence": "I like to pedal my bike to work every day.>\""
+    },
+    {
+        "word": "peel",
+        "phonetic": "[piːl]",
+        "meaning": "n.果皮v.削、剥皮",
+        "example_sentence": "She peeled the orange before eating it.>\""
+    },
+    {
+        "word": "peer",
+        "phonetic": "[pɪr]",
+        "meaning": "n.同行v.盯，凝视",
+        "example_sentence": "She looked at her peer and smiled.>\""
+    },
+    {
+        "word": "peg",
+        "phonetic": "[pɛɡ]",
+        "meaning": "n.桩v.(汇率)钉住",
+        "example_sentence": "Can you please pass me that peg over there? I need it to hang up this photo."
+    },
+    {
+        "word": "permit",
+        "phonetic": "[pərˈmɪt]",
+        "meaning": "v.允许n.许可证",
+        "example_sentence": "She forgot to bring her permit, so she couldn't park in the reserved space.>\""
+    },
+    {
+        "word": "petition",
+        "phonetic": "[pəˈtɪʃən]",
+        "meaning": "v.&n.请愿(书)",
+        "example_sentence": "I signed a petition to help save the local park from being turned into a shopping mall.>\""
+    },
+    {
+        "word": "phone",
+        "phonetic": "/foʊn/",
+        "meaning": "n.电话v.打电话",
+        "example_sentence": "I lost my phone and couldn't find it anywhere.>\""
+    },
+    {
+        "word": "photograph",
+        "phonetic": "/ˈfoʊ.t̬əˌɡræf/",
+        "meaning": "n.照片v.拍照",
+        "example_sentence": "I'll take a photograph of us at the beach.>\""
+    },
+    {
+        "word": "pick",
+        "phonetic": "[pɪk]",
+        "meaning": "v.拣，采n.精华，镐",
+        "example_sentence": "She picks up her phone every time it rings.>\""
+    },
+    {
+        "word": "picnic",
+        "phonetic": "[ˈpɪk.nɪk]",
+        "meaning": "n.&v.郊游，野餐",
+        "example_sentence": "Let's have a picnic in the park this weekend!>\""
+    },
+    {
+        "word": "pile",
+        "phonetic": "[paɪl]",
+        "meaning": "n.堆v.堆积",
+        "example_sentence": "She threw her dirty clothes in a pile on the floor.>\""
+    },
+    {
+        "word": "pin",
+        "phonetic": "[pɪn]",
+        "meaning": "n.别针，发卡v.别住",
+        "example_sentence": "She used a pin to attach the note to the bulletin board.>\""
+    },
+    {
+        "word": "pink",
+        "phonetic": "[pɪŋk]",
+        "meaning": "adj.&n.桃色，粉红色",
+        "example_sentence": "I love the color pink because it’s so pretty!>\""
+    },
+    {
+        "word": "pioneer",
+        "phonetic": "/ˌpaɪəˈnɪər/",
+        "meaning": "n.先驱者v.倡导",
+        "example_sentence": "My uncle was a pioneer in the field of renewable energy, always trying out new ideas to make our lives better.>\""
+    },
+    {
+        "word": "pirate",
+        "phonetic": "/ˈpaɪrət/",
+        "meaning": "n.海盗adj.盗版的",
+        "example_sentence": "He dressed up as a pirate for Halloween last year.>\""
+    },
+    {
+        "word": "place",
+        "phonetic": "[pleɪs]",
+        "meaning": "n.地方，位置v.放置",
+        "example_sentence": "I'm meeting my friend at the coffee place later.>\""
+    },
+    {
+        "word": "plant",
+        "phonetic": "[plænt]",
+        "meaning": "n.植物，工厂v.栽培",
+        "example_sentence": "I water my plants every morning.>\""
+    },
+    {
+        "word": "plaster",
+        "phonetic": "/ˈplæstər/",
+        "meaning": "n.灰泥v.粘贴",
+        "example_sentence": "I cut my finger while cooking, so I had to put a plaster on it.>\""
+    },
+    {
+        "word": "plastic",
+        "phonetic": "/ˈplæstɪk/",
+        "meaning": "n.塑料adj.可塑的",
+        "example_sentence": "I always bring a reusable water bottle with me to reduce my use of plastic.>\""
+    },
+    {
+        "word": "pledge",
+        "phonetic": "[plɛdʒ]",
+        "meaning": "n.暂约，抵押v.保证",
+        "example_sentence": "She made a pledge to exercise regularly, but ended up skipping the gym every day."
+    },
+    {
+        "word": "plot",
+        "phonetic": "[plɒt]",
+        "meaning": "n.阴谋，情节v.密谋",
+        "example_sentence": "I love a good plot twist in movies!>\""
+    },
+    {
+        "word": "plough",
+        "phonetic": "[plaʊ]",
+        "meaning": "n.&v.犁",
+        "example_sentence": "He was ploughing the field all day yesterday.>\""
+    },
+    {
+        "word": "pluck",
+        "phonetic": "[plʌk]",
+        "meaning": "v.拔，摘n.勇气",
+        "example_sentence": "She plucked a flower from the garden.>\""
+    },
+    {
+        "word": "plug",
+        "phonetic": "[plʌɡ]",
+        "meaning": "n.塞子，插头v.堵住",
+        "example_sentence": "I always forget to plug in my phone before I go to bed."
+    },
+    {
+        "word": "plunder",
+        "phonetic": "/ˈplʌndər/",
+        "meaning": "v.&n.掠夺，抢劫",
+        "example_sentence": "The pirates sailed the seas in search of treasure to plunder."
+    },
+    {
+        "word": "plus",
+        "phonetic": "/plʌs/",
+        "meaning": "prep.加n.加号，正号",
+        "example_sentence": "I'll have a burger plus fries for lunch.>\""
+    },
+    {
+        "word": "pocket",
+        "phonetic": "/ˈpɑkɪt/",
+        "meaning": "n.衣袋adj.袖珍的",
+        "example_sentence": "I always keep my phone in my pocket when I go out.>\""
+    },
+    {
+        "word": "point",
+        "phonetic": "[pɔɪnt]\n例句: <Can you please point me to the nearest coffee shop?>",
+        "meaning": "n.尖，点，分v.指",
+        "example_sentence": "Can you please point me to the nearest coffee shop?"
+    },
+    {
+        "word": "poison",
+        "phonetic": "/ˈpɔɪzən/",
+        "meaning": "n.毒，毒药v.放毒",
+        "example_sentence": "Be careful with that plant – it's poisonous.>\""
+    },
+    {
+        "word": "pop",
+        "phonetic": "[pɒp]",
+        "meaning": "v.&n.砰的一声，爆裂",
+        "example_sentence": "I love to listen to pop music.>\""
+    },
+    {
+        "word": "Portuguese",
+        "phonetic": "/ˌpɔːr.tʃəˈɡiːz/",
+        "meaning": "n.&adj.葡萄牙人(的)",
+        "example_sentence": "I'm learning Portuguese because I want to travel to Brazil.>\""
+    },
+    {
+        "word": "post",
+        "phonetic": "[poʊst]",
+        "meaning": "n.柱，职位v.邮寄",
+        "example_sentence": "I posted a photo on social media yesterday.>\""
+    },
+    {
+        "word": "potential",
+        "phonetic": "[pəˈtɛnʃəl]",
+        "meaning": "adj.潜在的n.潜力",
+        "example_sentence": "She has the potential to become a great singer.>\""
+    },
+    {
+        "word": "pound",
+        "phonetic": "[paʊnd]",
+        "meaning": "n.英镑，磅v.重击",
+        "example_sentence": "I weighed the package on the scale and it came to five pounds.>\""
+    },
+    {
+        "word": "praise",
+        "phonetic": "[preɪz]",
+        "meaning": "v.&n.赞美，称颂",
+        "example_sentence": "She always praises her children for their hard work.>\""
+    },
+    {
+        "word": "present",
+        "phonetic": "['ˈprɛzənt']",
+        "meaning": "adj.在场的n.现在",
+        "example_sentence": "I will be present at the meeting tomorrow.>\""
+    },
+    {
+        "word": "press",
+        "phonetic": "[prɛs]",
+        "meaning": "v.压，榨，按n.印刷",
+        "example_sentence": "I need to press the button to start the machine.>\""
+    },
+    {
+        "word": "price",
+        "phonetic": "/praɪs/",
+        "meaning": "n.价格，代价v.定价",
+        "example_sentence": "I think the price of this dress is a bit too high for my budget.>\""
+    },
+    {
+        "word": "prick",
+        "phonetic": "[prɪk]",
+        "meaning": "v.刺穿n.刺痛",
+        "example_sentence": "Be careful with that cactus, it might prick your finger."
+    },
+    {
+        "word": "print",
+        "phonetic": "[prɪnt]",
+        "meaning": "v.印刷，出版n.字体",
+        "example_sentence": "I need to print out this document for the meeting.>\""
+    },
+    {
+        "word": "privilege",
+        "phonetic": "/ˈprɪv.əl.ɪdʒ/",
+        "meaning": "n.特权v.给特权",
+        "example_sentence": "Having the weekend off is a real privilege for me.>\""
+    },
+    {
+        "word": "process",
+        "phonetic": "[ˈprɑˌsɛs]",
+        "meaning": "n.程序，过程v.处理",
+        "example_sentence": "She explained the whole process to me step by step.>\""
+    },
+    {
+        "word": "processing",
+        "phonetic": "/ˈprɑːˌsɛsɪŋ/",
+        "meaning": "n.&adj.加工(的)",
+        "example_sentence": "I'm currently processing your order, it should be ready for pick-up by tomorrow.>\""
+    },
+    {
+        "word": "professional",
+        "phonetic": "[prəˈfɛʃənl]",
+        "meaning": "adj.职业的n.专业人员",
+        "example_sentence": "She is a professional singer and performs at concerts all over the world.>\""
+    },
+    {
+        "word": "profit",
+        "phonetic": "['ˈprɒfɪt']",
+        "meaning": "n.利润v.获益",
+        "example_sentence": "She sold her old clothes online to make some extra profit.>\""
+    },
+    {
+        "word": "progress",
+        "phonetic": "/ˈprɑːɡres/",
+        "meaning": "n.&v.进步，进展",
+        "example_sentence": "He's making good progress with his new job.>\""
+    },
+    {
+        "word": "project",
+        "phonetic": "/ˈprɒdʒekt/",
+        "meaning": "n.计划v.设计，射出",
+        "example_sentence": "She's working on a school project with her classmates.>\""
+    },
+    {
+        "word": "proletarian",
+        "phonetic": "[ˌprəʊ.ləˈteə.ri.ən]",
+        "meaning": "adj.&n.无产阶级",
+        "example_sentence": "She comes from a proletarian background, just like the rest of us.>\""
+    },
+    {
+        "word": "promise",
+        "phonetic": "/ˈprɒmɪs/",
+        "meaning": "v.允诺，预示n.诺言",
+        "example_sentence": "I promise to help you with your homework tomorrow.>\""
+    },
+    {
+        "word": "prospect",
+        "phonetic": "/ˈprɑːˌspekt/",
+        "meaning": "n.前景v.勘探",
+        "example_sentence": "I heard about a job offer with good prospects for career advancement.>\""
+    },
+    {
+        "word": "protest",
+        "phonetic": "/prəˈtɛst/",
+        "meaning": "v.&n.抗议，反对",
+        "example_sentence": "I don't want to protest, but I feel like we should speak up about this issue.>\""
+    },
+    {
+        "word": "puff",
+        "phonetic": "[pʌf]",
+        "meaning": "n.一阵v.喘气",
+        "example_sentence": "He took a puff of his cigarette and exhaled a cloud of smoke.>\""
+    },
+    {
+        "word": "pull",
+        "phonetic": "[pʊl]",
+        "meaning": "v.拖，拔，扯n.牵引",
+        "example_sentence": "She tried to pull the heavy suitcase off the top shelf.>\""
+    },
+    {
+        "word": "pulse",
+        "phonetic": "[pʌls]",
+        "meaning": "n.脉搏v.跳动",
+        "example_sentence": "I can feel my pulse racing after a vigorous workout.>\""
+    },
+    {
+        "word": "pump",
+        "phonetic": "[pʌmp]",
+        "meaning": "n.泵v.抽水，打气",
+        "example_sentence": "I need to pump up the tires on my bike before we go for a ride.>\""
+    },
+    {
+        "word": "punch",
+        "phonetic": "[pʌntʃ]",
+        "meaning": "n.&v.用拳击，冲孔",
+        "example_sentence": "He punched the wall out of frustration.>\""
+    },
+    {
+        "word": "purchase",
+        "phonetic": "/ˈpɜːrtʃəs/",
+        "meaning": "v.&n.购买",
+        "example_sentence": "I'm going to purchase a new phone tomorrow.>\""
+    },
+    {
+        "word": "purple",
+        "phonetic": "/ˈpɜːrpl/",
+        "meaning": "n.紫色adj.紫色的",
+        "example_sentence": "I bought a beautiful purple dress for the party.>\""
+    },
+    {
+        "word": "push",
+        "phonetic": "[pʊʃ]",
+        "meaning": "v.推，推动n.推力",
+        "example_sentence": "He pushed the door open with his shoulder.>\""
+    },
+    {
+        "word": "puzzle",
+        "phonetic": "/ˈpʌzəl/",
+        "meaning": "v.使困惑n.难题，谜语",
+        "example_sentence": "I can't figure out this puzzle, it's driving me crazy!>\""
+    },
+    {
+        "word": "quarrel",
+        "phonetic": "/ˈkwɔː.rəl/",
+        "meaning": "v.&n.争吵",
+        "example_sentence": "My parents always seem to quarrel about money.>\""
+    },
+    {
+        "word": "quarterly",
+        "phonetic": "/ˈkwɔːrtərli/",
+        "meaning": "adj.季度的n.季刊",
+        "example_sentence": "I get paid quarterly, every three months."
+    },
+    {
+        "word": "query",
+        "phonetic": "/ˈkwɪəri/",
+        "meaning": "v.&n.询问",
+        "example_sentence": "I have a query about my phone bill.>\""
+    },
+    {
+        "word": "question",
+        "phonetic": "/ˈkwɛs.tʃən/",
+        "meaning": "n.问题，疑问v.询问",
+        "example_sentence": "I have a question for you.>\""
+    },
+    {
+        "word": "queue",
+        "phonetic": "[kjuː]",
+        "meaning": "n.辫子，队v.排队",
+        "example_sentence": "We had to wait in a long queue to buy tickets for the movie."
+    },
+    {
+        "word": "race",
+        "phonetic": "[reɪs]",
+        "meaning": "n.种族，竞赛v.赛跑",
+        "example_sentence": "She won the race and received a medal.>\""
+    },
+    {
+        "word": "rage",
+        "phonetic": "/reɪʤ/",
+        "meaning": "n.盛怒，流行v.大怒",
+        "example_sentence": "His rage boiled over when he found out his favorite shirt had been ruined.>\""
+    },
+    {
+        "word": "rain",
+        "phonetic": "/reɪn/",
+        "meaning": "n.雨v.下雨",
+        "example_sentence": "I forgot to bring an umbrella, so I got caught in the rain.>\""
+    },
+    {
+        "word": "rake",
+        "phonetic": "[reɪk]",
+        "meaning": "n.&v.耙",
+        "example_sentence": "He used a rake to clean up the leaves in the yard.>\""
+    },
+    {
+        "word": "rally",
+        "phonetic": "/ˈræli/",
+        "meaning": "n.&v.集会",
+        "example_sentence": "After a tough week at work, I needed something to rally my spirits.>\""
+    },
+    {
+        "word": "rank",
+        "phonetic": "[ræŋk]",
+        "meaning": "n.军衔，等级v.排列",
+        "example_sentence": "He is a captain with a high rank in the army."
+    },
+    {
+        "word": "rattle",
+        "phonetic": "/ˈrætl/",
+        "meaning": "v.&n.嘎吱响",
+        "example_sentence": "The baby's toy rattle kept her entertained for hours.>\""
+    },
+    {
+        "word": "realist",
+        "phonetic": "[ˈriːəlɪst]",
+        "meaning": "n.adj.现实主义者(的)",
+        "example_sentence": "She's a realist who always looks at things in a practical way.>\""
+    },
+    {
+        "word": "rear",
+        "phonetic": "[rɪr]",
+        "meaning": "n.后部adj.后面的",
+        "example_sentence": "I heard a noise coming from the rear of the house.>\""
+    },
+    {
+        "word": "reason",
+        "phonetic": "[ˈriːzən]",
+        "meaning": "n.原因，理由v.推论",
+        "example_sentence": "I can't go to the party tonight because I have to study for my exam, that's the reason.>\""
+    },
+    {
+        "word": "recompense",
+        "phonetic": "/ˈrɪkəmpɛns/",
+        "meaning": "v.&n.回报，赔偿",
+        "example_sentence": "He received a generous recompense for his hard work and dedication.>\""
+    },
+    {
+        "word": "record",
+        "phonetic": "/ˈrekɔːrd/",
+        "meaning": "v.记录，录音n.记录",
+        "example_sentence": "I'll write it down in my record book.>\""
+    },
+    {
+        "word": "red",
+        "phonetic": "[rɛd]",
+        "meaning": "adj.红的n.红色",
+        "example_sentence": "The ripe strawberries are red and juicy."
+    },
+    {
+        "word": "reel",
+        "phonetic": "/riːl/",
+        "meaning": "n.卷，线轴v.卷绕",
+        "example_sentence": "She felt dizzy and began to reel from side to side after spinning around in circles for too long.>\""
+    },
+    {
+        "word": "reform",
+        "phonetic": "[rɪˈfɔːrm]",
+        "meaning": "v.&n.改革，改造",
+        "example_sentence": "The government is working on education reform to improve the school system.>\""
+    },
+    {
+        "word": "refund",
+        "phonetic": "[ˈriːfʌnd]",
+        "meaning": "v.再投资;归还n.退款",
+        "example_sentence": "I returned the broken item to the store and they gave me a refund."
+    },
+    {
+        "word": "refuse",
+        "phonetic": "[rɪˈfjuz]",
+        "meaning": "v.拒绝n.渣，废物",
+        "example_sentence": "I asked him if he wanted some coffee, but he refused and said he prefers tea.>\""
+    },
+    {
+        "word": "regardless",
+        "phonetic": "[rɪˈɡɑrdləs]",
+        "meaning": "adj.&adv.不顾的(地)",
+        "example_sentence": "Regardless of the rain, we will have a picnic in the park.>\""
+    },
+    {
+        "word": "regret",
+        "phonetic": "['rɪˈɡret']",
+        "meaning": "v.懊悔n.遗憾",
+        "example_sentence": "I regret not spending more time with my family last weekend.>\""
+    },
+    {
+        "word": "reign",
+        "phonetic": "[reɪn]",
+        "meaning": "n.统治v.统治，盛行",
+        "example_sentence": "Her reign as the queen lasted for over 50 years.>\""
+    },
+    {
+        "word": "rein",
+        "phonetic": "[reɪn]",
+        "meaning": "n.缰绳v.驾驭，约束",
+        "example_sentence": "She took the reins and guided the horse down the trail.>\""
+    },
+    {
+        "word": "relative",
+        "phonetic": "[ˈrɛlətɪv]",
+        "meaning": "n.亲戚adj.有关系的",
+        "example_sentence": "My relative is coming to visit us this weekend.>\""
+    },
+    {
+        "word": "rent",
+        "phonetic": "[rent]",
+        "meaning": "n.租金v.租",
+        "example_sentence": "I need to pay my rent by the end of the month."
+    },
+    {
+        "word": "repeal",
+        "phonetic": "[rɪˈpiːl]",
+        "meaning": "v.&n.撤消，废除",
+        "example_sentence": "The government decided to repeal the unpopular law.>\""
+    },
+    {
+        "word": "reply",
+        "phonetic": "[rɪˈplaɪ]",
+        "meaning": "v.&n.回答，答复",
+        "example_sentence": "I texted my friend, and she replied to me right away."
+    },
+    {
+        "word": "reproach",
+        "phonetic": "[rɪˈproʊtʃ]",
+        "meaning": "v.&n.责备，指责",
+        "example_sentence": "I could tell from her reproachful tone that she was upset with me for forgetting her birthday.>\""
+    },
+    {
+        "word": "republican",
+        "phonetic": "[rɪˈpʌblɪkən]",
+        "meaning": "n.&adj.共和(派)的",
+        "example_sentence": "Emily's parents have been loyal Republican voters for many years.>\""
+    },
+    {
+        "word": "repute",
+        "phonetic": "[rɪˈpjuːt]",
+        "meaning": "n.声誉v.看作，评价",
+        "example_sentence": "She is a well-reputed journalist in the industry.>\""
+    },
+    {
+        "word": "rescue",
+        "phonetic": "[ˈrɛs.kjuː]",
+        "meaning": "v.&n.救援，救出",
+        "example_sentence": "The firefighters rescued the cat from the burning building.>\""
+    },
+    {
+        "word": "research",
+        "phonetic": "[rɪˈsɜːrtʃ]",
+        "meaning": "v.&n.调查，研究",
+        "example_sentence": "My sister is doing research on the effects of social media on teenagers."
+    },
+    {
+        "word": "resort",
+        "phonetic": "/rɪˈzɔːrt/",
+        "meaning": "v.诉诸，求助n.胜地",
+        "example_sentence": "I always go to the beach for my summer resort.>\""
+    },
+    {
+        "word": "rest",
+        "phonetic": "[rɛst]",
+        "meaning": "v.休息n.休息，休止",
+        "example_sentence": "After a long day at work, I like to rest on the sofa and watch some TV."
+    },
+    {
+        "word": "retail",
+        "phonetic": "[ˈriːteɪl]",
+        "meaning": "v.&n.零售",
+        "example_sentence": "I prefer to shop at small local retail stores rather than big chain supermarkets.>\""
+    },
+    {
+        "word": "retreat",
+        "phonetic": "/rɪˈtriːt/",
+        "meaning": "v.&n.退却，撤退",
+        "example_sentence": "After a long day at work, I like to retreat to my bedroom and relax with a good book."
+    },
+    {
+        "word": "return",
+        "phonetic": "[rɪˈtɜrn]",
+        "meaning": "v.回归，归还n.归来",
+        "example_sentence": "He promised to return my book tomorrow.>\""
+    },
+    {
+        "word": "revenge",
+        "phonetic": "/rɪˈvɛndʒ/",
+        "meaning": "n.&v.报仇，报复",
+        "example_sentence": "She's seeking revenge on her ex-boyfriend for cheating on her.>\""
+    },
+    {
+        "word": "review",
+        "phonetic": "[rɪˈvjuː]",
+        "meaning": "v.&n.检查，复习",
+        "example_sentence": "I need to review my notes before the exam tomorrow.>\""
+    },
+    {
+        "word": "revolt",
+        "phonetic": "[rɪˈvoʊlt]",
+        "meaning": "n.&v.起义，反抗",
+        "example_sentence": "The citizens decided to revolt against the oppressive government.>\""
+    },
+    {
+        "word": "ride",
+        "phonetic": "[raɪd]",
+        "meaning": "v.乘坐，骑n.乘车",
+        "example_sentence": "I rode my bike to work this morning.>\""
+    },
+    {
+        "word": "ridicule",
+        "phonetic": "/ˈrɪdɪˌkjuːl/",
+        "meaning": "n.&v.嘲笑，挖苦",
+        "example_sentence": "He couldn't stand the ridicule from his classmates for wearing mismatched socks.>\""
+    },
+    {
+        "word": "riot",
+        "phonetic": "/ˈraɪət/",
+        "meaning": "n.&v.骚乱，闹事",
+        "example_sentence": "Last night, there was a riot in the city after the basketball team won the championship.>\""
+    },
+    {
+        "word": "risk",
+        "phonetic": "[rɪsk]",
+        "meaning": "n.&v.冒险，风险",
+        "example_sentence": "Taking risks is part of life, sometimes you just have to go for it."
+    },
+    {
+        "word": "rival",
+        "phonetic": "/ˈraɪ.vəl/",
+        "meaning": "n.对手adj.竞争的",
+        "example_sentence": "He has always been envious of his rival's success in the business world.>\""
+    },
+    {
+        "word": "roar",
+        "phonetic": "/rɔːr/",
+        "meaning": "v.&n.吼，怒号，轰鸣",
+        "example_sentence": "The lion let out a loud roar that echoed through the jungle.>\""
+    },
+    {
+        "word": "roast",
+        "phonetic": "[roʊst]",
+        "meaning": "v.烤，炙adj.烘烤的",
+        "example_sentence": "I love the smell of roast chicken in the oven.>\""
+    },
+    {
+        "word": "rock",
+        "phonetic": "[rɒk]",
+        "meaning": "n.岩石v.摇摆，摇晃",
+        "example_sentence": "I love listening to rock music.>\""
+    },
+    {
+        "word": "rock-bottom",
+        "phonetic": "/ˈrɒkˌbɒtəm/",
+        "meaning": "n.adj.(价格)最低(的)",
+        "example_sentence": "After losing his job, he hit rock-bottom and had to move back in with his parents.>\""
+    },
+    {
+        "word": "roman",
+        "phonetic": "[ˈroʊmən]",
+        "meaning": "adj.古罗马的n.罗马人",
+        "example_sentence": "He prefers watching roman movies over action films.>\""
+    },
+    {
+        "word": "round",
+        "phonetic": "[raʊnd]",
+        "meaning": "adj.圆形的adv.在周围",
+        "example_sentence": "She likes to sit around the round table with her friends.>\""
+    },
+    {
+        "word": "row",
+        "phonetic": "[roʊ]",
+        "meaning": "v.划船n.排，列",
+        "example_sentence": "I sat in the front row at the concert last night.>\""
+    },
+    {
+        "word": "ruin",
+        "phonetic": "[ˈruː.ɪn]",
+        "meaning": "n.废墟v.毁坏，破坏",
+        "example_sentence": "The heavy rain ruined our picnic plans by flooding the park.>\""
+    },
+    {
+        "word": "rumor",
+        "phonetic": "/ˈruːmər/",
+        "meaning": "n.&v.传闻，谣言",
+        "example_sentence": "There's a rumor going around that our boss is resigning next week."
+    },
+    {
+        "word": "running",
+        "phonetic": "['ˈrʌnɪŋ']",
+        "meaning": "adj.连续的n.经营",
+        "example_sentence": "I go running every morning before work.>\""
+    },
+    {
+        "word": "rush",
+        "phonetic": "[rʌʃ]",
+        "meaning": "v.&n.冲，冲进",
+        "example_sentence": "She was in a rush to catch the train.>\""
+    },
+    {
+        "word": "Russian",
+        "phonetic": "/ˈrʌʃən/",
+        "meaning": "n.&adj.俄国(人)的",
+        "example_sentence": "I learned how to speak Russian last year.>\""
+    },
+    {
+        "word": "rust",
+        "phonetic": "[rʌst]",
+        "meaning": "n.锈v.生锈，衰退",
+        "example_sentence": "I left my bike outside in the rain and now it's covered in rust."
+    },
+    {
+        "word": "sack",
+        "phonetic": "[sæk]",
+        "meaning": "n.麻袋v.解雇",
+        "example_sentence": "I saw a nice leather sack at the store yesterday.>\""
+    },
+    {
+        "word": "sacrifice",
+        "phonetic": "/ˈsækrəˌfaɪs/",
+        "meaning": "n.&v.牺牲(品)",
+        "example_sentence": "She made a sacrifice by giving up her weekend to help a friend move.>\""
+    },
+    {
+        "word": "safety",
+        "phonetic": "[ˈseɪfti]",
+        "meaning": "n.安全adj.保险的",
+        "example_sentence": "Safety is always the top priority when driving on the road.>\""
+    },
+    {
+        "word": "sail",
+        "phonetic": "[seɪl]",
+        "meaning": "n.帆v.行驶，开航",
+        "example_sentence": "He loves to sail on the weekends with his friends.>\""
+    },
+    {
+        "word": "sailing",
+        "phonetic": "/ˈseɪlɪŋ/",
+        "meaning": "adj.启航的n.航行",
+        "example_sentence": "I enjoy sailing on the weekends with my friends.>\""
+    },
+    {
+        "word": "sales",
+        "phonetic": "[seɪlz]",
+        "meaning": "n.销售adj.出售的",
+        "example_sentence": "She works in sales and is responsible for selling products to customers.>\""
+    },
+    {
+        "word": "sample",
+        "phonetic": "/ˈsæmpəl/",
+        "meaning": "n.样品v.抽样",
+        "example_sentence": "Can I have a sample of that new ice cream flavor?>\""
+    },
+    {
+        "word": "sandwich",
+        "phonetic": "/ˈsændwɪtʃ/",
+        "meaning": "n.三明治v.夹入",
+        "example_sentence": "I'll make myself a sandwich for lunch.>\""
+    },
+    {
+        "word": "Santa",
+        "phonetic": "/ˈsæntə/",
+        "meaning": "Clausn.圣诞老人",
+        "example_sentence": "I heard that Santa Claus is coming to town.>\""
+    },
+    {
+        "word": "saw",
+        "phonetic": "[sɔː]",
+        "meaning": "v.&n.锯",
+        "example_sentence": "I saw a beautiful sunset yesterday.>\""
+    },
+    {
+        "word": "say",
+        "phonetic": "[seɪ]",
+        "meaning": "v.说n.发言(权)",
+        "example_sentence": "She didn't say anything during the meeting."
+    },
+    {
+        "word": "scare",
+        "phonetic": "/skɛr/",
+        "meaning": "v.惊吓n.惊恐",
+        "example_sentence": "Seeing a spider can really scare me.>\""
+    },
+    {
+        "word": "scarlet",
+        "phonetic": "/ˈskɑːrlət/",
+        "meaning": "adj.n.猩红的，鲜红的",
+        "example_sentence": "She wore a stunning scarlet dress to the party.>\""
+    },
+    {
+        "word": "schedule",
+        "phonetic": "/ˈʃɛdjuːl/",
+        "meaning": "n.时间表v.排定",
+        "example_sentence": "I have a busy schedule this week, but I can squeeze in some time to grab coffee with you.>\""
+    },
+    {
+        "word": "scold",
+        "phonetic": "/skoʊld/",
+        "meaning": "v.&n.训斥，责骂",
+        "example_sentence": "My mom always scolds me for leaving dirty dishes in the sink.>\""
+    },
+    {
+        "word": "scorn",
+        "phonetic": "[skɔːrn]",
+        "meaning": "n.&v.蔑视，不屑",
+        "example_sentence": "She looked at him with scorn as he tried to make another excuse."
+    },
+    {
+        "word": "scratch",
+        "phonetic": "/skrætʃ/",
+        "meaning": "v.抓破，挠n.抓痕",
+        "example_sentence": "I scratched my arm on the rough surface.>\""
+    },
+    {
+        "word": "scream",
+        "phonetic": "/skriːm/",
+        "meaning": "v.&n.尖叫声",
+        "example_sentence": "When she saw the spider, she let out a piercing scream.>\""
+    },
+    {
+        "word": "screech",
+        "phonetic": "/skriːtʃ/",
+        "meaning": "v.&n.尖叫(声)",
+        "example_sentence": "Every time the car brakes suddenly, it makes a loud screech.>\""
+    },
+    {
+        "word": "screen",
+        "phonetic": "[skriːn]",
+        "meaning": "n.屏，帘v.甄别",
+        "example_sentence": "Can you help me clean the screen of my laptop? 我可以帮忙清洁一下我的笔记本屏幕吗？>\""
+    },
+    {
+        "word": "screw",
+        "phonetic": "/skruː/",
+        "meaning": "v.拧n.螺钉",
+        "example_sentence": "I can't believe I stripped the screw on this shelf.>\""
+    },
+    {
+        "word": "seal",
+        "phonetic": "[siːl]",
+        "meaning": "v.封n.图章，封条",
+        "example_sentence": "I saw a cute seal at the zoo yesterday!>\""
+    },
+    {
+        "word": "search",
+        "phonetic": "[sɜːrtʃ]",
+        "meaning": "v.&n.搜查，寻找",
+        "example_sentence": "I always search for my keys before leaving the house.>\""
+    },
+    {
+        "word": "season",
+        "phonetic": "/ˈsiː.zən/",
+        "meaning": "n.季节v.调味",
+        "example_sentence": "I love the fall season because the weather is perfect for going hiking and having bonfires.>\""
+    },
+    {
+        "word": "seat",
+        "phonetic": "[siːt]",
+        "meaning": "n.座位，席位v.就座",
+        "example_sentence": "I need to find my seat before the movie starts.>\""
+    },
+    {
+        "word": "second",
+        "phonetic": "[ˈsɛkənd]\n例句: <I'll be there in a second, just finishing up something here.>",
+        "meaning": "num.第二n.第二，秒",
+        "example_sentence": "I'll be there in a second, just finishing up something here."
+    },
+    {
+        "word": "secret",
+        "phonetic": "/ˈsiːkrət/",
+        "meaning": "adj.秘密的n.秘密",
+        "example_sentence": "She told me her secret yesterday.>\""
+    },
+    {
+        "word": "seed",
+        "phonetic": "/si:d/",
+        "meaning": "n.种子v.播种",
+        "example_sentence": "I planted seeds in my garden last spring.>\""
+    },
+    {
+        "word": "select",
+        "phonetic": "[sɪˈlɛkt]",
+        "meaning": "v.挑选adj.精选的",
+        "example_sentence": "I need to select a new book to read for my book club.>\""
+    },
+    {
+        "word": "sentence",
+        "phonetic": "[ˈsɛntəns]",
+        "meaning": "n.句子v.判决",
+        "example_sentence": "Can you please write a sentence using the word 'happy'?>\""
+    },
+    {
+        "word": "set",
+        "phonetic": "[sɛt]",
+        "meaning": "v.放，指定n.全套",
+        "example_sentence": "She set the table for dinner.>\""
+    },
+    {
+        "word": "sham",
+        "phonetic": "/ʃæm/",
+        "meaning": "n.赝品v.假冒",
+        "example_sentence": "She tried to pass off that fake designer bag as a real one, but it was obviously a sham.>\""
+    },
+    {
+        "word": "shape",
+        "phonetic": "[ʃeɪp]",
+        "meaning": "n.形状，轮廓v.形成",
+        "example_sentence": "She is trying to get back in shape by going to the gym regularly.>\""
+    },
+    {
+        "word": "share",
+        "phonetic": "/ʃɛər/",
+        "meaning": "n.份，股份v.分配",
+        "example_sentence": "I will share my snacks with you.>\""
+    },
+    {
+        "word": "shed",
+        "phonetic": "/ʃɛd/",
+        "meaning": "v.流下n.棚子",
+        "example_sentence": "He went to the shed to grab some tools for the gardening project.>\""
+    },
+    {
+        "word": "shield",
+        "phonetic": "/ʃiːld/",
+        "meaning": "n.盾牌v.防护",
+        "example_sentence": "I use a shield to protect myself in battle.>\""
+    },
+    {
+        "word": "shift",
+        "phonetic": "[ʃɪft]",
+        "meaning": "v.转变n.转移，轮班",
+        "example_sentence": "I need to shift my work schedule to attend the meeting.>\""
+    },
+    {
+        "word": "ship",
+        "phonetic": "[ʃɪp]",
+        "meaning": "n.船，舰v.船运",
+        "example_sentence": "They sailed on a big ship across the ocean.>\""
+    },
+    {
+        "word": "shock",
+        "phonetic": "[ʃɑk]",
+        "meaning": "n.震惊，电击v.震动",
+        "example_sentence": "The news of her resignation came as a shock to everyone in the office.>\""
+    },
+    {
+        "word": "shoot",
+        "phonetic": "/ʃut/",
+        "meaning": "v.射击，发芽n.嫩芽",
+        "example_sentence": "He shoots hoops with his friends every weekend.>\""
+    },
+    {
+        "word": "shout",
+        "phonetic": "/ʃaʊt/",
+        "meaning": "v.&n.叫喊",
+        "example_sentence": "Don't shout in the library, you'll disturb others.>\""
+    },
+    {
+        "word": "show",
+        "phonetic": "[ʃoʊ]",
+        "meaning": "v.显示，表明n.演出",
+        "example_sentence": "I'm going to show my friend how to bake cookies tonight.>\""
+    },
+    {
+        "word": "shriek",
+        "phonetic": "/ʃriːk/",
+        "meaning": "v.&n.尖叫(声)",
+        "example_sentence": "When the spider appeared, she let out a loud shriek.>\""
+    },
+    {
+        "word": "shrill",
+        "phonetic": "/ʃrɪl/",
+        "meaning": "v.刺耳的v.尖叫",
+        "example_sentence": "I couldn't sleep because of the shrill sound of my neighbor's alarm clock.>\""
+    },
+    {
+        "word": "shrug",
+        "phonetic": "[ʃrʌɡ]",
+        "meaning": "v.&n.耸肩",
+        "example_sentence": "When I asked him if he wanted to join us, he just shrugged and said maybe.>\""
+    },
+    {
+        "word": "shuttle",
+        "phonetic": "/ˈʃʌt.əl/",
+        "meaning": "n.梭v.穿梭",
+        "example_sentence": "I take the shuttle bus to work every morning."
+    },
+    {
+        "word": "sigh",
+        "phonetic": "[saɪ]",
+        "meaning": "v.&n.叹息，叹气",
+        "example_sentence": "She let out a deep sigh after a long day at work.>\""
+    },
+    {
+        "word": "signal",
+        "phonetic": "/ˈsɪɡnəl/",
+        "meaning": "n.信号v.做手势",
+        "example_sentence": "I always give a signal before I turn left while driving.>\""
+    },
+    {
+        "word": "silk",
+        "phonetic": "[sɪlk]",
+        "meaning": "n.丝，绸adj.丝的",
+        "example_sentence": "She wore a beautiful silk dress to the party."
+    },
+    {
+        "word": "since",
+        "phonetic": "[sɪns]",
+        "meaning": "prep.自从conj.既然",
+        "example_sentence": "I haven't seen him since last week.>\""
+    },
+    {
+        "word": "sink",
+        "phonetic": "[sɪŋk]",
+        "meaning": "v.沉，下落n.水槽",
+        "example_sentence": "I accidentally dropped my phone into the sink while doing the dishes.>\""
+    },
+    {
+        "word": "skate",
+        "phonetic": "/skeɪt/\n例句: <I love to skate at the ice rink with my friends on weekends.>",
+        "meaning": "n.冰鞋v.滑冰",
+        "example_sentence": "I love to skate at the ice rink with my friends on weekends."
+    },
+    {
+        "word": "ski",
+        "phonetic": "[ski]",
+        "meaning": "n.雪撬v.滑雪",
+        "example_sentence": "I love to ski in the mountains during winter.>\""
+    },
+    {
+        "word": "skin",
+        "phonetic": "[skɪn]",
+        "meaning": "n.皮，皮肤v.剥皮",
+        "example_sentence": "I forgot to put on sunscreen, so my skin got sunburned.>\""
+    },
+    {
+        "word": "slander",
+        "phonetic": "/ˈslændər/",
+        "meaning": "n.&v.诽谤，污蔑",
+        "example_sentence": "He's been spreading slander about his ex-girlfriend, which is totally uncalled for.>\""
+    },
+    {
+        "word": "slaughter",
+        "phonetic": "/ˈslɔːtər/",
+        "meaning": "v.&n.屠宰，屠杀",
+        "example_sentence": "After the butcher slaughters the pig, we'll have plenty of fresh meat to eat.>\""
+    },
+    {
+        "word": "slave",
+        "phonetic": "[sleɪv]",
+        "meaning": "n.奴隶v.做苦工",
+        "example_sentence": "His great-grandfather was a slave on a cotton plantation.>\""
+    },
+    {
+        "word": "sleep",
+        "phonetic": "/sliːp/",
+        "meaning": "v.&n.睡眠",
+        "example_sentence": "I'm so tired, I just want to go to bed and sleep.>\""
+    },
+    {
+        "word": "slice",
+        "phonetic": "[slaɪs]",
+        "meaning": "n.薄片v.切成薄片",
+        "example_sentence": "I'd like a slice of pizza for lunch.>\""
+    },
+    {
+        "word": "slit",
+        "phonetic": "[slɪt]",
+        "meaning": "v.割裂n.狭口，裂缝",
+        "example_sentence": "She slit open the envelope with a pair of scissors.>\""
+    },
+    {
+        "word": "slope",
+        "phonetic": "[sloʊp]",
+        "meaning": "v.倾斜n.坡，坡度",
+        "example_sentence": "The path up the hill had a steep slope.>\""
+    },
+    {
+        "word": "smack",
+        "phonetic": "[smæk]",
+        "meaning": "n.滋味v.劈啪地响",
+        "example_sentence": "He gave the table a smack with his hand to get everyone's attention.>\""
+    },
+    {
+        "word": "smell",
+        "phonetic": "[smɛl]",
+        "meaning": "v.嗅，发出气味n.气味",
+        "example_sentence": "What's that smell? It's really strong.>\""
+    },
+    {
+        "word": "smile",
+        "phonetic": "[smaɪl]",
+        "meaning": "v.&n.微笑",
+        "example_sentence": "She gave me a big smile when she saw me.>\""
+    },
+    {
+        "word": "smoke",
+        "phonetic": "/smoʊk/",
+        "meaning": "v.冒烟，抽烟n.烟",
+        "example_sentence": "I could smell the smoke from the barbecue next door.>\""
+    },
+    {
+        "word": "snap",
+        "phonetic": "[snæp]",
+        "meaning": "v.&n.折断(声)",
+        "example_sentence": "I heard a loud snap when the branch broke.>\""
+    },
+    {
+        "word": "snatch",
+        "phonetic": "[snætʃ]",
+        "meaning": "v.&n.抢夺，攫取",
+        "example_sentence": "He managed to snatch the last cookie before anyone else could grab it.>\""
+    },
+    {
+        "word": "sneer",
+        "phonetic": "/snɪr/",
+        "meaning": "v.&n.嘲笑，讥笑",
+        "example_sentence": "He gave her a sneer when she made a joke about his singing.>\""
+    },
+    {
+        "word": "snow",
+        "phonetic": "[snoʊ]",
+        "meaning": "n.雪v.下雪",
+        "example_sentence": "I love playing in the snow during winter.>\""
+    },
+    {
+        "word": "sob",
+        "phonetic": "[sɑb]",
+        "meaning": "v.&n.呜咽，啜泣",
+        "example_sentence": "She couldn't help but sob when she watched the sad movie.>\""
+    },
+    {
+        "word": "socialist",
+        "phonetic": "[ˈsoʊʃəlɪst]",
+        "meaning": "n.adj.社会主义者、的",
+        "example_sentence": "My uncle is a socialist; he believes in fair wages for all workers."
+    },
+    {
+        "word": "sort",
+        "phonetic": "/sɔːrt/",
+        "meaning": "n.种类v.分类，拣",
+        "example_sentence": "She helped me sort out my closet yesterday.>\""
+    },
+    {
+        "word": "sound",
+        "phonetic": "/saʊnd/",
+        "meaning": "n.声，声音v.听起来",
+        "example_sentence": "The sound of waves crashing on the shore is so soothing."
+    },
+    {
+        "word": "south",
+        "phonetic": "[saʊθ]",
+        "meaning": "n.南，南方adj.南方的",
+        "example_sentence": "I live in the south of the country.>\""
+    },
+    {
+        "word": "southward",
+        "phonetic": "/ˈsaʊθwərd/",
+        "meaning": "adj.&adv.向南",
+        "example_sentence": "We drove southward to the beach for a weekend getaway.>\""
+    },
+    {
+        "word": "sovereign",
+        "phonetic": "/ˈsɑvərən/",
+        "meaning": "n.君主adj.主权的",
+        "example_sentence": "My grandmother is the sovereign ruler of her kitchen, deciding what we eat every night.>\""
+    },
+    {
+        "word": "sow",
+        "phonetic": "[soʊ]",
+        "meaning": "v.播种，散布n.母猪",
+        "example_sentence": "She sowed seeds in her garden yesterday.>\""
+    },
+    {
+        "word": "space",
+        "phonetic": "[speɪs]",
+        "meaning": "shuttlen.航天飞机",
+        "example_sentence": "I need some space to work on my project.>\""
+    },
+    {
+        "word": "span",
+        "phonetic": "[spæn]",
+        "meaning": "n.跨度;指距v.跨越",
+        "example_sentence": "I can drive that distance in one span of time.>\""
+    },
+    {
+        "word": "Spanish",
+        "phonetic": "/ˈspænɪʃ/",
+        "meaning": "adj.&n.西班牙人(的)",
+        "example_sentence": "I want to learn Spanish, so I can travel to Spain and talk to the locals.>\""
+    },
+    {
+        "word": "spare",
+        "phonetic": "[sper]",
+        "meaning": "v.腾出时间adj.备用的",
+        "example_sentence": "Can you spare a minute to help me with this homework?>\""
+    },
+    {
+        "word": "speed",
+        "phonetic": "/spiːd/",
+        "meaning": "n.速度v.飞驰",
+        "example_sentence": "She drives at a speed of 70 miles per hour on the highway.>\""
+    },
+    {
+        "word": "spiral",
+        "phonetic": "/ˈspaɪrəl/",
+        "meaning": "adj.&n.螺旋(的)",
+        "example_sentence": "Watching the colors blend together in the spiral was mesmerizing.>\""
+    },
+    {
+        "word": "spirit",
+        "phonetic": "[ˈspɪrɪt]",
+        "meaning": "n.精神，心灵n.酒精",
+        "example_sentence": "She has a positive spirit and is always full of energy.>\""
+    },
+    {
+        "word": "spit",
+        "phonetic": "[spɪt]",
+        "meaning": "v.吐，倾吐n.唾液",
+        "example_sentence": "She doesn't like it when people spit on the sidewalk."
+    },
+    {
+        "word": "sprain",
+        "phonetic": "/spreɪn/",
+        "meaning": "v.&n.扭伤",
+        "example_sentence": "I sprained my ankle while playing basketball yesterday.>\""
+    },
+    {
+        "word": "spray",
+        "phonetic": "[spreɪ]",
+        "meaning": "n.水雾v.喷射",
+        "example_sentence": "He sprayed some air freshener in the room to make it smell better.>\""
+    },
+    {
+        "word": "spring",
+        "phonetic": "[sprɪŋ]",
+        "meaning": "v.跳跃，萌芽n.春季",
+        "example_sentence": "I love going for a walk in the park in the spring.>\""
+    },
+    {
+        "word": "sprout",
+        "phonetic": "[spraʊt]",
+        "meaning": "n.幼芽v.出芽",
+        "example_sentence": "My little plant finally sprouted after weeks of waiting."
+    },
+    {
+        "word": "spur",
+        "phonetic": "[spɜːr]",
+        "meaning": "n.&v.刺激，鼓舞",
+        "example_sentence": "He put on his spurs and rode his horse into town.>\""
+    },
+    {
+        "word": "squash",
+        "phonetic": "[skwɒʃ]",
+        "meaning": "v.压碎n.果子汁",
+        "example_sentence": "I like to play squash with my friends on the weekends.>\""
+    },
+    {
+        "word": "stab",
+        "phonetic": "[stæb]",
+        "meaning": "v.&n.刺，戳",
+        "example_sentence": "She felt a sharp stab of guilt when she realized she had forgotten her friend's birthday.>\""
+    },
+    {
+        "word": "stack",
+        "phonetic": "/stæk/",
+        "meaning": "n.&v.推放，垛",
+        "example_sentence": "Can you help me stack these books on the shelf?>\""
+    },
+    {
+        "word": "stage",
+        "phonetic": "/steɪdʒ/",
+        "meaning": "n.舞台，阶段v.上演",
+        "example_sentence": "I saw my favorite band perform on the stage last night.>\""
+    },
+    {
+        "word": "stain",
+        "phonetic": "[steɪn]",
+        "meaning": "n.污点，瑕疵v.弄脏",
+        "example_sentence": "I spilled coffee on my shirt and now there's a big stain on it."
+    },
+    {
+        "word": "stammer",
+        "phonetic": "/ˈstæmər/",
+        "meaning": "v.&n.口吃，结巴",
+        "example_sentence": "She tends to stammer when she gets nervous.>\""
+    },
+    {
+        "word": "stamp",
+        "phonetic": "[stæmp]",
+        "meaning": "n.邮票，图章v.盖章",
+        "example_sentence": "I need a stamp to mail this letter.>\""
+    },
+    {
+        "word": "standard",
+        "phonetic": "[ˈstændərd]",
+        "meaning": "n.标准adj.标准的",
+        "example_sentence": "Her presentation was pretty standard, nothing too exciting."
+    },
+    {
+        "word": "standing",
+        "phonetic": "/ˈstændɪŋ/",
+        "meaning": "adj.常务的n.地位",
+        "example_sentence": "I saw you standing at the bus stop this morning.>\""
+    },
+    {
+        "word": "star",
+        "phonetic": "/stɑːr/",
+        "meaning": "n.星v.主演",
+        "example_sentence": "I love watching the stars twinkle in the night sky.>\""
+    },
+    {
+        "word": "stare",
+        "phonetic": "[steər]",
+        "meaning": "n.&v.凝视",
+        "example_sentence": "I hate it when people stare at me.>\""
+    },
+    {
+        "word": "station",
+        "phonetic": "/ˈsteɪʃən/",
+        "meaning": "n.站，台v.驻扎",
+        "example_sentence": "I'll meet you at the train station after work.>\""
+    },
+    {
+        "word": "steam",
+        "phonetic": "[stiːm]",
+        "meaning": "n.汽，蒸汽v.蒸",
+        "example_sentence": "I love to relax in the steam room after a long day at work.>\""
+    },
+    {
+        "word": "stew",
+        "phonetic": "[stju]",
+        "meaning": "v.炖，煮n.炖菜",
+        "example_sentence": "I made a delicious beef stew for dinner last night.>\""
+    },
+    {
+        "word": "stick",
+        "phonetic": "[stɪk]",
+        "meaning": "n.枝，杆，手杖v.扎",
+        "example_sentence": "She used a stick to stir the soup.>\""
+    },
+    {
+        "word": "still",
+        "phonetic": "[stɪl]",
+        "meaning": "adj.静止的adv.仍旧",
+        "example_sentence": "She's still waiting for the bus."
+    },
+    {
+        "word": "sting",
+        "phonetic": "[stɪŋ]",
+        "meaning": "n.刺痛v.刺，叮",
+        "example_sentence": "The bee gave me a sting on the arm.>\""
+    },
+    {
+        "word": "stir",
+        "phonetic": "/stɜr/",
+        "meaning": "v.搅拌，激起n.骚动",
+        "example_sentence": "She stirred her coffee before taking a sip."
+    },
+    {
+        "word": "stitch",
+        "phonetic": "[stɪtʃ]",
+        "meaning": "n.一针v.缝合",
+        "example_sentence": "She pricked her finger and had to put a stitch on it.>\""
+    },
+    {
+        "word": "stock",
+        "phonetic": "[stɒk]",
+        "meaning": "n.存货，股份v.贮存",
+        "example_sentence": "I need to buy some more stock for my store.>\""
+    },
+    {
+        "word": "stoop",
+        "phonetic": "[stuːp]",
+        "meaning": "v.弯腰，屈从n.俯身",
+        "example_sentence": "He stooped down to pick up the coin he dropped on the ground."
+    },
+    {
+        "word": "stop",
+        "phonetic": "[stɒp]",
+        "meaning": "v.停止，终止n.停止",
+        "example_sentence": "I usually stop at the coffee shop on my way to work.>\""
+    },
+    {
+        "word": "store",
+        "phonetic": "/stɔr/",
+        "meaning": "n.商店v.贮藏，储备",
+        "example_sentence": "I'm going to the store to buy some groceries.>\""
+    },
+    {
+        "word": "straight",
+        "phonetic": "/streɪt/",
+        "meaning": "adj.直的adv.笔直地",
+        "example_sentence": "She walked straight to the door without looking back.>\""
+    },
+    {
+        "word": "stray",
+        "phonetic": "[streɪ]",
+        "meaning": "v.迷路adj.走失的",
+        "example_sentence": "He found a stray kitten on the street and decided to take it home.>\""
+    },
+    {
+        "word": "streamline",
+        "phonetic": "/ˈstriːmˌlaɪn/",
+        "meaning": "n.流线型v.精简",
+        "example_sentence": "The company streamlined its operations to improve efficiency.>\""
+    },
+    {
+        "word": "stress",
+        "phonetic": "[stres]",
+        "meaning": "v.&n.强调，压力",
+        "example_sentence": "She's been under a lot of stress lately, so she's taking a break from work.>\""
+    },
+    {
+        "word": "stretch",
+        "phonetic": "[strɛtʃ]",
+        "meaning": "v.伸展，拉长n.伸展",
+        "example_sentence": "I like to stretch my legs in the morning before I start my day.>\""
+    },
+    {
+        "word": "stride",
+        "phonetic": "[straɪd]",
+        "meaning": "adv.阔步走n.阔步",
+        "example_sentence": "He took a confident stride towards the finish line.>\""
+    },
+    {
+        "word": "strip",
+        "phonetic": "[strɪp]",
+        "meaning": "v.剥n.窄条",
+        "example_sentence": "I need to strip the old wallpaper before painting the walls.>\""
+    },
+    {
+        "word": "stroke",
+        "phonetic": "[stroʊk]",
+        "meaning": "n.敲，笔划v.抚摸",
+        "example_sentence": "He suffered a stroke last year and is still recovering.>\""
+    },
+    {
+        "word": "stroll",
+        "phonetic": "[stroʊl]",
+        "meaning": "v.&n.散步，闲逛",
+        "example_sentence": "Let's take a stroll in the park this evening."
+    },
+    {
+        "word": "struggle",
+        "phonetic": "/ˈstrʌɡəl/",
+        "meaning": "v.&n.斗争，奋斗",
+        "example_sentence": "She struggled to open the jar of pickles, but eventually succeeded with the help of a tool.>\""
+    },
+    {
+        "word": "study",
+        "phonetic": "/ˈstʌdi/",
+        "meaning": "v.&n.学习，研究",
+        "example_sentence": "I need to study for my exam tomorrow."
+    },
+    {
+        "word": "stuff",
+        "phonetic": "[stʌf]",
+        "meaning": "n.材料，东西v.塞满",
+        "example_sentence": "I need to go buy some stuff from the store.>\""
+    },
+    {
+        "word": "submarine",
+        "phonetic": "/ˈsʌbməˌriːn/",
+        "meaning": "adj.海底的n.潜水艇",
+        "example_sentence": "I've always been fascinated by submarines and their underwater adventures.>\""
+    },
+    {
+        "word": "substitute",
+        "phonetic": "/ˈsʌbstɪˌtut/",
+        "meaning": "n.&v.代替，代用品",
+        "example_sentence": "I forgot my lunch, so I had to substitute a granola bar for a proper meal."
+    },
+    {
+        "word": "sum",
+        "phonetic": "[sʌm]",
+        "meaning": "n.总数，会计v.总结",
+        "example_sentence": "Can you quickly sum up the main points of the meeting?>\""
+    },
+    {
+        "word": "summary",
+        "phonetic": "/ˈsʌməri/",
+        "meaning": "n.概要adj.概括的",
+        "example_sentence": "Can you give me a quick summary of the movie we watched last night?>\""
+    },
+    {
+        "word": "summon",
+        "phonetic": "['ˈsʌmən']",
+        "meaning": "v.&n.召唤，召集",
+        "example_sentence": "She summoned her friends to help her prepare for the party.>\""
+    },
+    {
+        "word": "supplement",
+        "phonetic": "/ˈsʌpləmənt/",
+        "meaning": "n.&v.增补，补充",
+        "example_sentence": "I take a vitamin supplement every morning to boost my energy.>\""
+    },
+    {
+        "word": "surface",
+        "phonetic": "/ˈsɜːr.fɪs/",
+        "meaning": "n.表面adj.表面的",
+        "example_sentence": "I cleaned the surface of the table with a damp cloth."
+    },
+    {
+        "word": "surge",
+        "phonetic": "[sɜːrdʒ]",
+        "meaning": "n.&v.汹涌，波动",
+        "example_sentence": "The demand for face masks surged during the pandemic.>\""
+    },
+    {
+        "word": "surmise",
+        "phonetic": "[sɚˈmaɪz]",
+        "meaning": "v.&n.猜想，推测",
+        "example_sentence": "I surmise that she's lying about her whereabouts last night.>\""
+    },
+    {
+        "word": "surplus",
+        "phonetic": "/ˈsɜːrpləs/",
+        "meaning": "n.过剩adj.剩余的",
+        "example_sentence": "There was a surplus of food at the party, so I brought some home.>\""
+    },
+    {
+        "word": "surprise",
+        "phonetic": "/sərˈpraɪz/",
+        "meaning": "v.使惊诧n.惊奇",
+        "example_sentence": "The birthday party was a big surprise for her.>\""
+    },
+    {
+        "word": "survey",
+        "phonetic": "/sɜrˈveɪ/",
+        "meaning": "v.视察，测量n.调查",
+        "example_sentence": "I'm going to survey the neighborhood to see what people think about the new park.>\""
+    },
+    {
+        "word": "suspect",
+        "phonetic": "[səˈspɛkt]",
+        "meaning": "v.怀疑n.嫌疑犯",
+        "example_sentence": "I suspect she's the one who ate all the cookies.>\""
+    },
+    {
+        "word": "swallow",
+        "phonetic": "/ˈswɑloʊ/",
+        "meaning": "n.燕子v.吞咽",
+        "example_sentence": "I can't swallow pills, so I always take liquid medicine instead.>\""
+    },
+    {
+        "word": "swarm",
+        "phonetic": "/swɔːrm/",
+        "meaning": "n.群v.云集",
+        "example_sentence": "There was a swarm of bees buzzing around the flowers.>\""
+    },
+    {
+        "word": "sweat",
+        "phonetic": "[swɛt]",
+        "meaning": "v.出汗n.汗水",
+        "example_sentence": "I always sweat a lot during my workout.>\""
+    },
+    {
+        "word": "Swedish",
+        "phonetic": "/ˈswiː.dɪʃ/",
+        "meaning": "adj.&n.瑞典人(的)",
+        "example_sentence": "I really want to learn Swedish so I can visit my Swedish friends and understand what they're saying.>\""
+    },
+    {
+        "word": "swing",
+        "phonetic": "[swɪŋ]",
+        "meaning": "v.摇摆n.秋千",
+        "example_sentence": "I love swinging on the swing at the park.>\""
+    },
+    {
+        "word": "switch",
+        "phonetic": "/swɪtʃ/",
+        "meaning": "v.转换n.开关",
+        "example_sentence": "I'll switch on the lights when it gets dark.>\""
+    },
+    {
+        "word": "tackle",
+        "phonetic": "/ˈtækəl/",
+        "meaning": "n.用具，辘轳v.抓住",
+        "example_sentence": "She tackled the difficult math problem and finally solved it.>\""
+    },
+    {
+        "word": "tailor",
+        "phonetic": "/ˈteɪlər/",
+        "meaning": "n.裁缝v.缝制",
+        "example_sentence": "My mom is friends with the tailor down the street, he always makes the best fitting clothes.>\""
+    },
+    {
+        "word": "talk",
+        "phonetic": "[tɔːk]",
+        "meaning": "v.谈话n.讲话，会谈",
+        "example_sentence": "Let's talk about our plans for the weekend.>\""
+    },
+    {
+        "word": "tan",
+        "phonetic": "[tæn]",
+        "meaning": "n.黄褐色v.鞣草",
+        "example_sentence": "I got a tan from lying in the sun all day.>\""
+    },
+    {
+        "word": "tap",
+        "phonetic": "[tæp]",
+        "meaning": "v.叩击n.轻敲",
+        "example_sentence": "I tapped on the table to get everyone's attention.>\""
+    },
+    {
+        "word": "taste",
+        "phonetic": "[teɪst]",
+        "meaning": "n.味道，趣味v.品尝",
+        "example_sentence": "I love the taste of fresh strawberries."
+    },
+    {
+        "word": "tax",
+        "phonetic": "[tæks]",
+        "meaning": "n.税v.征税",
+        "example_sentence": "I need to file my taxes before the deadline.>\""
+    },
+    {
+        "word": "team",
+        "phonetic": "/tiːm/",
+        "meaning": "n.小队v.协同工作",
+        "example_sentence": "I work closely with my team to ensure our project's success.>\""
+    },
+    {
+        "word": "tear",
+        "phonetic": "[tɪr]",
+        "meaning": "n.眼泪v.撕，拔",
+        "example_sentence": "She wiped away a tear as she watched the sad movie.>\""
+    },
+    {
+        "word": "telefax",
+        "phonetic": "[ˈtelɪˌfæks]",
+        "meaning": "n.传真v.发传真",
+        "example_sentence": "I'll telefax the documents to you as soon as possible.>\""
+    },
+    {
+        "word": "telephone",
+        "phonetic": "/ˈtɛlɪˌfoʊn/",
+        "meaning": "n.电话v.打电话",
+        "example_sentence": "I'll give you a call on the telephone later tonight.>\""
+    },
+    {
+        "word": "telex",
+        "phonetic": "/ˈtiːleks/",
+        "meaning": "n.电传v.发电传",
+        "example_sentence": "I'll telex you the details later."
+    },
+    {
+        "word": "tender",
+        "phonetic": "/ˈtɛndər/",
+        "meaning": "n.投标人adj.温柔的",
+        "example_sentence": "She gave him a tender hug before he left for work.>\""
+    },
+    {
+        "word": "tense",
+        "phonetic": "[tɛns]",
+        "meaning": "adj.紧张的v.拉紧",
+        "example_sentence": "He always gets tense before a big presentation.>\""
+    },
+    {
+        "word": "terminal",
+        "phonetic": "/ˈtɜːrmɪnl/",
+        "meaning": "n.终点adj.末端的",
+        "example_sentence": "I will meet you at the airport terminal.>\""
+    },
+    {
+        "word": "test",
+        "phonetic": "[test]",
+        "meaning": "v.&n.测验，试验",
+        "example_sentence": "I have a math test tomorrow.>\""
+    },
+    {
+        "word": "Thanksgiving",
+        "phonetic": "/ˌθæŋksˈɡɪvɪŋ/",
+        "meaning": "Dayn.感恩节",
+        "example_sentence": "Our family usually has a big Thanksgiving dinner with turkey and all the fixings.>\""
+    },
+    {
+        "word": "this",
+        "phonetic": "[ðɪs]",
+        "meaning": "adj.pron.这，这个",
+        "example_sentence": "This is my new phone.>\""
+    },
+    {
+        "word": "those",
+        "phonetic": "[ðoʊz]",
+        "meaning": "pron.&adj.那些",
+        "example_sentence": "I don't want to eat those vegetables.>\""
+    },
+    {
+        "word": "thrill",
+        "phonetic": "[θrɪl]",
+        "meaning": "v.发抖n.激动",
+        "example_sentence": "The roller coaster ride gave me such a thrill!>\""
+    },
+    {
+        "word": "throng",
+        "phonetic": "[θrɒŋ]",
+        "meaning": "n.一群人v.挤满",
+        "example_sentence": "When the store announced a sale, a throng of excited shoppers gathered outside."
+    },
+    {
+        "word": "throughout",
+        "phonetic": "/θruːˈaʊt/",
+        "meaning": "prep.贯穿adv.全部",
+        "example_sentence": "She wore her favorite hat throughout the entire music festival.>\""
+    },
+    {
+        "word": "throw",
+        "phonetic": "[θroʊ]",
+        "meaning": "v.&n.投，扔，抛",
+        "example_sentence": "He can throw the ball really far.>\""
+    },
+    {
+        "word": "thunder",
+        "phonetic": "/ˈθʌndər/",
+        "meaning": "n.雷v.隆隆响",
+        "example_sentence": "Every time there's a thunderstorm, my dog hides under the bed.>\""
+    },
+    {
+        "word": "tick",
+        "phonetic": "[tɪk]",
+        "meaning": "n.滴答声v.打勾号",
+        "example_sentence": "I woke up because of the tick-tock of the clock.>\""
+    },
+    {
+        "word": "tide",
+        "phonetic": "[taɪd]",
+        "meaning": "n.潮汐，潮流v.度过",
+        "example_sentence": "During low tide, we can walk along the beach and collect seashells.>\""
+    },
+    {
+        "word": "tie",
+        "phonetic": "[taɪ]",
+        "meaning": "v.捆，打结n.领带",
+        "example_sentence": "I need to tie my shoes before we go out.>\""
+    },
+    {
+        "word": "tilt",
+        "phonetic": "[tɪlt]",
+        "meaning": "v.&n.倾斜",
+        "example_sentence": "She tilted her head to the side, trying to get a better view of the painting.>\""
+    },
+    {
+        "word": "toast",
+        "phonetic": "[toʊst]",
+        "meaning": "n.烤面包，祝酒v.烘",
+        "example_sentence": "I like to have butter on my toast in the morning.>\""
+    },
+    {
+        "word": "today",
+        "phonetic": "/təˈdeɪ/",
+        "meaning": "adv.今天，现在n.今日",
+        "example_sentence": "I will call you back later today."
+    },
+    {
+        "word": "tomorrow",
+        "phonetic": "/təˈmɑroʊ/",
+        "meaning": "n.明天adv.在明天",
+        "example_sentence": "I will finish my homework tomorrow.>\""
+    },
+    {
+        "word": "tonight",
+        "phonetic": "/təˈnaɪt/",
+        "meaning": "n.今晚adv.在今晚",
+        "example_sentence": "Let's go out for dinner tonight.>\""
+    },
+    {
+        "word": "top",
+        "phonetic": "[tɒp]",
+        "meaning": "n.顶，盖子v.高于",
+        "example_sentence": "She put her coffee cup on the top of the table."
+    },
+    {
+        "word": "torment",
+        "phonetic": "/ˈtɔːr.mənt/",
+        "meaning": "v.&n.折磨，虐待",
+        "example_sentence": "The mosquitoes were a torment all night, buzzing around our heads and biting us relentlessly.>\""
+    },
+    {
+        "word": "torture",
+        "phonetic": "[ˈtɔːrtʃər]",
+        "meaning": "v.&n.拷打，折磨",
+        "example_sentence": "The captive was subjected to brutal torture during his captivity.>\""
+    },
+    {
+        "word": "total",
+        "phonetic": "['ˈtoʊtəl']",
+        "meaning": "adj.总n.总和，合计",
+        "example_sentence": "The total cost of my grocery shopping was $50.>\""
+    },
+    {
+        "word": "tour",
+        "phonetic": "[tʊər]",
+        "meaning": "n.&v.旅行，周游",
+        "example_sentence": "We went on a tour of the city and visited all the popular attractions.>\""
+    },
+    {
+        "word": "tow",
+        "phonetic": "[toʊ]",
+        "meaning": "v.&n.拖，牵引",
+        "example_sentence": "I need to tow my car to the mechanic because it broke down yesterday.>\""
+    },
+    {
+        "word": "tower",
+        "phonetic": "/ˈtaʊər/",
+        "meaning": "n.塔v.高耸",
+        "example_sentence": "The tower was so tall that we had to crane our necks to see the top.>\""
+    },
+    {
+        "word": "trace",
+        "phonetic": "[treɪs]",
+        "meaning": "n.痕迹，微量v.追踪",
+        "example_sentence": "I can't trace my keys.>\""
+    },
+    {
+        "word": "trade",
+        "phonetic": "[treɪd]",
+        "meaning": "n.贸易，交换v.经商",
+        "example_sentence": "I work in the fashion trade, buying and selling clothes.>\""
+    },
+    {
+        "word": "trail",
+        "phonetic": "[treɪl]",
+        "meaning": "v.拖曳，尾随n.踪迹",
+        "example_sentence": "I love hiking on nature trails where I can enjoy the fresh air and beautiful scenery.>\""
+    },
+    {
+        "word": "train",
+        "phonetic": "/treɪn/",
+        "meaning": "n.列车，一列v.训练",
+        "example_sentence": "I usually take the train to work every morning.>\""
+    },
+    {
+        "word": "transport",
+        "phonetic": "/ˈtræn.spɔːrt/",
+        "meaning": "v.运送v.运输",
+        "example_sentence": "I usually take public transport to work.>\""
+    },
+    {
+        "word": "trap",
+        "phonetic": "[træp]",
+        "meaning": "n.陷阱，圈套v.诱捕",
+        "example_sentence": "Don't fall for that trap!>\""
+    },
+    {
+        "word": "traverse",
+        "phonetic": "/trəˈvɜːrs/",
+        "meaning": "n.&v.横断，横过",
+        "example_sentence": "We had to traverse through the dense forest to reach the hidden waterfall.>\""
+    },
+    {
+        "word": "treasure",
+        "phonetic": "/'trɛʒər/",
+        "meaning": "n.财宝，珍宝v.珍藏",
+        "example_sentence": "My grandmother's old jewelry is a real treasure.>\""
+    },
+    {
+        "word": "trigger",
+        "phonetic": "/ˈtrɪɡər/",
+        "meaning": "n.扳机v.触发",
+        "example_sentence": "The loud noise triggered a panic among the crowd.>\""
+    },
+    {
+        "word": "triumph",
+        "phonetic": "/ˈtraɪəmf/",
+        "meaning": "n.胜利v.战胜",
+        "example_sentence": "Winning the championship was a triumph for our team.>\""
+    },
+    {
+        "word": "trot",
+        "phonetic": "[trɒt]",
+        "meaning": "v.&n.小跑，快步走",
+        "example_sentence": "She trots to the grocery store every morning to buy fresh bread.>\""
+    },
+    {
+        "word": "trouble",
+        "phonetic": "/ˈtrʌbəl/",
+        "meaning": "n.&v.麻烦",
+        "example_sentence": "She's been having some trouble at work lately.>\""
+    },
+    {
+        "word": "trust",
+        "phonetic": "[trʌst]",
+        "meaning": "n.v.委托，信任，信托",
+        "example_sentence": "I trust my best friend with all my secrets.>\""
+    },
+    {
+        "word": "try",
+        "phonetic": "[traɪ]",
+        "meaning": "v.尝试，审讯n.尝试",
+        "example_sentence": "I'll try my best to finish the project on time.>\""
+    },
+    {
+        "word": "tug",
+        "phonetic": "[tʌɡ]",
+        "meaning": "v.&n.用力拖，拖船",
+        "example_sentence": "He gave the rope a tug to pull the box closer.>\""
+    },
+    {
+        "word": "tune",
+        "phonetic": "/tuːn/",
+        "meaning": "n.调子v.调谐",
+        "example_sentence": "I love the tune of this song, it's so catchy!>\""
+    },
+    {
+        "word": "turkey",
+        "phonetic": "/ˈtɜːrki/",
+        "meaning": "n.火鸡adj.&n.土耳其",
+        "example_sentence": "I love having turkey on Thanksgiving.>\""
+    },
+    {
+        "word": "turn",
+        "phonetic": "[tɜːrn]",
+        "meaning": "v.转向，旋转n.轮流",
+        "example_sentence": "I will turn off the lights before we leave.>\""
+    },
+    {
+        "word": "turning",
+        "phonetic": "[ˈtɜːrnɪŋ]",
+        "meaning": "n.拐角adj.旋转的",
+        "example_sentence": "I'm so excited to see the turning leaves in autumn.>\""
+    },
+    {
+        "word": "twin",
+        "phonetic": "/twɪn/",
+        "meaning": "n.&adj.孪生(的)",
+        "example_sentence": "My sister has a twin brother, they look so much alike!>\""
+    },
+    {
+        "word": "twinkle",
+        "phonetic": "['ˈtwɪŋkəl']",
+        "meaning": "v.&n.闪烁，眨眼",
+        "example_sentence": "The stars twinkle brightly in the night sky.>\""
+    },
+    {
+        "word": "type",
+        "phonetic": "[taɪp]",
+        "meaning": "n.类型，典型v.打字",
+        "example_sentence": "I prefer to type my notes on the computer instead of writing them by hand.>\""
+    },
+    {
+        "word": "underneath",
+        "phonetic": "/ˌʌndərˈniːθ/",
+        "meaning": "prep.&adv.在下面",
+        "example_sentence": "I left my keys underneath the books on the table.>\""
+    },
+    {
+        "word": "united",
+        "phonetic": "/juːˈnaɪtɪd/",
+        "meaning": "kingdomn.英国，联合王国",
+        "example_sentence": "We are united in our efforts to make the world a better place.>\""
+    },
+    {
+        "word": "united",
+        "phonetic": "/juˈnaɪtɪd/",
+        "meaning": "nationsn.联合国",
+        "example_sentence": "We are united as a team to achieve our goal.>\""
+    },
+    {
+        "word": "united",
+        "phonetic": "/juˈnaɪtɪd/",
+        "meaning": "statesn.美国，合众国",
+        "example_sentence": "My friends and I are united in our love for pizza.>\""
+    },
+    {
+        "word": "unknown",
+        "phonetic": "/ʌnˈnoʊn/",
+        "meaning": "adj.未知的n.未知物",
+        "example_sentence": "He was nervous about driving through the unknown forest at night.>\""
+    },
+    {
+        "word": "until",
+        "phonetic": "[ʌnˈtɪl]",
+        "meaning": "prep.&conj.到为止",
+        "example_sentence": "I can’t leave until my work is done.>\""
+    },
+    {
+        "word": "upward",
+        "phonetic": "/ˈʌpwərd/",
+        "meaning": "adv.&adj.向上(的)",
+        "example_sentence": "She looked upward at the sky and saw a beautiful rainbow.>\""
+    },
+    {
+        "word": "urge",
+        "phonetic": "[ɜːrdʒ]",
+        "meaning": "v.敦促，推动n.冲动",
+        "example_sentence": "I had a sudden urge to eat some ice cream in the middle of the night."
+    },
+    {
+        "word": "use",
+        "phonetic": "[juːz]",
+        "meaning": "v.使用n.用途，利用",
+        "example_sentence": "I use my phone to check the weather every morning.>\""
+    },
+    {
+        "word": "utter",
+        "phonetic": "[ˈʌtər]",
+        "meaning": "v.说，发声adj.完全的",
+        "example_sentence": "I can't believe she would utter such hurtful words.>\""
+    },
+    {
+        "word": "value",
+        "phonetic": "['ˈvæljuː]",
+        "meaning": "n.价值v.评价，估价",
+        "example_sentence": "I always try to find value for money when shopping.>\""
+    },
+    {
+        "word": "variable",
+        "phonetic": "['ˈvɛriəbl]",
+        "meaning": "adj.可变的n.变量",
+        "example_sentence": "My mood is variable, so sometimes I feel happy and sometimes I feel sad.>\""
+    },
+    {
+        "word": "velvet",
+        "phonetic": "['ˈvɛlvɪt']",
+        "meaning": "n.丝绒adj.柔软的",
+        "example_sentence": "I love the feeling of velvet against my skin, it's so soft and luxurious.>\""
+    },
+    {
+        "word": "venture",
+        "phonetic": "['ˈvɛn(t)ʃər]",
+        "meaning": "n.&v.冒险",
+        "example_sentence": "He decided to venture out into the storm to get some food.>\""
+    },
+    {
+        "word": "veto",
+        "phonetic": "[ˈviː.təʊ]",
+        "meaning": "v.&n.否决(权)",
+        "example_sentence": "She wanted to go shopping, but her dad vetoed the idea.>\""
+    },
+    {
+        "word": "virgin",
+        "phonetic": "['ˈvɜːrdʒɪn']",
+        "meaning": "adj.处女的n.处女",
+        "example_sentence": "She's a total virgin when it comes to cooking, but she's eager to learn.>\""
+    },
+    {
+        "word": "visit",
+        "phonetic": "['ˈvɪzɪt']",
+        "meaning": "v.&n.访问，参观",
+        "example_sentence": "I plan to visit my grandparents next weekend.>\""
+    },
+    {
+        "word": "voice",
+        "phonetic": "/vɔɪs/",
+        "meaning": "n.声音，嗓音v.吐露",
+        "example_sentence": "She has a beautiful voice and loves singing in the shower.>\""
+    },
+    {
+        "word": "volley",
+        "phonetic": "/ˈvɑli/",
+        "meaning": "n.&v.齐射",
+        "example_sentence": "He returned the volleyball with a powerful volley.>\""
+    },
+    {
+        "word": "volunteer",
+        "phonetic": "[ˌvɑlənˈtɪr]",
+        "meaning": "n.志愿者v.志愿",
+        "example_sentence": "I've decided to volunteer at the local animal shelter on weekends.>\""
+    },
+    {
+        "word": "vow",
+        "phonetic": "[vaʊ]",
+        "meaning": "v.&n.许愿，发誓",
+        "example_sentence": "She vowed to never eat junk food again.>\""
+    },
+    {
+        "word": "voyage",
+        "phonetic": "/ˈvɔɪ.ɪdʒ/",
+        "meaning": "n.&v.航行",
+        "example_sentence": "I'm going on a voyage to explore the tropical islands next month.>\""
+    },
+    {
+        "word": "wage",
+        "phonetic": "[weɪdʒ]",
+        "meaning": "n.工资v.进行",
+        "example_sentence": "I need to ask for a raise in my wage at work.>\""
+    },
+    {
+        "word": "walk",
+        "phonetic": "[wɔːk]",
+        "meaning": "v.步行，走n.散步",
+        "example_sentence": "She likes to walk in the park every evening.>\""
+    },
+    {
+        "word": "want",
+        "phonetic": "[wɒnt]",
+        "meaning": "v.想要，通缉n.缺乏",
+        "example_sentence": "I want to go to the movies tonight.>\""
+    },
+    {
+        "word": "waste",
+        "phonetic": "[weɪst]",
+        "meaning": "v.浪费n.垃圾，废料",
+        "example_sentence": "Don't waste your time on things that don't bring you joy.>\""
+    },
+    {
+        "word": "watch",
+        "phonetic": "/wɒtʃ/",
+        "meaning": "v.观看，看过n.手表",
+        "example_sentence": "I always watch TV before going to bed.>\""
+    },
+    {
+        "word": "water",
+        "phonetic": "['ˈwɔːtə(r)]'",
+        "meaning": "n.水v.浇水，垂涎",
+        "example_sentence": "I need to drink more water every day.>\""
+    },
+    {
+        "word": "wave",
+        "phonetic": "/weɪv/",
+        "meaning": "n.波浪，波v.挥手",
+        "example_sentence": "She waved goodbye to her friend as the bus pulled away.>\""
+    },
+    {
+        "word": "wax",
+        "phonetic": "[wæks]",
+        "meaning": "n.蜡v.打蜡",
+        "example_sentence": "After waxing my car, it looks shiny and clean.>\""
+    },
+    {
+        "word": "weather",
+        "phonetic": "/ˈwɛðər/",
+        "meaning": "n.天气v.经受住",
+        "example_sentence": "I hope the weather stays nice for our picnic this weekend.>\""
+    },
+    {
+        "word": "wedge",
+        "phonetic": "/wɛdʒ/",
+        "meaning": "n.楔子，起因v.楔住",
+        "example_sentence": "I used a wedge to keep the door open while I carried in the groceries.>\""
+    },
+    {
+        "word": "weed",
+        "phonetic": "[wiːd]",
+        "meaning": "n.杂草v.除草，清除",
+        "example_sentence": "I need to pull the weeds in our garden this weekend.>\""
+    },
+    {
+        "word": "weekly",
+        "phonetic": "/ˈwiːkli/",
+        "meaning": "adj.每周的n.周刊",
+        "example_sentence": "I go grocery shopping weekly to stock up on fresh fruits and vegetables."
+    },
+    {
+        "word": "welcome",
+        "phonetic": "/ˈwɛlkəm/",
+        "meaning": "adj.受欢迎的v.欢迎",
+        "example_sentence": "You are always welcome to come over and hang out with us.>\""
+    },
+    {
+        "word": "well",
+        "phonetic": "/wɛl/",
+        "meaning": "n.井adv.好，充分",
+        "example_sentence": "It is important to drink plenty of water to stay well.>\""
+    },
+    {
+        "word": "west",
+        "phonetic": "[wɛst]",
+        "meaning": "n.西方adj.向西的",
+        "example_sentence": "The sun sets in the west.>\""
+    },
+    {
+        "word": "westward",
+        "phonetic": "/ˈwɛstwərd/",
+        "meaning": "adj.&adv.向西(的)",
+        "example_sentence": "We headed westward towards the ocean for a weekend getaway.>\""
+    },
+    {
+        "word": "what",
+        "phonetic": "/wʌt/",
+        "meaning": "pron.什么adj.什么的",
+        "example_sentence": "What do you want for dinner tonight?>\""
+    },
+    {
+        "word": "which",
+        "phonetic": "[wɪtʃ]",
+        "meaning": "pron.&adj.哪个，那个",
+        "example_sentence": "Which one do you want?>\""
+    },
+    {
+        "word": "while",
+        "phonetic": "[waɪl]",
+        "meaning": "n.一会儿conj.当时",
+        "example_sentence": "While I was studying, my cat was napping on the sofa.>\""
+    },
+    {
+        "word": "whip",
+        "phonetic": "/wɪp/",
+        "meaning": "v.抽打，搅n.鞭子",
+        "example_sentence": "She whipped up a delicious meal in no time."
+    },
+    {
+        "word": "whirl",
+        "phonetic": "/wɜːrl/",
+        "meaning": "v.n.旋转，飞转",
+        "example_sentence": "She giggled as she spun around in a dizzy whirl.>\""
+    },
+    {
+        "word": "whisper",
+        "phonetic": "/ˈwɪspər/",
+        "meaning": "v.&n.耳语，发飒飒声",
+        "example_sentence": "She whispered the secret to me so that no one else could hear.>\""
+    },
+    {
+        "word": "white",
+        "phonetic": "[waɪt]",
+        "meaning": "adj.白的n.白色;蛋清",
+        "example_sentence": "She wore a beautiful white dress to the party."
+    },
+    {
+        "word": "whole",
+        "phonetic": "[hoʊl]",
+        "meaning": "adj.全部的n.全部",
+        "example_sentence": "I ate the whole pizza by myself last night."
+    },
+    {
+        "word": "wholesale",
+        "phonetic": "/ˈhoʊlˌseɪl/",
+        "meaning": "n.&v.批发",
+        "example_sentence": "She bought her groceries wholesale to save money.>\""
+    },
+    {
+        "word": "will",
+        "phonetic": "[wɪl]",
+        "meaning": "v.aux.将，愿n.意志",
+        "example_sentence": "She will go to the gym after work today.>\""
+    },
+    {
+        "word": "wind",
+        "phonetic": "[waɪnd]",
+        "meaning": "n.风，风声v.绕",
+        "example_sentence": "The wind is blowing strongly outside, making it chilly.>\""
+    },
+    {
+        "word": "wireless",
+        "phonetic": "/ˈwaɪərləs/",
+        "meaning": "adj.&n.无线电",
+        "example_sentence": "I prefer using wireless headphones to avoid tangled cords.>\""
+    },
+    {
+        "word": "within",
+        "phonetic": "[wɪˈðɪn]",
+        "meaning": "prep.&adv.在内",
+        "example_sentence": "I will be back within an hour.>\""
+    },
+    {
+        "word": "witness",
+        "phonetic": "['ˈwɪtnəs]",
+        "meaning": "n.目击者;证人v.目睹",
+        "example_sentence": "I witnessed a car accident on my way to work yesterday.>\""
+    },
+    {
+        "word": "wonder",
+        "phonetic": "[ˈwʌndər]",
+        "meaning": "v.想知道;诧异n.奇迹",
+        "example_sentence": "I wonder where my keys are.>\""
+    },
+    {
+        "word": "worldwide",
+        "phonetic": "/ˈwɜːrldwaɪd/",
+        "meaning": "adj.&adv.全世界的",
+        "example_sentence": "Their new album has been released worldwide and is already topping charts in multiple countries.>\""
+    },
+    {
+        "word": "worry",
+        "phonetic": "/ˈwʌri/",
+        "meaning": "v.&v.烦恼，担心",
+        "example_sentence": "I always worry about my daughter when she's out late at night.>\""
+    },
+    {
+        "word": "worship",
+        "phonetic": "/ˈwɜːrʃɪp/",
+        "meaning": "v.&n.崇拜，礼拜",
+        "example_sentence": "I worship my favorite singer by listening to his songs every day.>\""
+    },
+    {
+        "word": "worth",
+        "phonetic": "[wɜːrθ]",
+        "meaning": "n.价值adj.值的",
+        "example_sentence": "Is this shirt worth buying? It seems a little expensive.>\""
+    },
+    {
+        "word": "wound",
+        "phonetic": "/wuːnd/",
+        "meaning": "v.受伤n.伤口，创伤",
+        "example_sentence": "He accidentally wounded himself while cleaning the knife.>\""
+    },
+    {
+        "word": "wounded",
+        "phonetic": "/ˈwuːndɪd/",
+        "meaning": "adj.受伤的n.伤员",
+        "example_sentence": "After the accident, he was rushed to the hospital with a wounded leg.>\""
+    },
+    {
+        "word": "wreck",
+        "phonetic": "[rek]",
+        "meaning": "v.毁坏n.失事",
+        "example_sentence": "The storm wrecked havoc on the coast, causing many ships to sink.>\""
+    },
+    {
+        "word": "wrench",
+        "phonetic": "[rɛntʃ]",
+        "meaning": "v.拧，扭伤n.扳手",
+        "example_sentence": "I need a wrench to fix the leaky pipe in the kitchen.>\""
+    },
+    {
+        "word": "wrestle",
+        "phonetic": "/ˈrɛsəl/",
+        "meaning": "v.&n.摔交，搏斗",
+        "example_sentence": "I used to wrestle with my little brother when we were kids.>\""
+    },
+    {
+        "word": "wrinkle",
+        "phonetic": "[ˈrɪŋkəl]",
+        "meaning": "n.皱纹v.折皱",
+        "example_sentence": "My grandma always says that a smile can help you hide your wrinkles.>\""
+    },
+    {
+        "word": "xerox",
+        "phonetic": "/'zɪərɒks/",
+        "meaning": "n.&v.复印",
+        "example_sentence": "Could you please xerox this document for me? I need a copy for my records.>\""
+    },
+    {
+        "word": "x-ray",
+        "phonetic": "/ˈɛksˌreɪ/",
+        "meaning": "n.X射线v.X光检查",
+        "example_sentence": "I need to get an x-ray for my broken arm.>\""
+    },
+    {
+        "word": "yawn",
+        "phonetic": "[jɔːn]",
+        "meaning": "v.&n.打呵欠",
+        "example_sentence": "I can't stop yawning, I must be really tired.>\""
+    },
+    {
+        "word": "yearly",
+        "phonetic": "/ˈjɪrli/",
+        "meaning": "adj.&adv.每年的",
+        "example_sentence": "I get a yearly check-up at the doctor.>\""
+    },
+    {
+        "word": "yell",
+        "phonetic": "/jɛl/",
+        "meaning": "v.&n.叫嚷",
+        "example_sentence": "I could hear my neighbor yelling at his kids to come inside for dinner."
+    },
+    {
+        "word": "yellow",
+        "phonetic": "[ˈjɛloʊ]",
+        "meaning": "n.&adj.黄色(的)",
+        "example_sentence": "I like the yellow flowers in the garden."
+    },
+    {
+        "word": "yesterday",
+        "phonetic": "/ˈjɛstərdeɪ/",
+        "meaning": "n.昨天adv.在昨天",
+        "example_sentence": "I met her yesterday at the mall.>\""
+    },
+    {
+        "word": "yield",
+        "phonetic": "[jiːld]",
+        "meaning": "v.生产，屈服n.产量",
+        "example_sentence": "The farmer's hard work yielded a bountiful harvest this year.>\""
+    },
+    {
+        "word": "young",
+        "phonetic": "/jʌŋ/",
+        "meaning": "adj.年轻的n.青年人",
+        "example_sentence": "He is still very young, but he's full of energy and enthusiasm.>\""
+    }
+]
