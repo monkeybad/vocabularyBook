@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GRE高频词汇</title>
+    <script>
+        // Function to fetch and render the JSON word list
+        async function loadWords() {
+            const url = 'gre.json'; // Replace with your JSON file URL
+            try {
+                const response = await fetch(url);
+                const rawWordList = await response.json();
+                const container = document.getElementById('wordContainer');
+
+                const getIsRandom = () => {
+                    // 获取当前页面的 URL 参数
+                    const params = new URLSearchParams(window.location.search);
+                    const isLpParam = params.get('random');
+                    // 检查 is_lp 参数是否为 '1'
+                    if (isLpParam === '1') {
+                        return 1
+                    }
+                    return 0
+                }
+
+                const rerangeWordList = (wordList) => {
+                    const isRandom = getIsRandom()
+                    if (isRandom == 1) {
+                        return wordList.sort(() => Math.random() - 0.5)
+                    }
+                    return wordList
+                }
+                const wordList = rerangeWordList(rawWordList)
+                wordList.forEach((word) => {
+                    // Create the word info box
+                    const wordBox = document.createElement('div');
+                    wordBox.style.border = '1px solid #ccc';
+                    wordBox.style.margin = '10px';
+                    wordBox.style.padding = '10px';
+                    wordBox.style.borderRadius = '8px';
+                    wordBox.style.boxShadow = '2px 2px 5px rgba(0, 0, 0, 0.1)';
+
+                    // Add word
+                    const wordTitle = document.createElement('h3');
+                    wordTitle.innerText = word.word;
+                    wordBox.appendChild(wordTitle);
+
+                    // Add phonetic
+                    const phonetic = document.createElement('p');
+                    phonetic.innerText = `Phonetic: ${word.phonetic}`;
+                    wordBox.appendChild(phonetic);
+
+                    // Add meaning
+                    const meaning = document.createElement('p');
+                    meaning.innerText = `Meaning: ${word.meaning}`;
+                    wordBox.appendChild(meaning);
+
+                    // Add example sentence
+                    const example = document.createElement('p');
+                    example.innerText = `Example: ${word.example_sentence}`;
+                    wordBox.appendChild(example);
+
+                    // Add word TTS button
+                    const wordTTSButton = document.createElement('button');
+                    wordTTSButton.innerText = 'Play Word';
+                    wordTTSButton.style.marginRight = '10px';
+                    wordTTSButton.onclick = () => {
+                        const msg = new SpeechSynthesisUtterance(word.word);
+                        msg.lang = 'en-US';
+                        window.speechSynthesis.speak(msg);
+                    };
+                    wordBox.appendChild(wordTTSButton);
+
+                    // Add example TTS button
+                    const exampleTTSButton = document.createElement('button');
+                    exampleTTSButton.innerText = 'Play Example';
+                    exampleTTSButton.onclick = () => {
+                        const msg = new SpeechSynthesisUtterance(word.example_sentence);
+                        msg.lang = 'en-US';
+                        window.speechSynthesis.speak(msg);
+                    };
+                    wordBox.appendChild(exampleTTSButton);
+
+                    // Append the wordBox to the container
+                    container.appendChild(wordBox);
+                });
+            } catch (error) {
+                console.error('Error fetching or rendering the word list:', error);
+                alert('Failed to load word list.');
+            }
+        }
+
+        // Load words when the page loads
+        window.onload = loadWords;
+    </script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            padding: 20px;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        #wordContainer {
+            margin-top: 20px;
+        }
+
+        button {
+            padding: 5px 10px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>雅思7600词</h1>
+    <div id="wordContainer">
+        <!-- Words will be dynamically loaded here -->
+    </div>
+</body>
+
+</html>
